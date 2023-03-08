@@ -1,0 +1,443 @@
+[15:43:24.880704511]: Started Autorank
+[15:43:27.131143682]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[15:43:27.13208271]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[15:43:27.13351017]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[15:43:27.133613966]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[15:43:27.134794736]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[15:43:27.134910481]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[15:43:27.178912744]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[15:43:27.179029949]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[15:43:27.179915449]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[15:43:27.179993973]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[15:43:27.180968404]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[15:43:27.181083794]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[15:43:27.20062802]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[15:43:27.200743008]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[15:43:27.201571723]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[15:43:27.201652848]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[15:43:27.202324118]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[15:43:27.20240938]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[15:44:26.844713627]: Resetting daily time file
+[15:46:28.510555013]: Setting (Flatfile) DAILY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 to: 2
+[15:46:28.511416453]: Setting (Flatfile) WEEKLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 to: 296
+[15:46:28.511527158]: Setting (Flatfile) MONTHLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 to: 296
+[15:46:28.511589941]: Setting (Flatfile) TOTAL_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 to: 296
+[15:46:28.559593534]: Adding (MySQL) WEEKLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 time: 2 minutes
+[15:46:28.561559436]: Adding (MySQL) DAILY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 time: 2 minutes
+[15:46:28.561797545]: Adding (MySQL) MONTHLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 time: 2 minutes
+[15:46:28.563088799]: Adding (MySQL) TOTAL_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 time: 2 minutes
+[15:49:26.849089582]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[15:49:26.882179376]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[15:49:26.884584205]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[15:49:26.886550521]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[15:49:26.888297038]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[15:49:26.890580896]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[15:49:26.893034397]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[15:49:26.894746855]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[15:49:26.897905254]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[15:49:47.320309911]: Stopped Autorank
+[21:18:57.132676666]: Started Autorank
+[21:18:59.294029352]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[21:18:59.294720534]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[21:18:59.295674512]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[21:18:59.295765266]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[21:18:59.296535427]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[21:18:59.296614043]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[21:18:59.304866158]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[21:18:59.304967444]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[21:18:59.305986264]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[21:18:59.306092261]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[21:18:59.306722515]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[21:18:59.306822345]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[21:18:59.313774904]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[21:18:59.313899449]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[21:18:59.314901763]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[21:18:59.314983324]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[21:18:59.316643851]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[21:18:59.316741077]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[21:19:31.009937553]: Stopped Autorank
+[21:21:01.292390214]: Started Autorank
+[21:21:03.105402506]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[21:21:06.289555961]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[21:21:08.083142438]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[21:21:12.766464275]: Stopped Autorank
+[21:23:44.688492183]: Started Autorank
+[21:24:17.451983301]: Stopped Autorank
+[21:25:41.101931079]: Started Autorank
+[21:25:43.065949381]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[21:25:46.094576626]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[21:25:48.221035759]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[21:25:55.906235999]: Stopped Autorank
+[21:27:21.080500424]: Started Autorank
+[21:27:23.001027362]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[21:27:26.091521951]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[21:27:27.967465908]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[21:27:36.841323879]: Stopped Autorank
+[21:29:01.475581654]: Started Autorank
+[21:29:03.364202313]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[21:29:06.475095569]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[21:29:08.354250115]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[21:29:17.23394893]: Stopped Autorank
+[21:30:43.479796551]: Started Autorank
+[21:30:45.503277344]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[21:30:48.47270258]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[21:30:50.490386448]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[21:30:58.141451389]: Stopped Autorank
+[21:32:23.808298279]: Started Autorank
+[21:32:25.719712062]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[21:32:28.816284371]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[21:32:30.716881186]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[21:32:38.838475455]: Stopped Autorank
+[21:34:09.219080662]: Started Autorank
+[21:34:11.134207369]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[21:34:14.213915503]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[21:34:16.122189224]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[21:34:24.616125]: Stopped Autorank
+[21:35:45.744604869]: Started Autorank
+[21:35:47.768809791]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[21:35:50.748175174]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[21:35:52.737790684]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[21:36:00.321363106]: Stopped Autorank
+[21:37:26.186829874]: Started Autorank
+[21:37:28.069313733]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[21:37:31.180061591]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[21:37:33.060967242]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[21:37:41.139393818]: Stopped Autorank
+[21:39:07.548002829]: Started Autorank
+[21:39:09.557603573]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[21:39:12.543341319]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[21:39:14.556547093]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[21:39:21.974567215]: Stopped Autorank
+[21:40:54.050916304]: Started Autorank
+[21:40:55.950153584]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[21:40:59.053197747]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[21:41:00.942104807]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[21:41:06.658051343]: Stopped Autorank
+[21:42:35.207049077]: Started Autorank
+[21:42:37.202863716]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[21:42:40.196716051]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[21:42:42.172419728]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[21:42:43.5787594]: Stopped Autorank
+[21:44:08.772937815]: Started Autorank
+[21:44:10.806314172]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[21:44:13.772584075]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[21:44:15.797075044]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[21:44:24.393173377]: Stopped Autorank
+[21:45:58.879042512]: Started Autorank
+[21:46:00.711380596]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[21:46:03.894711766]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[21:46:05.634945897]: Stopped Autorank
+[21:46:05.698987481]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[21:47:36.732883881]: Started Autorank
+[21:47:38.571115776]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[21:47:41.731225912]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[21:47:43.546305557]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[21:47:49.697544682]: Stopped Autorank
+[21:49:09.710290362]: Started Autorank
+[21:49:11.61054379]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[21:49:14.7114179]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[21:49:16.58842253]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[21:49:25.669868641]: Stopped Autorank
+[21:50:51.902117413]: Started Autorank
+[21:50:54.103195629]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[21:50:56.893506275]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[21:50:59.086798452]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[21:51:06.278576755]: Stopped Autorank
+[21:52:39.65044718]: Started Autorank
+[21:52:41.528706595]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[21:52:44.641288658]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[21:52:46.510505642]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[21:52:52.04122163]: Stopped Autorank
+[21:54:19.949736744]: Started Autorank
+[21:54:21.716707832]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[21:54:24.952300453]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[21:54:26.682801796]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[21:54:33.072131503]: Stopped Autorank
+[21:55:53.549725246]: Started Autorank
+[21:55:55.256678531]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[21:55:58.560692497]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[21:56:00.234146404]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[21:56:08.792052391]: Stopped Autorank
+[21:57:43.25942223]: Started Autorank
+[21:57:45.308438201]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[21:57:48.252355229]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[21:57:49.746874075]: Stopped Autorank
+[21:57:50.261648254]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[21:59:14.152524274]: Started Autorank
+[21:59:15.951680189]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[21:59:19.142289299]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[21:59:20.931794361]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[21:59:34.113430973]: Stopped Autorank
+[22:01:02.933754956]: Started Autorank
+[22:01:04.685785212]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:01:07.934157499]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:01:09.659462573]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:01:11.101088756]: Stopped Autorank
+[22:02:35.129332434]: Started Autorank
+[22:02:36.902495531]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:02:40.123314569]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:02:41.896832549]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:02:50.799374375]: Stopped Autorank
+[22:04:17.379464167]: Started Autorank
+[22:04:19.47012895]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:04:22.388326473]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:04:24.463676631]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:04:32.51571507]: Stopped Autorank
+[22:06:04.640415588]: Started Autorank
+[22:06:06.660216849]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:06:09.635764974]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:06:11.644112002]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:06:17.031249498]: Stopped Autorank
+[22:07:46.00514206]: Started Autorank
+[22:07:48.263067899]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:07:51.000575839]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:07:53.260139046]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:07:57.767461152]: Stopped Autorank
+[22:09:17.697444951]: Started Autorank
+[22:09:19.67694525]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:09:22.708043701]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:09:24.678283355]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:09:32.550008996]: Stopped Autorank
+[22:11:06.190249705]: Started Autorank
+[22:11:08.069657549]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:11:11.186468008]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:11:13.062467142]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:11:13.434641932]: Stopped Autorank
+[22:12:45.636881825]: Started Autorank
+[22:12:47.497252024]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:12:50.63500573]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:12:52.50815738]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:12:53.396801547]: Stopped Autorank
+[22:14:26.216172814]: Started Autorank
+[22:14:28.074574942]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:14:31.224103297]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:14:33.060662879]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:14:38.850554344]: Stopped Autorank
+[22:15:58.498504324]: Started Autorank
+[22:16:00.381920227]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:16:03.50215647]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:16:05.368214077]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:16:19.783215035]: Stopped Autorank
+[22:17:39.372029015]: Started Autorank
+[22:17:41.537986938]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:17:44.382719784]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:17:46.527253019]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:18:00.737540065]: Stopped Autorank
+[22:19:20.589557989]: Started Autorank
+[22:19:22.54742588]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:19:25.583291669]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:19:27.58973915]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:19:35.535177391]: Stopped Autorank
+[22:21:10.407276401]: Started Autorank
+[22:21:12.356081554]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:21:15.403440988]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:21:16.073051631]: Stopped Autorank
+[22:21:17.316963653]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:22:49.183550324]: Started Autorank
+[22:22:51.100093413]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:22:54.175857246]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:22:56.097826949]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:22:56.314963208]: Stopped Autorank
+[22:24:29.553421162]: Started Autorank
+[22:24:31.431149229]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:24:34.555269276]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:24:36.436151513]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:24:42.033525034]: Stopped Autorank
+[22:26:10.222707613]: Started Autorank
+[22:26:12.109229159]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:26:15.223254939]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:26:17.090595682]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:26:22.741315913]: Stopped Autorank
+[22:27:50.445005198]: Started Autorank
+[22:27:52.348931422]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:27:55.442647095]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:27:57.324084163]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:28:03.430158267]: Stopped Autorank
+[22:29:31.417713722]: Started Autorank
+[22:29:33.342628934]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:29:36.422858169]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:29:38.329058019]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:29:43.917645004]: Stopped Autorank
+[22:31:12.251823877]: Started Autorank
+[22:31:14.013595078]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:31:17.247568873]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:31:19.016877734]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:31:19.827274157]: Stopped Autorank
+[22:32:44.873935396]: Started Autorank
+[22:32:46.979294141]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:32:49.867153748]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:32:51.96280918]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:33:00.621029556]: Stopped Autorank
+[22:34:26.336857797]: Started Autorank
+[22:34:28.340373607]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:34:31.348390314]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:34:33.324861769]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:34:41.574706807]: Stopped Autorank
+[22:36:14.271167861]: Started Autorank
+[22:36:16.203700068]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:36:19.272511623]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:36:21.180327095]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:36:22.38019565]: Stopped Autorank
+[22:37:47.828157864]: Started Autorank
+[22:37:49.701754895]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:37:52.827019196]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:37:54.676680138]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:38:07.852162435]: Stopped Autorank
+[22:39:32.368956301]: Started Autorank
+[22:39:34.442159077]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:39:37.361567682]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:39:39.433690161]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:39:45.249128602]: Stopped Autorank
+[22:41:23.396816685]: Started Autorank
+[22:41:25.385997073]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:41:28.391234765]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:41:30.334376981]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:41:33.708644647]: Stopped Autorank
+[22:42:58.637852842]: Started Autorank
+[22:43:00.604565361]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:43:03.624138263]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:43:05.57829965]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:43:11.471117621]: Stopped Autorank
+[22:44:43.158899429]: Started Autorank
+[22:44:45.229835424]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:44:48.154318059]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:44:50.175964846]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:44:55.389697691]: Stopped Autorank
+[22:46:23.145184548]: Started Autorank
+[22:46:25.025526994]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:46:28.140420921]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:46:30.01123185]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:46:39.536345051]: Stopped Autorank
+[22:48:12.513783139]: Started Autorank
+[22:48:14.548172624]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:48:17.51103048]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:48:19.524858506]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:48:24.655214961]: Stopped Autorank
+[22:49:48.774385566]: Started Autorank
+[22:49:50.566075893]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:49:53.789243977]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:49:55.549471077]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:50:00.489087633]: Stopped Autorank
+[22:51:28.938086613]: Started Autorank
+[22:51:31.139764549]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:51:33.928492615]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:51:36.124408095]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:51:40.6414013]: Stopped Autorank
+[22:53:11.691273173]: Started Autorank
+[22:53:13.542714827]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:53:16.682175184]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:53:18.541928976]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:53:22.51911628]: Stopped Autorank
+[22:54:47.103888505]: Started Autorank
+[22:54:49.013212726]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[22:54:52.109072555]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[22:54:54.013967888]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[22:55:03.233436962]: Stopped Autorank
+[22:59:34.628489721]: Started Autorank
+[22:59:56.775991805]: Stopped Autorank
+[23:01:00.709062541]: Started Autorank
+[23:01:36.656507821]: Stopped Autorank
+[23:02:40.894719736]: Started Autorank
+[23:03:20.138906023]: Stopped Autorank
+[23:04:25.325720882]: Started Autorank
+[23:05:03.366985517]: Stopped Autorank
+[23:06:15.310666812]: Started Autorank
+[23:06:46.164310488]: Stopped Autorank
+[23:07:49.87384284]: Started Autorank
+[23:08:27.91639629]: Stopped Autorank
+[23:09:36.971803895]: Started Autorank
+[23:10:09.138493398]: Stopped Autorank
+[23:11:11.365272657]: Started Autorank
+[23:11:50.859385626]: Stopped Autorank
+[23:12:54.485795151]: Started Autorank
+[23:13:33.104478795]: Stopped Autorank
+[23:14:36.129179765]: Started Autorank
+[23:15:15.67347319]: Stopped Autorank
+[23:16:18.83186308]: Started Autorank
+[23:16:57.70655091]: Stopped Autorank
+[23:18:00.882654539]: Started Autorank
+[23:18:40.181176604]: Stopped Autorank
+[23:19:50.689537054]: Started Autorank
+[23:19:52.445062704]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[23:19:52.44584672]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[23:19:52.446886975]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:19:52.447003965]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:19:52.448312818]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:19:52.448406112]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:19:52.4660594]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[23:19:52.466164974]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[23:19:52.46720496]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:19:52.467313276]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:19:52.46842038]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:19:52.468526764]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:19:52.500063113]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[23:19:52.500183016]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[23:19:52.501034691]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:19:52.501120779]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:19:52.502007535]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:19:52.502086289]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:20:22.252856177]: Stopped Autorank
+[23:21:32.163681121]: Started Autorank
+[23:22:04.301935951]: Stopped Autorank
+[23:23:14.973465893]: Started Autorank
+[23:23:45.619366073]: Stopped Autorank
+[23:24:49.590184995]: Started Autorank
+[23:25:27.907832352]: Stopped Autorank
+[23:26:31.020285092]: Started Autorank
+[23:27:09.086666948]: Stopped Autorank
+[23:28:12.427094736]: Started Autorank
+[23:28:51.466085235]: Stopped Autorank
+[23:29:53.03665195]: Started Autorank
+[23:30:33.588750391]: Stopped Autorank
+[23:31:42.320041294]: Started Autorank
+[23:32:13.518700087]: Stopped Autorank
+[23:33:16.82655359]: Started Autorank
+[23:33:56.037952194]: Stopped Autorank
+[23:35:06.681264256]: Started Autorank
+[23:35:38.222555713]: Stopped Autorank
+[23:36:48.658712648]: Started Autorank
+[23:37:20.649443566]: Stopped Autorank
+[23:38:31.296531687]: Started Autorank
+[23:39:02.805077051]: Stopped Autorank
+[23:40:13.956863709]: Started Autorank
+[23:40:44.096732946]: Stopped Autorank
+[23:41:47.281388358]: Started Autorank
+[23:42:26.421553658]: Stopped Autorank
+[23:43:35.560954025]: Started Autorank
+[23:44:07.457901222]: Stopped Autorank
+[23:45:11.377226273]: Started Autorank
+[23:45:49.925669857]: Stopped Autorank
+[23:46:52.163827433]: Started Autorank
+[23:47:31.127110946]: Stopped Autorank
+[23:48:33.275176495]: Started Autorank
+[23:49:12.921231563]: Stopped Autorank
+[23:50:15.688313254]: Started Autorank
+[23:50:17.871681863]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[23:50:17.872331883]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[23:50:17.874178711]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:50:17.87427701]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:50:17.875085978]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:50:17.875162153]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:50:17.884352608]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[23:50:17.88445921]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[23:50:17.885412989]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:50:17.885519623]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:50:17.886295552]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:50:17.886392029]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:50:17.889855372]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[23:50:17.889939204]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[23:50:17.890567355]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:50:17.89062499]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:50:17.891270868]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:50:17.891331869]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:50:54.603947351]: Stopped Autorank
+[23:51:56.778435789]: Started Autorank
+[23:52:36.90490826]: Stopped Autorank
+[23:53:48.495249554]: Started Autorank
+[23:54:19.58034024]: Stopped Autorank
+[23:55:21.524566945]: Started Autorank
+[23:56:00.847022451]: Stopped Autorank
+[23:57:10.845603518]: Started Autorank
+[23:57:41.920398844]: Stopped Autorank
+[23:58:45.473356583]: Started Autorank
+[23:59:24.203945296]: Stopped Autorank

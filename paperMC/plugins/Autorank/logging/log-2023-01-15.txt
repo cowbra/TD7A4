@@ -1,0 +1,461 @@
+[00:21:45.942026602]: Started Autorank
+[00:23:02.85214239]: Stopped Autorank
+[00:27:40.276655081]: Started Autorank
+[00:28:57.363166856]: Stopped Autorank
+[00:29:52.10718834]: Started Autorank
+[00:31:08.010178885]: Stopped Autorank
+[00:32:00.481147763]: Started Autorank
+[00:33:17.49051437]: Stopped Autorank
+[00:34:21.417292832]: Started Autorank
+[00:35:39.321726067]: Stopped Autorank
+[00:36:40.380527508]: Started Autorank
+[00:37:14.709894785]: Stopped Autorank
+[00:38:14.393630862]: Started Autorank
+[00:38:19.938817792]: Stopped Autorank
+[00:46:37.129378994]: Started Autorank
+[00:46:42.125067718]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[00:47:39.668364408]: Resetting daily time file
+[00:47:39.785947843]: Resetting weekly time file
+[00:49:15.036332305]: Setting (Flatfile) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 1
+[00:49:15.036455861]: Setting (Flatfile) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 1
+[00:49:15.03650219]: Setting (Flatfile) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 1
+[00:49:15.036538173]: Setting (Flatfile) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 1
+[00:49:26.381396718]: Stopped Autorank
+[00:54:39.743616908]: Started Autorank
+[01:01:00.137116309]: Setting (Flatfile) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 6
+[01:01:00.137938109]: Setting (Flatfile) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 6
+[01:01:00.138037361]: Setting (Flatfile) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 6
+[01:01:00.13809359]: Setting (Flatfile) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 6
+[01:01:00.183128473]: Adding (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[01:01:00.18312847]: Adding (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[01:01:00.183260618]: Adding (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[01:01:00.183128458]: Adding (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[01:04:15.713562089]: Setting (Flatfile) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 9
+[01:04:15.713722981]: Setting (Flatfile) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 9
+[01:04:15.713820461]: Setting (Flatfile) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 9
+[01:04:15.713909696]: Setting (Flatfile) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 9
+[01:04:15.781885359]: Adding (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 3 minutes
+[01:04:15.781885479]: Adding (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 3 minutes
+[01:04:15.781999447]: Adding (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 3 minutes
+[01:04:15.782790593]: Adding (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 3 minutes
+[01:11:25.545610787]: Stopped Autorank
+[01:12:25.695652833]: Started Autorank
+[11:42:47.812719642]: Stopped Autorank
+[11:43:36.978623838]: Started Autorank
+[11:43:39.418613301]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 8 minutes
+[11:43:39.420716963]: Retrieved fresh time (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 8 minutes
+[11:43:39.507942295]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 8 minutes
+[11:43:39.508056049]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 8 minutes
+[11:43:39.546934654]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 8 minutes
+[11:43:39.547045536]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 8 minutes
+[11:43:39.559022137]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 8 minutes
+[11:43:39.559121164]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 8 minutes
+[11:43:52.449402261]: Retrieved cached time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 8 minutes
+[11:44:39.12052875]: Resetting daily time file
+[11:44:39.13336431]: Retrieved cached time (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 8 minutes
+[11:44:39.137431249]: Resetting weekly time file
+[11:44:39.140616315]: Retrieved cached time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 8 minutes
+[11:48:51.434307744]: Setting (Flatfile) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 5
+[11:48:51.43662225]: Setting (Flatfile) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 5
+[11:48:51.436863669]: Setting (Flatfile) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 14
+[11:48:51.437068932]: Setting (Flatfile) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 14
+[11:48:51.438458862]: Retrieved cached time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 8 minutes
+[11:48:51.469433873]: Adding (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[11:48:51.469664664]: Adding (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[11:48:51.473030288]: Adding (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[11:48:51.469433677]: Adding (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[11:49:39.121334313]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 5 minutes
+[11:49:39.122990058]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 5 minutes
+[11:49:39.124691227]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 13 minutes
+[11:49:39.126207366]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 13 minutes
+[11:53:51.419047996]: Setting (Flatfile) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 10
+[11:53:51.419168401]: Setting (Flatfile) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 10
+[11:53:51.419227694]: Setting (Flatfile) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 19
+[11:53:51.419267989]: Setting (Flatfile) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 19
+[11:53:51.419673559]: Retrieved cached time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 13 minutes
+[11:53:51.468958161]: Adding (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[11:53:51.468957931]: Adding (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[11:53:51.4690397]: Adding (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[11:53:51.468958148]: Adding (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[11:57:09.121120024]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 10 minutes
+[11:57:09.122478344]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 10 minutes
+[11:57:09.12382132]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 18 minutes
+[11:57:09.125931392]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 18 minutes
+[11:58:51.419083981]: Setting (Flatfile) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 15
+[11:58:51.419211415]: Setting (Flatfile) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 15
+[11:58:51.419269003]: Setting (Flatfile) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 24
+[11:58:51.41932564]: Setting (Flatfile) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 24
+[11:58:51.419869264]: Retrieved cached time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 18 minutes
+[11:58:51.468936353]: Adding (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[11:58:51.468936362]: Adding (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[11:58:51.469041901]: Adding (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[11:58:51.468938177]: Adding (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[12:00:45.700479614]: Setting (Flatfile) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 17
+[12:00:45.700671298]: Setting (Flatfile) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 17
+[12:00:45.700805261]: Setting (Flatfile) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 26
+[12:00:45.700924012]: Setting (Flatfile) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 26
+[12:00:45.730368494]: Adding (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 2 minutes
+[12:00:45.730500652]: Adding (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 2 minutes
+[12:00:45.73063998]: Adding (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 2 minutes
+[12:00:45.730603588]: Adding (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 2 minutes
+[12:04:39.123654375]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 17 minutes
+[12:04:39.125207838]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 17 minutes
+[12:04:39.126070838]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 25 minutes
+[12:04:39.126877499]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 25 minutes
+[12:12:09.122318262]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 17 minutes
+[12:12:09.124048087]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 17 minutes
+[12:12:09.124783628]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 25 minutes
+[12:12:09.12585781]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 25 minutes
+[12:19:39.122122286]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 17 minutes
+[12:19:39.123820267]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 17 minutes
+[12:19:39.125415702]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 25 minutes
+[12:19:39.127288055]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 25 minutes
+[12:27:09.124654087]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 17 minutes
+[12:27:09.129013217]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 17 minutes
+[12:27:09.132830563]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 25 minutes
+[12:27:09.136862997]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 25 minutes
+[12:34:39.121981157]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 17 minutes
+[12:34:39.123338845]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 17 minutes
+[12:34:39.124440404]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 25 minutes
+[12:34:39.125759608]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 25 minutes
+[12:39:02.639220982]: Retrieved cached time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 25 minutes
+[12:42:09.122595157]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 17 minutes
+[12:42:09.124008425]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 17 minutes
+[12:42:09.125339231]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 25 minutes
+[12:42:09.126418291]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 25 minutes
+[12:44:02.219596063]: Setting (Flatfile) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 22
+[12:44:02.219811795]: Setting (Flatfile) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 22
+[12:44:02.21995666]: Setting (Flatfile) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 31
+[12:44:02.220062169]: Setting (Flatfile) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 31
+[12:44:02.220522069]: Retrieved cached time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 25 minutes
+[12:44:02.268912855]: Adding (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[12:44:02.268912953]: Adding (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[12:44:02.268898457]: Adding (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[12:44:02.268895947]: Adding (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[12:49:02.219534187]: Setting (Flatfile) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 27
+[12:49:02.219858179]: Setting (Flatfile) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 27
+[12:49:02.220025507]: Setting (Flatfile) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 36
+[12:49:02.220227705]: Setting (Flatfile) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 36
+[12:49:02.221393015]: Retrieved cached time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 25 minutes
+[12:49:02.268928204]: Adding (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[12:49:02.268928135]: Adding (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[12:49:02.26908272]: Adding (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[12:49:02.269232011]: Adding (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[12:49:39.120498242]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 27 minutes
+[12:49:39.121700552]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 27 minutes
+[12:49:39.123004067]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 35 minutes
+[12:49:39.124108109]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 35 minutes
+[12:54:02.219158457]: Setting (Flatfile) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 32
+[12:54:02.219294967]: Setting (Flatfile) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 32
+[12:54:02.219361366]: Setting (Flatfile) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 41
+[12:54:02.2194364]: Setting (Flatfile) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 41
+[12:54:02.220052081]: Retrieved cached time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 35 minutes
+[12:54:02.269115699]: Adding (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[12:54:02.269115675]: Adding (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[12:54:02.269207551]: Adding (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[12:54:02.269377957]: Adding (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[12:57:09.121010488]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 32 minutes
+[12:57:09.122350949]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 32 minutes
+[12:57:09.124047305]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 40 minutes
+[12:57:09.125482175]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 40 minutes
+[12:59:02.219446452]: Setting (Flatfile) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 37
+[12:59:02.219717808]: Setting (Flatfile) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 37
+[12:59:02.219859065]: Setting (Flatfile) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 46
+[12:59:02.219974969]: Setting (Flatfile) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 46
+[12:59:02.221052004]: Retrieved cached time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 40 minutes
+[12:59:02.268977207]: Adding (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[12:59:02.268977213]: Adding (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[12:59:02.269094404]: Adding (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[12:59:02.268977196]: Adding (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[13:04:02.219439143]: Setting (Flatfile) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 42
+[13:04:02.219663059]: Setting (Flatfile) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 42
+[13:04:02.219817126]: Setting (Flatfile) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 51
+[13:04:02.219960177]: Setting (Flatfile) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 51
+[13:04:02.222090004]: Retrieved cached time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 40 minutes
+[13:04:02.268976188]: Adding (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[13:04:02.268998961]: Adding (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[13:04:02.268976159]: Adding (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[13:04:02.269778398]: Adding (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[13:04:39.124745756]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 42 minutes
+[13:04:39.12644283]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 42 minutes
+[13:04:39.128181115]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 50 minutes
+[13:04:39.129065286]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 50 minutes
+[13:06:48.104132815]: Setting (Flatfile) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 45
+[13:06:48.104248106]: Setting (Flatfile) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 45
+[13:06:48.104309415]: Setting (Flatfile) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 54
+[13:06:48.104360024]: Setting (Flatfile) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 54
+[13:06:48.12613577]: Adding (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 3 minutes
+[13:06:48.126237928]: Adding (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 3 minutes
+[13:06:48.126930642]: Adding (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 3 minutes
+[13:06:48.127198519]: Adding (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 3 minutes
+[13:06:54.43257933]: Retrieved cached time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 50 minutes
+[13:07:38.946453338]: Retrieved cached time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 50 minutes
+[13:12:09.121545467]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 45 minutes
+[13:12:09.123342946]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 45 minutes
+[13:12:09.124699928]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 53 minutes
+[13:12:09.125594114]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 53 minutes
+[13:12:38.66937807]: Setting (Flatfile) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 50
+[13:12:38.669645326]: Setting (Flatfile) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 50
+[13:12:38.669783996]: Setting (Flatfile) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 59
+[13:12:38.669903077]: Setting (Flatfile) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 59
+[13:12:38.670451192]: Retrieved cached time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 53 minutes
+[13:12:38.7189619]: Adding (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[13:12:38.718989098]: Adding (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[13:12:38.720336839]: Adding (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[13:12:38.719001046]: Adding (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[13:20:53.383816837]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 50 minutes
+[13:20:53.385628395]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 50 minutes
+[13:20:53.388273637]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 58 minutes
+[13:20:53.389635674]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 58 minutes
+[13:22:01.659750294]: Setting (Flatfile) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 55
+[13:22:01.659836442]: Setting (Flatfile) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 55
+[13:22:01.65988043]: Setting (Flatfile) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 64
+[13:22:01.659925903]: Setting (Flatfile) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 64
+[13:22:01.660139172]: Retrieved cached time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 58 minutes
+[13:22:01.722007169]: Adding (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[13:22:01.722206586]: Adding (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[13:22:01.72242891]: Adding (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[13:22:01.72251289]: Adding (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[13:26:59.441206941]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 55 minutes
+[13:26:59.442710409]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 55 minutes
+[13:26:59.44361208]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 63 minutes
+[13:26:59.444546292]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 63 minutes
+[13:32:33.729512738]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 55 minutes
+[13:32:33.735213936]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 55 minutes
+[13:32:33.736328543]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 63 minutes
+[13:32:33.73754291]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 63 minutes
+[13:33:40.727051867]: Setting (Flatfile) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 60
+[13:33:40.727153243]: Setting (Flatfile) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 60
+[13:33:40.727188679]: Setting (Flatfile) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 69
+[13:33:40.727214213]: Setting (Flatfile) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 69
+[13:33:40.727930961]: Retrieved cached time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 63 minutes
+[13:33:40.783103119]: Adding (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[13:33:40.783351476]: Adding (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[13:33:40.784487918]: Adding (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[13:33:40.797098383]: Adding (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[13:38:13.589882509]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 60 minutes
+[13:38:13.590468505]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 60 minutes
+[13:38:13.591004725]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 68 minutes
+[13:38:13.59149137]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 68 minutes
+[13:44:03.859739071]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 60 minutes
+[13:44:03.860919426]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 60 minutes
+[13:44:03.861712046]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 68 minutes
+[13:44:03.862677419]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 68 minutes
+[13:45:11.961261735]: Setting (Flatfile) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 65
+[13:45:11.961345046]: Setting (Flatfile) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 65
+[13:45:11.961377419]: Setting (Flatfile) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 74
+[13:45:11.961402877]: Setting (Flatfile) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 74
+[13:45:11.961559114]: Retrieved cached time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 68 minutes
+[13:45:12.035246787]: Adding (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[13:45:12.035457988]: Adding (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[13:45:12.035910106]: Adding (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[13:45:12.040964776]: Adding (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[13:49:43.501191551]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 65 minutes
+[13:49:43.50346358]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 65 minutes
+[13:49:43.504722145]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 73 minutes
+[13:49:43.507257376]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 73 minutes
+[13:53:22.105146409]: Setting (Flatfile) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 73
+[13:53:22.105208603]: Setting (Flatfile) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 73
+[13:53:22.10523582]: Setting (Flatfile) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 82
+[13:53:22.105259131]: Setting (Flatfile) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 82
+[13:59:28.543995214]: Stopped Autorank
+[14:00:16.166288847]: Started Autorank
+[14:00:18.820007075]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 65 minutes
+[14:00:18.822233588]: Retrieved fresh time (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 65 minutes
+[14:00:18.833339515]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 65 minutes
+[14:00:18.837292666]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 65 minutes
+[14:00:18.852309323]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 73 minutes
+[14:00:18.852414436]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 73 minutes
+[14:00:18.856520083]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 73 minutes
+[14:00:18.856661797]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 73 minutes
+[14:00:26.578548464]: Retrieved cached time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 73 minutes
+[14:03:31.958224636]: Setting (Flatfile) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 76
+[14:03:31.958791844]: Setting (Flatfile) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 76
+[14:03:31.958853618]: Setting (Flatfile) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 85
+[14:03:31.958891918]: Setting (Flatfile) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 85
+[14:03:32.047065767]: Adding (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 3 minutes
+[14:03:32.0491244]: Adding (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 3 minutes
+[14:03:32.052254463]: Adding (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 3 minutes
+[14:03:32.052551365]: Adding (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 3 minutes
+[14:03:46.517921222]: Retrieved cached time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 73 minutes
+[14:05:46.011263982]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 68 minutes
+[14:05:46.017812528]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 68 minutes
+[14:05:46.019234623]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 76 minutes
+[14:05:46.020192607]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 76 minutes
+[14:11:03.686970059]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 68 minutes
+[14:11:03.68972921]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 68 minutes
+[14:11:03.697333455]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 76 minutes
+[14:11:03.703720118]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 76 minutes
+[14:16:11.926287752]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 68 minutes
+[14:16:11.927476855]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 68 minutes
+[14:16:11.938024177]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 76 minutes
+[14:16:11.938762398]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 76 minutes
+[14:21:29.946706376]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 68 minutes
+[14:21:29.948411135]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 68 minutes
+[14:21:29.961386912]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 76 minutes
+[14:21:29.963787347]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 76 minutes
+[14:26:55.415100601]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 68 minutes
+[14:26:55.416403022]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 68 minutes
+[14:26:55.422631721]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 76 minutes
+[14:26:55.424677161]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 76 minutes
+[14:32:23.251561331]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 68 minutes
+[14:32:23.254035754]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 68 minutes
+[14:32:23.255616289]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 76 minutes
+[14:32:23.256671519]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 76 minutes
+[14:37:53.142029417]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 68 minutes
+[14:37:53.142921416]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 68 minutes
+[14:37:53.144056544]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 76 minutes
+[14:37:53.144959917]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 76 minutes
+[14:43:22.557076269]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 68 minutes
+[14:43:22.570305485]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 68 minutes
+[14:43:22.571264077]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 76 minutes
+[14:43:22.57326492]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 76 minutes
+[14:44:39.215939836]: Retrieved cached time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 76 minutes
+[14:49:01.978707916]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 68 minutes
+[14:49:01.979655267]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 68 minutes
+[14:49:01.991383239]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 76 minutes
+[14:49:01.99501518]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 76 minutes
+[14:49:16.27738365]: Setting (Flatfile) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 81
+[14:49:16.277490241]: Setting (Flatfile) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 81
+[14:49:16.277527194]: Setting (Flatfile) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 90
+[14:49:16.277558572]: Setting (Flatfile) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 90
+[14:49:16.333892647]: Adding (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[14:49:16.335444592]: Adding (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[14:49:16.335444752]: Adding (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[14:49:16.335609296]: Adding (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[14:54:41.735028305]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 73 minutes
+[14:54:41.73631206]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 73 minutes
+[14:54:41.737894207]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 81 minutes
+[14:54:41.742056074]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 81 minutes
+[15:00:01.076362408]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 73 minutes
+[15:00:01.079541841]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 73 minutes
+[15:00:01.083267556]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 81 minutes
+[15:00:01.087219285]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 81 minutes
+[15:07:31.07624895]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 73 minutes
+[15:07:31.079363796]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 73 minutes
+[15:07:31.082562258]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 81 minutes
+[15:07:31.085557843]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 81 minutes
+[15:15:01.076491869]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 73 minutes
+[15:15:01.079964579]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 73 minutes
+[15:15:01.083362561]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 81 minutes
+[15:15:01.086073998]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 81 minutes
+[15:22:31.083332688]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 73 minutes
+[15:22:31.089441521]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 73 minutes
+[15:22:31.092222384]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 81 minutes
+[15:22:31.09415708]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 81 minutes
+[15:30:01.076825997]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 73 minutes
+[15:30:01.080092171]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 73 minutes
+[15:30:01.083424207]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 81 minutes
+[15:30:01.086281695]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 81 minutes
+[15:37:31.076497799]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 73 minutes
+[15:37:31.079187662]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 73 minutes
+[15:37:31.082327772]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 81 minutes
+[15:37:31.08513442]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 81 minutes
+[15:40:00.268506154]: Retrieved cached time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 81 minutes
+[15:43:12.326595296]: Retrieved cached time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 81 minutes
+[15:43:46.033824536]: Retrieved cached time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 81 minutes
+[15:45:01.075666307]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 73 minutes
+[15:45:01.078870418]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 73 minutes
+[15:45:01.081698534]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 81 minutes
+[15:45:01.084270651]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 81 minutes
+[15:48:45.775577035]: Setting (Flatfile) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 86
+[15:48:45.775848697]: Setting (Flatfile) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 86
+[15:48:45.775998618]: Setting (Flatfile) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 95
+[15:48:45.776176434]: Setting (Flatfile) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 95
+[15:48:45.777400706]: Retrieved cached time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 81 minutes
+[15:48:45.82873645]: Adding (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[15:48:45.828736596]: Adding (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[15:48:45.828835583]: Adding (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[15:48:45.831281956]: Adding (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[15:52:31.077178254]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 78 minutes
+[15:52:31.080926405]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 78 minutes
+[15:52:31.083405452]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 86 minutes
+[15:52:31.085912392]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 86 minutes
+[15:53:45.772372684]: Setting (Flatfile) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 91
+[15:53:45.772656013]: Setting (Flatfile) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 91
+[15:53:45.772808083]: Setting (Flatfile) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 100
+[15:53:45.772986872]: Setting (Flatfile) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 100
+[15:53:45.773593441]: Retrieved cached time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 86 minutes
+[15:53:45.821941621]: Adding (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[15:53:45.821941585]: Adding (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[15:53:45.821941603]: Adding (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[15:53:45.822958583]: Adding (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[15:55:32.398648387]: Setting (Flatfile) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 93
+[15:55:32.398856464]: Setting (Flatfile) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 93
+[15:55:32.398984428]: Setting (Flatfile) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 102
+[15:55:32.399090262]: Setting (Flatfile) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 102
+[15:55:32.431534212]: Adding (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 2 minutes
+[15:55:32.431534401]: Adding (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 2 minutes
+[15:55:32.432211599]: Adding (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 2 minutes
+[15:55:32.432379739]: Adding (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 2 minutes
+[16:00:01.077971926]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 85 minutes
+[16:00:01.079239183]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 85 minutes
+[16:00:01.080169883]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 93 minutes
+[16:00:01.081036336]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 93 minutes
+[16:07:31.076688587]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 85 minutes
+[16:07:31.079369485]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 85 minutes
+[16:07:31.082096144]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 93 minutes
+[16:07:31.08455909]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 93 minutes
+[16:15:01.076445114]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 85 minutes
+[16:15:01.079531999]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 85 minutes
+[16:15:01.082421924]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 93 minutes
+[16:15:01.085571663]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 93 minutes
+[16:22:31.077363692]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 85 minutes
+[16:22:31.08054622]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 85 minutes
+[16:22:31.084179126]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 93 minutes
+[16:22:31.087888654]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 93 minutes
+[16:30:01.076141589]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 85 minutes
+[16:30:01.079426798]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 85 minutes
+[16:30:01.082527203]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 93 minutes
+[16:30:01.085738675]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 93 minutes
+[16:37:31.075929593]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 85 minutes
+[16:37:31.078881661]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 85 minutes
+[16:37:31.081705531]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 93 minutes
+[16:37:31.084458689]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 93 minutes
+[16:45:01.076642244]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 85 minutes
+[16:45:01.077778609]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 85 minutes
+[16:45:01.078576808]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 93 minutes
+[16:45:01.079200164]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 93 minutes
+[16:52:00.430969008]: Stopped Autorank
+[18:51:17.703283943]: Started Autorank
+[18:51:19.749923046]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 85 minutes
+[18:51:19.752027792]: Retrieved fresh time (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 85 minutes
+[18:51:19.807541594]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 85 minutes
+[18:51:19.807678541]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 85 minutes
+[18:51:19.867811815]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 93 minutes
+[18:51:19.867915459]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 93 minutes
+[18:51:19.893891736]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 93 minutes
+[18:51:19.893994743]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 93 minutes
+[18:52:44.216274481]: Retrieved cached time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 93 minutes
+[18:57:19.460573692]: Fetched fresh (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 85 minutes
+[18:57:19.464355436]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 85 minutes
+[18:57:19.467838691]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 93 minutes
+[18:57:19.471223421]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 93 minutes
+[18:57:43.110769661]: Setting (Flatfile) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 98
+[18:57:43.111449804]: Setting (Flatfile) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 98
+[18:57:43.111529002]: Setting (Flatfile) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 107
+[18:57:43.111568184]: Setting (Flatfile) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 107
+[18:57:43.111818838]: Retrieved cached time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 93 minutes
+[18:57:43.155287766]: Adding (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[18:57:43.155286959]: Adding (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[18:57:43.155352057]: Adding (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[18:57:43.155285787]: Adding (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[19:02:43.105376083]: Setting (Flatfile) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 103
+[19:02:43.105570532]: Setting (Flatfile) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 103
+[19:02:43.105703377]: Setting (Flatfile) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 112
+[19:02:43.105790333]: Setting (Flatfile) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 112
+[19:02:43.106507481]: Retrieved cached time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 93 minutes
+[19:02:43.155008681]: Adding (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[19:02:43.155012542]: Adding (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[19:02:43.155004413]: Adding (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[19:02:43.155020981]: Adding (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 5 minutes
+[19:03:57.089796472]: Setting (Flatfile) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 104
+[19:03:57.089931168]: Setting (Flatfile) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 104
+[19:03:57.090003252]: Setting (Flatfile) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 113
+[19:03:57.090067459]: Setting (Flatfile) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 to: 113
+[19:03:57.11487614]: Adding (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 1 minutes
+[19:03:57.116091351]: Adding (MySQL) DAILY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 1 minutes
+[19:03:57.116265969]: Adding (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 1 minutes
+[19:03:57.116362856]: Adding (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151 time: 1 minutes
+[19:04:26.336873376]: Stopped Autorank
+[19:05:01.642850152]: Started Autorank

@@ -1,0 +1,432 @@
+[18:05:51.187390636]: Started Autorank
+[18:05:53.539936438]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[18:05:56.193245575]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[18:05:58.528185031]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[18:08:14.630962393]: Stopped Autorank
+[18:10:24.265851317]: Started Autorank
+[18:10:26.586637167]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[18:10:29.258715889]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[18:10:31.542018156]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[18:35:56.898983357]: Stopped Autorank
+[18:48:45.520316673]: Started Autorank
+[18:48:47.875858705]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[18:48:50.511896692]: Warning occurred: The MySQL storage provider could not be started. Check for errors!
+[18:48:52.854424959]: Warning occurred: Could not attach to your MySQL database to retrieve playerdata
+[18:52:55.673343216]: Stopped Autorank
+[19:08:08.313820893]: Started Autorank
+[19:08:19.715440777]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[19:20:46.754367177]: Stopped Autorank
+[19:24:23.353153396]: Started Autorank
+[19:24:26.182108212]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[19:24:26.216339449]: Fetched fresh (MySQL) DAILY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07: 6 minutes
+[19:24:26.21706704]: Retrieved fresh time (MySQL) DAILY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07: 6 minutes
+[19:24:26.227914215]: Fetched fresh (MySQL) DAILY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 96 minutes
+[19:24:26.228032866]: Retrieved fresh time (MySQL) DAILY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 96 minutes
+[19:24:26.244654883]: Fetched fresh (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 215 minutes
+[19:24:26.244795141]: Retrieved fresh time (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 215 minutes
+[19:24:26.285628433]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[19:24:26.28573423]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[19:24:26.28836882]: Fetched fresh (MySQL) WEEKLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07: 310 minutes
+[19:24:26.288483893]: Retrieved fresh time (MySQL) WEEKLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07: 310 minutes
+[19:24:26.290346914]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[19:24:26.290445985]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[19:24:26.293022449]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[19:24:26.293129877]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[19:24:26.335282707]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[19:24:26.335400564]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[19:24:26.336481647]: Fetched fresh (MySQL) MONTHLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07: 310 minutes
+[19:24:26.336574752]: Retrieved fresh time (MySQL) MONTHLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07: 310 minutes
+[19:24:26.337855848]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[19:24:26.337964029]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[19:24:26.339012983]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[19:24:26.339095805]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[19:24:26.392918107]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[19:24:26.393031284]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[19:24:26.394156145]: Fetched fresh (MySQL) TOTAL_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07: 310 minutes
+[19:24:26.394253595]: Retrieved fresh time (MySQL) TOTAL_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07: 310 minutes
+[19:24:26.395413111]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[19:24:26.395536044]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[19:24:26.396751607]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[19:24:26.396862617]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[19:30:25.656792028]: Fetched fresh (MySQL) DAILY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07: 6 minutes
+[19:30:25.658052085]: Fetched fresh (MySQL) WEEKLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07: 310 minutes
+[19:30:25.659213391]: Fetched fresh (MySQL) MONTHLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07: 310 minutes
+[19:30:25.660362119]: Fetched fresh (MySQL) TOTAL_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07: 310 minutes
+[19:30:25.66137207]: Fetched fresh (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 215 minutes
+[19:30:25.66253905]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[19:30:25.663572304]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[19:30:25.664599155]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[19:30:25.665456544]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[19:30:25.666235937]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[19:30:25.667112384]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[19:30:25.667956989]: Fetched fresh (MySQL) DAILY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 96 minutes
+[19:30:25.668837114]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[19:30:25.669657377]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[19:30:25.670509457]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[19:33:29.480842207]: Stopped Autorank
+[19:34:44.965078983]: Started Autorank
+[19:34:47.409666972]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[19:38:21.557459617]: Started Autorank
+[19:38:24.324067895]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[19:44:04.312708883]: Started Autorank
+[19:44:07.559431733]: Stopped Autorank
+[19:45:25.354808107]: Started Autorank
+[19:45:27.424651727]: Stopped Autorank
+[19:46:50.980818754]: Started Autorank
+[19:46:53.060313873]: Stopped Autorank
+[19:48:21.271350344]: Started Autorank
+[19:48:23.333214998]: Stopped Autorank
+[19:49:53.247018193]: Started Autorank
+[19:49:55.538611664]: Stopped Autorank
+[19:51:23.353727394]: Started Autorank
+[19:51:25.293700901]: Stopped Autorank
+[19:52:52.817998997]: Started Autorank
+[19:52:55.374762159]: Stopped Autorank
+[19:54:17.779087154]: Started Autorank
+[19:54:19.839600802]: Stopped Autorank
+[19:55:49.176871004]: Started Autorank
+[19:55:51.467315849]: Stopped Autorank
+[19:57:13.527988897]: Started Autorank
+[19:57:15.533810492]: Stopped Autorank
+[19:58:40.069443566]: Started Autorank
+[19:58:42.402171069]: Stopped Autorank
+[19:59:58.648077025]: Started Autorank
+[20:00:00.940617256]: Stopped Autorank
+[20:01:28.085952267]: Started Autorank
+[20:01:30.75364294]: Stopped Autorank
+[20:02:58.543806531]: Started Autorank
+[20:03:00.681037456]: Stopped Autorank
+[20:04:28.978200992]: Started Autorank
+[20:04:31.163088329]: Stopped Autorank
+[20:05:54.413915107]: Started Autorank
+[20:05:56.690162431]: Stopped Autorank
+[20:07:15.647174123]: Started Autorank
+[20:07:18.182504842]: Stopped Autorank
+[20:08:40.915785229]: Started Autorank
+[20:08:43.182516764]: Stopped Autorank
+[20:10:03.294441803]: Started Autorank
+[20:10:05.818483269]: Stopped Autorank
+[20:11:26.511905581]: Started Autorank
+[20:11:28.620096321]: Stopped Autorank
+[20:12:54.303815105]: Started Autorank
+[20:12:56.307458259]: Stopped Autorank
+[20:14:28.32459136]: Started Autorank
+[20:14:30.579139002]: Stopped Autorank
+[20:15:58.874621957]: Started Autorank
+[20:16:00.893456446]: Stopped Autorank
+[20:17:24.408078298]: Started Autorank
+[20:17:26.986410815]: Stopped Autorank
+[20:18:50.636978965]: Started Autorank
+[20:18:53.215937709]: Stopped Autorank
+[20:20:09.561212232]: Started Autorank
+[20:20:11.797297295]: Stopped Autorank
+[20:21:40.023410232]: Started Autorank
+[20:21:42.651735089]: Stopped Autorank
+[20:23:01.549468648]: Started Autorank
+[20:23:03.684669313]: Stopped Autorank
+[20:24:28.619660694]: Started Autorank
+[20:24:30.9094646]: Stopped Autorank
+[20:26:01.800866876]: Started Autorank
+[20:26:04.334119038]: Stopped Autorank
+[20:27:21.581101465]: Started Autorank
+[20:27:23.945524574]: Stopped Autorank
+[20:28:49.787573138]: Started Autorank
+[20:28:51.8850529]: Stopped Autorank
+[20:30:13.201927828]: Started Autorank
+[20:30:15.540827226]: Stopped Autorank
+[20:31:38.325697051]: Started Autorank
+[20:31:40.557580451]: Stopped Autorank
+[20:32:59.331376698]: Started Autorank
+[20:33:01.672211468]: Stopped Autorank
+[20:34:22.8607773]: Started Autorank
+[20:34:24.923706736]: Stopped Autorank
+[20:35:45.607249124]: Started Autorank
+[20:35:47.650896816]: Stopped Autorank
+[20:37:11.349807716]: Started Autorank
+[20:37:13.480062145]: Stopped Autorank
+[20:38:34.26442791]: Started Autorank
+[20:38:36.35825532]: Stopped Autorank
+[20:40:06.459966932]: Started Autorank
+[20:40:09.141202198]: Stopped Autorank
+[20:41:37.637537879]: Started Autorank
+[20:41:39.855568365]: Stopped Autorank
+[20:42:57.639193439]: Started Autorank
+[20:42:59.905104985]: Stopped Autorank
+[20:44:26.055875355]: Started Autorank
+[20:44:28.116264186]: Stopped Autorank
+[20:45:57.60357629]: Started Autorank
+[20:46:00.486094172]: Stopped Autorank
+[20:47:25.733508068]: Started Autorank
+[20:47:27.683555592]: Stopped Autorank
+[20:48:54.32220951]: Started Autorank
+[20:48:56.535848297]: Stopped Autorank
+[20:50:20.38403335]: Started Autorank
+[20:50:22.853761293]: Stopped Autorank
+[20:51:48.07853097]: Started Autorank
+[20:51:50.194039062]: Stopped Autorank
+[20:53:10.987218613]: Started Autorank
+[20:53:13.114316731]: Stopped Autorank
+[20:54:35.985354534]: Started Autorank
+[20:54:38.252764395]: Stopped Autorank
+[20:55:57.889759614]: Started Autorank
+[20:55:59.990403155]: Stopped Autorank
+[20:57:19.766411399]: Started Autorank
+[20:57:22.20108921]: Stopped Autorank
+[20:58:44.959095915]: Started Autorank
+[20:58:47.233740931]: Stopped Autorank
+[21:00:18.210387516]: Started Autorank
+[21:00:20.305853179]: Stopped Autorank
+[21:01:39.895065554]: Started Autorank
+[21:01:42.0841742]: Stopped Autorank
+[21:03:14.900233973]: Started Autorank
+[21:03:16.947233321]: Stopped Autorank
+[21:04:35.239784717]: Started Autorank
+[21:04:37.671287959]: Stopped Autorank
+[21:06:04.950500082]: Started Autorank
+[21:06:07.535747912]: Stopped Autorank
+[21:07:30.849324986]: Started Autorank
+[21:07:33.106130472]: Stopped Autorank
+[21:08:54.88492004]: Started Autorank
+[21:08:57.063922744]: Stopped Autorank
+[21:10:18.2119619]: Started Autorank
+[21:10:20.240046]: Stopped Autorank
+[21:11:40.694974645]: Started Autorank
+[21:11:42.632568896]: Stopped Autorank
+[21:13:02.802805909]: Started Autorank
+[21:13:04.745647757]: Stopped Autorank
+[21:14:24.658423467]: Started Autorank
+[21:14:27.412521367]: Stopped Autorank
+[21:15:48.289641456]: Started Autorank
+[21:15:50.337176624]: Stopped Autorank
+[21:17:13.157572739]: Started Autorank
+[21:17:15.407929102]: Stopped Autorank
+[21:18:40.192115758]: Started Autorank
+[21:18:42.702634053]: Stopped Autorank
+[21:20:04.126402807]: Started Autorank
+[21:20:06.207394246]: Stopped Autorank
+[21:21:28.441505577]: Started Autorank
+[21:21:30.635427951]: Stopped Autorank
+[21:22:57.310704561]: Started Autorank
+[21:22:59.554614682]: Stopped Autorank
+[21:24:29.592493858]: Started Autorank
+[21:24:31.866770744]: Stopped Autorank
+[21:25:54.615177311]: Started Autorank
+[21:25:56.788724912]: Stopped Autorank
+[21:27:21.419071162]: Started Autorank
+[21:27:23.559151938]: Stopped Autorank
+[21:28:45.570767824]: Started Autorank
+[21:28:47.897751443]: Stopped Autorank
+[21:30:09.760971115]: Started Autorank
+[21:30:11.67669912]: Stopped Autorank
+[21:31:30.702504646]: Started Autorank
+[21:31:32.895444637]: Stopped Autorank
+[21:32:57.675480923]: Started Autorank
+[21:33:00.038515453]: Stopped Autorank
+[21:34:21.2903054]: Started Autorank
+[21:34:23.3982097]: Stopped Autorank
+[21:35:39.224575582]: Started Autorank
+[21:35:41.317019433]: Stopped Autorank
+[21:37:03.958722603]: Started Autorank
+[21:37:06.202360129]: Stopped Autorank
+[21:38:27.009639429]: Started Autorank
+[21:38:29.021902386]: Stopped Autorank
+[21:39:50.205394647]: Started Autorank
+[21:39:52.380141618]: Stopped Autorank
+[21:41:21.253512759]: Started Autorank
+[21:41:23.646959718]: Stopped Autorank
+[21:42:47.99028217]: Started Autorank
+[21:42:50.20126216]: Stopped Autorank
+[21:44:16.62170513]: Started Autorank
+[21:44:18.674433779]: Stopped Autorank
+[21:45:39.014809051]: Started Autorank
+[21:45:40.995922181]: Stopped Autorank
+[21:47:01.56257193]: Started Autorank
+[21:47:03.761158431]: Stopped Autorank
+[21:48:28.271219422]: Started Autorank
+[21:48:30.479795946]: Stopped Autorank
+[21:50:02.386636638]: Started Autorank
+[21:50:04.595506008]: Stopped Autorank
+[21:51:29.072424756]: Started Autorank
+[21:51:30.938721442]: Stopped Autorank
+[21:52:53.712352764]: Started Autorank
+[21:52:55.736492277]: Stopped Autorank
+[21:54:18.349669186]: Started Autorank
+[21:54:20.607590602]: Stopped Autorank
+[21:55:52.693537517]: Started Autorank
+[21:55:54.983300241]: Stopped Autorank
+[21:57:19.348700679]: Started Autorank
+[21:57:21.457049312]: Stopped Autorank
+[21:58:43.707467424]: Started Autorank
+[21:58:46.044343282]: Stopped Autorank
+[22:00:06.043969332]: Started Autorank
+[22:00:08.318436351]: Stopped Autorank
+[22:01:26.851875377]: Started Autorank
+[22:01:28.942780989]: Stopped Autorank
+[22:02:51.661346071]: Started Autorank
+[22:02:53.740148253]: Stopped Autorank
+[22:04:15.528460348]: Started Autorank
+[22:04:17.599465225]: Stopped Autorank
+[22:05:45.188593417]: Started Autorank
+[22:05:47.751353927]: Stopped Autorank
+[22:07:13.109749099]: Started Autorank
+[22:07:15.316837264]: Stopped Autorank
+[22:08:42.608529925]: Started Autorank
+[22:08:45.15565758]: Stopped Autorank
+[22:10:07.208158969]: Started Autorank
+[22:10:09.528093913]: Stopped Autorank
+[22:11:30.88723277]: Started Autorank
+[22:11:33.253869523]: Stopped Autorank
+[22:12:54.701798952]: Started Autorank
+[22:12:56.724574702]: Stopped Autorank
+[22:14:17.004125333]: Started Autorank
+[22:14:19.234741673]: Stopped Autorank
+[22:15:42.453280524]: Started Autorank
+[22:15:44.608848489]: Stopped Autorank
+[22:17:03.804633873]: Started Autorank
+[22:17:05.905972329]: Stopped Autorank
+[22:18:27.245098552]: Started Autorank
+[22:18:29.419995047]: Stopped Autorank
+[22:19:50.681812999]: Started Autorank
+[22:19:53.079190759]: Stopped Autorank
+[22:21:20.527694155]: Started Autorank
+[22:21:22.654029451]: Stopped Autorank
+[22:22:43.963881852]: Started Autorank
+[22:22:46.042228531]: Stopped Autorank
+[22:24:04.922326883]: Started Autorank
+[22:24:07.438210675]: Stopped Autorank
+[22:25:27.694544108]: Started Autorank
+[22:25:29.849927756]: Stopped Autorank
+[22:27:01.009370611]: Started Autorank
+[22:27:03.227933827]: Stopped Autorank
+[22:28:26.884220836]: Started Autorank
+[22:28:29.255701418]: Stopped Autorank
+[22:29:53.873108951]: Started Autorank
+[22:29:56.049000464]: Stopped Autorank
+[22:31:11.598120176]: Started Autorank
+[22:31:13.753960453]: Stopped Autorank
+[22:32:35.46231995]: Started Autorank
+[22:32:37.883093894]: Stopped Autorank
+[22:34:07.633759]: Started Autorank
+[22:34:09.865270676]: Stopped Autorank
+[22:35:32.098817237]: Started Autorank
+[22:35:34.473311885]: Stopped Autorank
+[22:37:00.986623187]: Started Autorank
+[22:37:03.195570703]: Stopped Autorank
+[22:38:21.278479353]: Started Autorank
+[22:38:23.658354746]: Stopped Autorank
+[22:39:48.283003369]: Started Autorank
+[22:39:50.524258186]: Stopped Autorank
+[22:41:08.812813152]: Started Autorank
+[22:41:10.774591864]: Stopped Autorank
+[22:42:39.770503474]: Started Autorank
+[22:42:41.834850964]: Stopped Autorank
+[22:44:05.672040035]: Started Autorank
+[22:44:07.586401723]: Stopped Autorank
+[22:45:29.141249551]: Started Autorank
+[22:45:31.086616304]: Stopped Autorank
+[22:46:49.498545744]: Started Autorank
+[22:46:51.549613223]: Stopped Autorank
+[22:48:15.113390613]: Started Autorank
+[22:48:17.141233549]: Stopped Autorank
+[22:49:39.897938729]: Started Autorank
+[22:49:42.004759989]: Stopped Autorank
+[22:51:00.387871204]: Started Autorank
+[22:51:02.54932664]: Stopped Autorank
+[22:52:19.272110708]: Started Autorank
+[22:52:21.475818833]: Stopped Autorank
+[22:53:42.165996022]: Started Autorank
+[22:53:44.473157153]: Stopped Autorank
+[22:55:03.078435731]: Started Autorank
+[22:55:05.158615034]: Stopped Autorank
+[22:56:32.884510962]: Started Autorank
+[22:56:34.927111626]: Stopped Autorank
+[22:57:56.2184974]: Started Autorank
+[22:57:58.736318989]: Stopped Autorank
+[22:59:20.414704633]: Started Autorank
+[22:59:22.421345472]: Stopped Autorank
+[23:00:44.182078452]: Started Autorank
+[23:00:46.219516387]: Stopped Autorank
+[23:02:06.49887321]: Started Autorank
+[23:02:08.732491224]: Stopped Autorank
+[23:03:36.621409425]: Started Autorank
+[23:03:38.893074711]: Stopped Autorank
+[23:04:57.442328632]: Started Autorank
+[23:04:59.781117358]: Stopped Autorank
+[23:06:18.801502295]: Started Autorank
+[23:06:21.076049839]: Stopped Autorank
+[23:07:39.156886901]: Started Autorank
+[23:07:41.251287269]: Stopped Autorank
+[23:09:02.884968291]: Started Autorank
+[23:09:05.070108933]: Stopped Autorank
+[23:10:26.260926306]: Started Autorank
+[23:10:28.598195049]: Stopped Autorank
+[23:11:48.719279672]: Started Autorank
+[23:11:51.237642779]: Stopped Autorank
+[23:13:13.127791913]: Started Autorank
+[23:13:15.203913873]: Stopped Autorank
+[23:14:35.326121644]: Started Autorank
+[23:14:37.372939666]: Stopped Autorank
+[23:16:03.263646633]: Started Autorank
+[23:16:05.451880692]: Stopped Autorank
+[23:17:29.316382738]: Started Autorank
+[23:17:31.326010127]: Stopped Autorank
+[23:18:50.515045586]: Started Autorank
+[23:18:52.610948582]: Stopped Autorank
+[23:20:15.84133595]: Started Autorank
+[23:20:18.039965164]: Stopped Autorank
+[23:21:39.32780094]: Started Autorank
+[23:21:41.427177389]: Stopped Autorank
+[23:23:00.125655242]: Started Autorank
+[23:23:02.266724051]: Stopped Autorank
+[23:24:25.395447128]: Started Autorank
+[23:24:27.528101566]: Stopped Autorank
+[23:25:47.693220616]: Started Autorank
+[23:25:50.086555258]: Stopped Autorank
+[23:27:11.077545052]: Started Autorank
+[23:27:13.295961626]: Stopped Autorank
+[23:28:36.247297786]: Started Autorank
+[23:28:38.330595314]: Stopped Autorank
+[23:29:56.648738436]: Started Autorank
+[23:29:58.676492284]: Stopped Autorank
+[23:31:20.097590656]: Started Autorank
+[23:31:22.247129154]: Stopped Autorank
+[23:32:51.12194304]: Started Autorank
+[23:32:53.515344962]: Stopped Autorank
+[23:34:17.694628775]: Started Autorank
+[23:34:20.149760088]: Stopped Autorank
+[23:35:40.890285911]: Started Autorank
+[23:35:43.012863301]: Stopped Autorank
+[23:37:02.58662338]: Started Autorank
+[23:37:04.792039447]: Stopped Autorank
+[23:38:25.926579609]: Started Autorank
+[23:38:28.087161995]: Stopped Autorank
+[23:39:57.704983259]: Started Autorank
+[23:40:00.003223548]: Stopped Autorank
+[23:41:17.959136675]: Started Autorank
+[23:41:20.188092655]: Stopped Autorank
+[23:42:47.744935926]: Started Autorank
+[23:42:49.855711331]: Stopped Autorank
+[23:44:09.104161937]: Started Autorank
+[23:44:11.237860825]: Stopped Autorank
+[23:45:34.314160258]: Started Autorank
+[23:45:36.354712711]: Stopped Autorank
+[23:46:56.108249783]: Started Autorank
+[23:46:58.182329426]: Stopped Autorank
+[23:48:18.714602886]: Started Autorank
+[23:48:20.875089995]: Stopped Autorank
+[23:49:43.64354169]: Started Autorank
+[23:49:46.001422366]: Stopped Autorank
+[23:51:05.639099649]: Started Autorank
+[23:51:08.141698411]: Stopped Autorank
+[23:52:28.540079672]: Started Autorank
+[23:52:30.944648365]: Stopped Autorank
+[23:53:59.405881858]: Started Autorank
+[23:54:01.438216]: Stopped Autorank
+[23:55:21.432392647]: Started Autorank
+[23:55:23.609137101]: Stopped Autorank
+[23:56:44.806849596]: Started Autorank
+[23:56:47.235437825]: Stopped Autorank
+[23:58:05.322788214]: Started Autorank
+[23:58:07.469349411]: Stopped Autorank
+[23:59:29.423371619]: Started Autorank
+[23:59:31.433760825]: Stopped Autorank

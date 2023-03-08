@@ -1,0 +1,11 @@
+# This file stores all uuids of players that Autorank has looked up before.
+# Each file stores accounts with the starting letter of the player's name.
+
+rydeenn:
+  uuid: 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8
+  updateTime: 1677625464661
+  realName: Rydeenn
+r0b1337:
+  uuid: d319763e-9412-4a85-9edf-648178a62dea
+  updateTime: 1677619616138
+  realName: r0b1337

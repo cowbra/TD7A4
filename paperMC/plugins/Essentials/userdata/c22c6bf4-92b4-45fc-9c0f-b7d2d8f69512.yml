@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.166.9.241
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677625242693
+  login: 1677625034329
+money: '1460.0'
+last-account-name: 2T_HunTeR
+geolocation: Brou-sur-Chantereine, Seine-et-Marne, France
+logoutlocation:
+  world: ebfb5284-4a20-4152-b278-694b10616f84
+  world-name: world
+  x: 6958.164385466297
+  y: -14.0
+  z: -4894.6242244647865
+  yaw: 107.81814575195312
+  pitch: -16.711647033691406
+lastlocation:
+  world: ebfb5284-4a20-4152-b278-694b10616f84
+  world-name: world
+  x: 5076.636241971665
+  y: 274.0
+  z: -2067.96573653361
+  yaw: 71.23348999023438
+  pitch: 76.79780578613281

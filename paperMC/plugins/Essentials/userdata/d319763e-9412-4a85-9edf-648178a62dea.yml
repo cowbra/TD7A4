@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.218.52.15
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677619766662
+  login: 1677619616351
+money: '280.0'
+last-account-name: r0b1337
+geolocation: Noisy-le-Grand, Seine-Saint-Denis, France
+logoutlocation:
+  world: ebfb5284-4a20-4152-b278-694b10616f84
+  world-name: world
+  x: 5805.291937701377
+  y: 66.0
+  z: -3873.148512373906
+  yaw: 82.22148895263672
+  pitch: 4.964565277099609
+lastlocation:
+  world: ebfb5284-4a20-4152-b278-694b10616f84
+  world-name: world
+  x: 5271.863761338179
+  y: 16.0
+  z: -3765.699999988079
+  yaw: -7.806243896484375
+  pitch: 7.148534774780273

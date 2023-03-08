@@ -1,0 +1,2266 @@
+[00:00:28.200414059]: Started Autorank
+[00:01:06.755751904]: Stopped Autorank
+[00:02:16.742381389]: Started Autorank
+[00:02:48.739838573]: Stopped Autorank
+[00:03:58.197586613]: Started Autorank
+[00:04:29.661742684]: Stopped Autorank
+[00:05:37.970203773]: Started Autorank
+[00:06:10.720659743]: Stopped Autorank
+[00:07:13.836285933]: Started Autorank
+[00:07:52.963380299]: Stopped Autorank
+[00:09:02.114154725]: Started Autorank
+[00:09:34.394501921]: Stopped Autorank
+[00:10:37.144536369]: Started Autorank
+[00:11:16.105345975]: Stopped Autorank
+[00:12:18.33746315]: Started Autorank
+[00:12:58.421211529]: Stopped Autorank
+[00:14:05.156912706]: Started Autorank
+[00:14:39.203886917]: Stopped Autorank
+[00:15:42.247572291]: Started Autorank
+[00:16:21.343593726]: Stopped Autorank
+[00:17:24.753782471]: Started Autorank
+[00:18:03.255196891]: Stopped Autorank
+[00:19:04.900247352]: Started Autorank
+[00:19:44.522081419]: Stopped Autorank
+[00:20:54.140211224]: Started Autorank
+[00:20:56.0744708]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[00:20:56.075063169]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[00:20:56.076247391]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[00:20:56.076341182]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[00:20:56.077205424]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[00:20:56.077306269]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[00:20:56.084462109]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[00:20:56.084556224]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[00:20:56.085320104]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[00:20:56.085399246]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[00:20:56.086068863]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[00:20:56.086142993]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[00:20:56.089992623]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[00:20:56.090090358]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[00:20:56.094213572]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[00:20:56.094315569]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[00:20:56.095592661]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[00:20:56.09581312]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[00:21:25.419580483]: Stopped Autorank
+[00:22:26.778013014]: Started Autorank
+[00:23:05.992251315]: Stopped Autorank
+[00:24:08.622239099]: Started Autorank
+[00:24:47.130118834]: Stopped Autorank
+[00:25:57.626033566]: Started Autorank
+[00:26:29.092979863]: Stopped Autorank
+[00:27:33.448171499]: Started Autorank
+[00:28:11.84595904]: Stopped Autorank
+[00:29:15.252337058]: Started Autorank
+[00:29:54.386835049]: Stopped Autorank
+[00:30:56.111980649]: Started Autorank
+[00:31:34.860994204]: Stopped Autorank
+[00:32:44.85195785]: Started Autorank
+[00:33:16.781809863]: Stopped Autorank
+[00:34:18.343343532]: Started Autorank
+[00:34:57.651869467]: Stopped Autorank
+[00:36:01.667613199]: Started Autorank
+[00:36:40.088545867]: Stopped Autorank
+[00:37:40.130778215]: Started Autorank
+[00:38:20.145655943]: Stopped Autorank
+[00:39:30.570141459]: Started Autorank
+[00:40:02.232275475]: Stopped Autorank
+[00:41:10.413691915]: Started Autorank
+[00:41:44.660278697]: Stopped Autorank
+[00:42:45.617198348]: Started Autorank
+[00:43:25.089453217]: Stopped Autorank
+[00:44:28.665811278]: Started Autorank
+[00:45:07.526686957]: Stopped Autorank
+[00:46:13.796414785]: Started Autorank
+[00:46:48.510118713]: Stopped Autorank
+[00:47:58.999257593]: Started Autorank
+[00:48:30.462019663]: Stopped Autorank
+[00:49:33.277629882]: Started Autorank
+[00:50:12.716180972]: Stopped Autorank
+[00:51:15.655999553]: Started Autorank
+[00:51:17.689814901]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[00:51:17.6907096]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[00:51:17.694721327]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[00:51:17.694831405]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[00:51:17.696122762]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[00:51:17.696261052]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[00:51:17.714136281]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[00:51:17.714269232]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[00:51:17.715157127]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[00:51:17.715238177]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[00:51:17.716727534]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[00:51:17.716817483]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[00:51:17.720264708]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[00:51:17.720361294]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[00:51:17.721157562]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[00:51:17.72125032]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[00:51:17.722360237]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[00:51:17.722449092]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[00:51:55.004430774]: Stopped Autorank
+[00:52:59.067333768]: Started Autorank
+[00:53:37.482625575]: Stopped Autorank
+[00:54:40.487962771]: Started Autorank
+[00:55:19.785665968]: Stopped Autorank
+[00:56:20.244884988]: Started Autorank
+[00:57:00.542240568]: Stopped Autorank
+[00:58:11.007067811]: Started Autorank
+[00:58:42.691116396]: Stopped Autorank
+[00:59:46.259198523]: Started Autorank
+[01:00:25.25671777]: Stopped Autorank
+[01:01:28.830476886]: Started Autorank
+[01:02:07.529755074]: Stopped Autorank
+[01:03:09.72848696]: Started Autorank
+[01:03:49.757376835]: Stopped Autorank
+[01:04:59.611622463]: Started Autorank
+[01:05:31.987086531]: Stopped Autorank
+[01:06:34.574877897]: Started Autorank
+[01:07:14.015133667]: Stopped Autorank
+[01:08:24.006450027]: Started Autorank
+[01:08:55.213595898]: Stopped Autorank
+[01:09:58.064609333]: Started Autorank
+[01:10:37.542860462]: Stopped Autorank
+[01:11:45.336673078]: Started Autorank
+[01:12:19.940405123]: Stopped Autorank
+[01:13:29.918358703]: Started Autorank
+[01:14:02.23457605]: Stopped Autorank
+[01:15:10.518893347]: Started Autorank
+[01:15:42.982172775]: Stopped Autorank
+[01:16:47.314782275]: Started Autorank
+[01:17:25.439369229]: Stopped Autorank
+[01:18:35.747640413]: Started Autorank
+[01:19:07.570645157]: Stopped Autorank
+[01:20:18.092748236]: Started Autorank
+[01:20:49.591400427]: Stopped Autorank
+[01:21:51.592361367]: Started Autorank
+[01:21:53.478449805]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[01:21:53.479231905]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[01:21:53.483653548]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[01:21:53.483768323]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[01:21:53.485884462]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[01:21:53.486006619]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[01:21:53.500002902]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[01:21:53.500128531]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[01:21:53.502159846]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[01:21:53.502317228]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[01:21:53.504433256]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[01:21:53.504593431]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[01:21:53.511088174]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[01:21:53.511182126]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[01:21:53.511916652]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[01:21:53.511996323]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[01:21:53.512680963]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[01:21:53.512759557]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[01:22:29.948601801]: Stopped Autorank
+[01:23:41.127514334]: Started Autorank
+[01:24:12.406572764]: Stopped Autorank
+[01:25:27.789916038]: Started Autorank
+[01:25:53.614657498]: Stopped Autorank
+[01:26:56.265441156]: Started Autorank
+[01:27:35.668856242]: Stopped Autorank
+[01:28:44.774989769]: Started Autorank
+[01:29:16.676375108]: Stopped Autorank
+[01:30:20.027392144]: Started Autorank
+[01:30:58.803384399]: Stopped Autorank
+[01:32:02.40079806]: Started Autorank
+[01:32:41.007718001]: Stopped Autorank
+[01:33:44.040198818]: Started Autorank
+[01:34:23.284688633]: Stopped Autorank
+[01:35:29.071794441]: Started Autorank
+[01:36:03.564283893]: Stopped Autorank
+[01:37:13.726412945]: Started Autorank
+[01:37:45.477206807]: Stopped Autorank
+[01:38:52.505875988]: Started Autorank
+[01:39:26.506938374]: Stopped Autorank
+[01:40:28.411022602]: Started Autorank
+[01:41:07.28902773]: Stopped Autorank
+[01:42:18.110491688]: Started Autorank
+[01:42:49.452457495]: Stopped Autorank
+[01:43:52.876607343]: Started Autorank
+[01:44:31.88938294]: Stopped Autorank
+[01:45:35.323038666]: Started Autorank
+[01:46:13.936170082]: Stopped Autorank
+[01:47:17.381949625]: Started Autorank
+[01:47:56.334378684]: Stopped Autorank
+[01:49:07.040482196]: Started Autorank
+[01:49:38.419737419]: Stopped Autorank
+[01:50:38.984144122]: Started Autorank
+[01:51:18.987051843]: Stopped Autorank
+[01:52:22.03378007]: Started Autorank
+[01:52:23.837189418]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[01:52:23.837988481]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[01:52:23.840790072]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[01:52:23.840903798]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[01:52:23.841859106]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[01:52:23.841978391]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[01:52:23.852520568]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[01:52:23.852632149]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[01:52:23.853600696]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[01:52:23.853706454]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[01:52:23.855582219]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[01:52:23.855721055]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[01:52:23.860850224]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[01:52:23.860954005]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[01:52:23.863313326]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[01:52:23.863421875]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[01:52:23.864214231]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[01:52:23.864311225]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[01:53:00.759337521]: Stopped Autorank
+[01:54:12.111048247]: Started Autorank
+[01:54:43.213925827]: Stopped Autorank
+[01:55:46.550801258]: Started Autorank
+[01:56:25.647193742]: Stopped Autorank
+[01:57:35.401345281]: Started Autorank
+[01:58:07.555633729]: Stopped Autorank
+[01:59:18.371128512]: Started Autorank
+[01:59:49.727053533]: Stopped Autorank
+[02:00:53.632085426]: Started Autorank
+[02:01:32.927206493]: Stopped Autorank
+[02:02:33.376019552]: Started Autorank
+[02:03:13.006558891]: Stopped Autorank
+[02:04:14.922417103]: Started Autorank
+[02:04:54.46504606]: Stopped Autorank
+[02:05:57.944000045]: Started Autorank
+[02:06:36.715652347]: Stopped Autorank
+[02:07:45.403027839]: Started Autorank
+[02:08:17.163332003]: Stopped Autorank
+[02:09:20.10908332]: Started Autorank
+[02:09:59.288162294]: Stopped Autorank
+[02:11:01.899054069]: Started Autorank
+[02:11:41.279331041]: Stopped Autorank
+[02:12:43.453304339]: Started Autorank
+[02:13:21.559923291]: Stopped Autorank
+[02:14:27.268410751]: Started Autorank
+[02:15:05.078051905]: Stopped Autorank
+[02:16:16.069475847]: Started Autorank
+[02:16:47.027716046]: Stopped Autorank
+[02:17:51.203608064]: Started Autorank
+[02:18:30.310872535]: Stopped Autorank
+[02:19:40.196204858]: Started Autorank
+[02:20:12.120455991]: Stopped Autorank
+[02:21:22.056400852]: Started Autorank
+[02:21:52.900752017]: Stopped Autorank
+[02:22:58.31645926]: Started Autorank
+[02:23:00.171120481]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[02:23:00.171826689]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[02:23:00.173000258]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[02:23:00.173103819]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[02:23:00.1741276]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[02:23:00.174247278]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[02:23:00.183071607]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[02:23:00.183191404]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[02:23:00.183996392]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[02:23:00.184090297]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[02:23:00.1849345]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[02:23:00.185029824]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[02:23:00.189765656]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[02:23:00.189859408]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[02:23:00.190659017]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[02:23:00.190755088]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[02:23:00.191573248]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[02:23:00.191657945]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[02:23:33.54291347]: Stopped Autorank
+[02:24:44.214599271]: Started Autorank
+[02:25:15.725299605]: Stopped Autorank
+[02:26:19.044684484]: Started Autorank
+[02:26:57.951634981]: Stopped Autorank
+[02:27:59.421653145]: Started Autorank
+[02:28:38.769000551]: Stopped Autorank
+[02:29:41.867486804]: Started Autorank
+[02:30:20.756681045]: Stopped Autorank
+[02:31:24.83606793]: Started Autorank
+[02:32:02.640767718]: Stopped Autorank
+[02:33:10.535752698]: Started Autorank
+[02:33:42.816040851]: Stopped Autorank
+[02:34:46.230849032]: Started Autorank
+[02:35:25.01287819]: Stopped Autorank
+[02:36:28.480889604]: Started Autorank
+[02:37:07.729955465]: Stopped Autorank
+[02:38:08.656256138]: Started Autorank
+[02:38:47.976412074]: Stopped Autorank
+[02:39:59.564043019]: Started Autorank
+[02:40:30.531653775]: Stopped Autorank
+[02:41:41.49606777]: Started Autorank
+[02:42:12.313409303]: Stopped Autorank
+[02:43:21.625317553]: Started Autorank
+[02:43:52.486640303]: Stopped Autorank
+[02:44:55.536768778]: Started Autorank
+[02:45:34.795600681]: Stopped Autorank
+[02:46:44.322077832]: Started Autorank
+[02:47:21.191542014]: Stopped Autorank
+[02:48:25.577741454]: Started Autorank
+[02:48:57.264903768]: Stopped Autorank
+[02:50:00.078711914]: Started Autorank
+[02:50:39.789266716]: Stopped Autorank
+[02:51:50.789301183]: Started Autorank
+[02:52:22.753119217]: Stopped Autorank
+[02:53:32.653216931]: Started Autorank
+[02:53:34.82463791]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[02:53:34.825438697]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[02:53:34.826804741]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[02:53:34.826989145]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[02:53:34.828188733]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[02:53:34.828342842]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[02:53:34.840723479]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[02:53:34.840848974]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[02:53:34.841783008]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[02:53:34.841923989]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[02:53:34.842894827]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[02:53:34.843049965]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[02:53:34.846610382]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[02:53:34.846712406]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[02:53:34.847692348]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[02:53:34.847798073]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[02:53:34.848645614]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[02:53:34.848736617]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[02:54:04.49007513]: Stopped Autorank
+[02:55:15.603909091]: Started Autorank
+[02:55:46.605444444]: Stopped Autorank
+[02:56:48.789095374]: Started Autorank
+[02:57:28.83350953]: Stopped Autorank
+[02:58:39.562758844]: Started Autorank
+[02:59:10.957733864]: Stopped Autorank
+[03:00:20.787585571]: Started Autorank
+[03:00:51.604448784]: Stopped Autorank
+[03:02:00.734704379]: Started Autorank
+[03:02:31.941827512]: Stopped Autorank
+[03:03:42.344267829]: Started Autorank
+[03:04:14.161348368]: Stopped Autorank
+[03:05:23.498948572]: Started Autorank
+[03:05:54.703284394]: Stopped Autorank
+[03:06:56.158822451]: Started Autorank
+[03:07:35.185084339]: Stopped Autorank
+[03:08:38.511307124]: Started Autorank
+[03:09:18.439549786]: Stopped Autorank
+[03:10:28.358017947]: Started Autorank
+[03:10:59.614011205]: Stopped Autorank
+[03:12:04.116894777]: Started Autorank
+[03:12:42.199867199]: Stopped Autorank
+[03:13:51.42382176]: Started Autorank
+[03:14:23.591628793]: Stopped Autorank
+[03:15:34.160739428]: Started Autorank
+[03:16:05.282871281]: Stopped Autorank
+[03:17:15.931450585]: Started Autorank
+[03:17:47.174591173]: Stopped Autorank
+[03:18:57.911609953]: Started Autorank
+[03:19:29.221128326]: Stopped Autorank
+[03:20:39.756754985]: Started Autorank
+[03:21:11.360149019]: Stopped Autorank
+[03:22:22.110453122]: Started Autorank
+[03:22:53.46474998]: Stopped Autorank
+[03:23:55.763771891]: Started Autorank
+[03:23:57.782918118]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[03:23:57.783663479]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[03:23:57.786583438]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[03:23:57.786702589]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[03:23:57.787601737]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[03:23:57.787710019]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[03:23:57.808931515]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[03:23:57.809064441]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[03:23:57.812203046]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[03:23:57.812307398]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[03:23:57.813123879]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[03:23:57.81321627]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[03:23:57.820885934]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[03:23:57.821007239]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[03:23:57.822221548]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[03:23:57.822375774]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[03:23:57.824417537]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[03:23:57.824503379]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[03:24:34.846950226]: Stopped Autorank
+[03:25:46.15559908]: Started Autorank
+[03:26:17.738689645]: Stopped Autorank
+[03:27:20.510481531]: Started Autorank
+[03:28:00.121404177]: Stopped Autorank
+[03:29:10.420639218]: Started Autorank
+[03:29:41.601646247]: Stopped Autorank
+[03:30:44.586971227]: Started Autorank
+[03:31:23.801394137]: Stopped Autorank
+[03:32:33.403080944]: Started Autorank
+[03:33:05.670727146]: Stopped Autorank
+[03:34:08.619794129]: Started Autorank
+[03:34:47.695097613]: Stopped Autorank
+[03:35:49.9140131]: Started Autorank
+[03:36:28.860638369]: Stopped Autorank
+[03:37:32.081986713]: Started Autorank
+[03:38:10.557939142]: Stopped Autorank
+[03:39:13.261634092]: Started Autorank
+[03:39:52.597054356]: Stopped Autorank
+[03:41:00.931997531]: Started Autorank
+[03:41:32.933229554]: Stopped Autorank
+[03:42:44.245530839]: Started Autorank
+[03:43:15.251184276]: Stopped Autorank
+[03:44:25.059835529]: Started Autorank
+[03:44:56.525106471]: Stopped Autorank
+[03:46:00.933114396]: Started Autorank
+[03:46:38.540216262]: Stopped Autorank
+[03:47:49.586015153]: Started Autorank
+[03:48:20.776543704]: Stopped Autorank
+[03:49:22.895736232]: Started Autorank
+[03:50:01.271172549]: Stopped Autorank
+[03:51:03.924435004]: Started Autorank
+[03:51:43.677500566]: Stopped Autorank
+[03:52:54.872431027]: Started Autorank
+[03:53:25.975659071]: Stopped Autorank
+[03:54:28.315989896]: Started Autorank
+[03:54:30.405096198]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[03:54:30.405798362]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[03:54:30.406961708]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[03:54:30.407053302]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[03:54:30.407920208]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[03:54:30.4080061]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[03:54:30.417791907]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[03:54:30.417940857]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[03:54:30.418943285]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[03:54:30.419048535]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[03:54:30.420250454]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[03:54:30.420460352]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[03:54:30.424674417]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[03:54:30.424800069]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[03:54:30.425735616]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[03:54:30.42583624]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[03:54:30.427128421]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[03:54:30.427226836]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[03:55:08.275217307]: Stopped Autorank
+[03:56:18.972157469]: Started Autorank
+[03:56:49.633663532]: Stopped Autorank
+[03:58:00.077336606]: Started Autorank
+[03:58:31.634072226]: Stopped Autorank
+[03:59:42.177471176]: Started Autorank
+[04:00:14.361938537]: Stopped Autorank
+[04:01:24.183504589]: Started Autorank
+[04:01:55.594622247]: Stopped Autorank
+[04:03:06.037047221]: Started Autorank
+[04:03:37.543965269]: Stopped Autorank
+[04:04:48.627287885]: Started Autorank
+[04:05:20.275847774]: Stopped Autorank
+[04:06:23.614148929]: Started Autorank
+[04:07:02.628744274]: Stopped Autorank
+[04:08:11.066415913]: Started Autorank
+[04:08:42.986060789]: Stopped Autorank
+[04:09:51.30630186]: Started Autorank
+[04:10:25.128737896]: Stopped Autorank
+[04:11:29.526852416]: Started Autorank
+[04:12:07.645566907]: Stopped Autorank
+[04:13:10.393046199]: Started Autorank
+[04:13:49.697511624]: Stopped Autorank
+[04:14:52.703313905]: Started Autorank
+[04:15:32.117563719]: Stopped Autorank
+[04:16:41.549094471]: Started Autorank
+[04:17:14.280463005]: Stopped Autorank
+[04:18:24.169527766]: Started Autorank
+[04:18:56.642861539]: Stopped Autorank
+[04:19:58.508244238]: Started Autorank
+[04:20:37.955356326]: Stopped Autorank
+[04:21:41.709675027]: Started Autorank
+[04:22:20.154873259]: Stopped Autorank
+[04:23:29.235766306]: Started Autorank
+[04:24:00.690007233]: Stopped Autorank
+[04:25:03.997069713]: Started Autorank
+[04:25:05.862691766]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[04:25:05.863326861]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[04:25:05.86453897]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[04:25:05.864646453]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[04:25:05.865646605]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[04:25:05.865731399]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[04:25:05.872621836]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[04:25:05.87273437]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[04:25:05.873584349]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[04:25:05.873694915]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[04:25:05.874404561]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[04:25:05.874497811]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[04:25:05.877948369]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[04:25:05.878050756]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[04:25:05.878917104]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[04:25:05.879005804]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[04:25:05.879826404]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[04:25:05.879915157]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[04:25:42.828836003]: Stopped Autorank
+[04:26:54.459622816]: Started Autorank
+[04:27:25.027594217]: Stopped Autorank
+[04:28:34.285781866]: Started Autorank
+[04:29:06.152089075]: Stopped Autorank
+[04:30:08.632942307]: Started Autorank
+[04:30:48.251343716]: Stopped Autorank
+[04:31:51.276340934]: Started Autorank
+[04:32:30.825047091]: Stopped Autorank
+[04:33:34.766949598]: Started Autorank
+[04:34:13.426387747]: Stopped Autorank
+[04:35:23.88587855]: Started Autorank
+[04:35:55.284511049]: Stopped Autorank
+[04:36:59.941329249]: Started Autorank
+[04:37:35.843192928]: Stopped Autorank
+[04:38:37.305239819]: Started Autorank
+[04:39:16.308513131]: Stopped Autorank
+[04:40:20.314936751]: Started Autorank
+[04:40:58.91653076]: Stopped Autorank
+[04:42:08.618586832]: Started Autorank
+[04:42:40.8992113]: Stopped Autorank
+[04:43:43.107357234]: Started Autorank
+[04:44:23.205145079]: Stopped Autorank
+[04:45:25.715341122]: Started Autorank
+[04:46:05.230806995]: Stopped Autorank
+[04:47:08.466522986]: Started Autorank
+[04:47:47.227219725]: Stopped Autorank
+[04:48:55.843876663]: Started Autorank
+[04:49:27.65819391]: Stopped Autorank
+[04:50:38.416649871]: Started Autorank
+[04:51:09.675823627]: Stopped Autorank
+[04:52:19.820650141]: Started Autorank
+[04:52:52.011038035]: Stopped Autorank
+[04:53:54.428388666]: Started Autorank
+[04:54:33.289302349]: Stopped Autorank
+[04:55:37.305359088]: Started Autorank
+[04:55:39.156948668]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[04:55:39.157768301]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[04:55:39.159231218]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[04:55:39.159372969]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[04:55:39.161569051]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[04:55:39.161685949]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[04:55:39.172135632]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[04:55:39.172263495]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[04:55:39.173132924]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[04:55:39.173268403]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[04:55:39.174142728]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[04:55:39.174242575]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[04:55:39.178083586]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[04:55:39.178192198]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[04:55:39.178969808]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[04:55:39.17906261]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[04:55:39.179855563]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[04:55:39.17993497]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[04:56:15.831720596]: Stopped Autorank
+[04:57:25.898225187]: Started Autorank
+[04:57:57.902006905]: Stopped Autorank
+[04:59:08.344968878]: Started Autorank
+[04:59:40.266101016]: Stopped Autorank
+[05:00:42.615987745]: Started Autorank
+[05:01:21.641490023]: Stopped Autorank
+[05:02:25.064763048]: Started Autorank
+[05:03:03.749534715]: Stopped Autorank
+[05:04:14.800724472]: Started Autorank
+[05:04:46.661463049]: Stopped Autorank
+[05:05:49.202500408]: Started Autorank
+[05:06:27.692104591]: Stopped Autorank
+[05:07:30.806017008]: Started Autorank
+[05:08:10.011859726]: Stopped Autorank
+[05:09:10.983336466]: Started Autorank
+[05:09:50.585097378]: Stopped Autorank
+[05:11:00.859891812]: Started Autorank
+[05:11:32.645637067]: Stopped Autorank
+[05:12:36.529461009]: Started Autorank
+[05:13:15.218319203]: Stopped Autorank
+[05:14:18.708075971]: Started Autorank
+[05:14:57.462774468]: Stopped Autorank
+[05:15:59.458503492]: Started Autorank
+[05:16:38.718592933]: Stopped Autorank
+[05:17:41.52443303]: Started Autorank
+[05:18:21.22196051]: Stopped Autorank
+[05:19:24.226489212]: Started Autorank
+[05:20:03.36916634]: Stopped Autorank
+[05:21:05.298822183]: Started Autorank
+[05:21:44.83571259]: Stopped Autorank
+[05:22:53.183777179]: Started Autorank
+[05:23:25.017130205]: Stopped Autorank
+[05:24:27.335227851]: Started Autorank
+[05:25:06.964689354]: Stopped Autorank
+[05:26:16.411407561]: Started Autorank
+[05:26:18.512530118]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[05:26:18.513263579]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[05:26:18.515355763]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[05:26:18.515472046]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[05:26:18.517827495]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[05:26:18.517950413]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[05:26:18.52787641]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[05:26:18.527985889]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[05:26:18.530401549]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[05:26:18.530511225]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[05:26:18.531689665]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[05:26:18.531785829]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[05:26:18.535387906]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[05:26:18.535478377]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[05:26:18.53621437]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[05:26:18.536298527]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[05:26:18.537057443]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[05:26:18.537127288]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[05:26:47.262471259]: Stopped Autorank
+[05:27:58.686211313]: Started Autorank
+[05:28:29.55733701]: Stopped Autorank
+[05:29:31.920466035]: Started Autorank
+[05:30:11.162366621]: Stopped Autorank
+[05:31:14.304966885]: Started Autorank
+[05:31:53.244043637]: Stopped Autorank
+[05:32:56.182684971]: Started Autorank
+[05:33:33.741163885]: Stopped Autorank
+[05:34:38.983131244]: Started Autorank
+[05:35:14.2985991]: Stopped Autorank
+[05:36:17.356704382]: Started Autorank
+[05:36:56.374781867]: Stopped Autorank
+[05:38:06.404810273]: Started Autorank
+[05:38:37.36822345]: Stopped Autorank
+[05:39:47.744042091]: Started Autorank
+[05:40:19.450690563]: Stopped Autorank
+[05:41:29.961602484]: Started Autorank
+[05:42:01.547989296]: Stopped Autorank
+[05:43:02.033711979]: Started Autorank
+[05:43:41.719415514]: Stopped Autorank
+[05:44:44.907242961]: Started Autorank
+[05:45:23.936485929]: Stopped Autorank
+[05:46:26.558854966]: Started Autorank
+[05:47:06.136706935]: Stopped Autorank
+[05:48:09.873116342]: Started Autorank
+[05:48:48.312460723]: Stopped Autorank
+[05:49:58.603551824]: Started Autorank
+[05:50:28.735832918]: Stopped Autorank
+[05:51:32.334542341]: Started Autorank
+[05:52:10.967976516]: Stopped Autorank
+[05:53:20.571375702]: Started Autorank
+[05:53:51.277180562]: Stopped Autorank
+[05:54:54.66278289]: Started Autorank
+[05:55:33.857945571]: Stopped Autorank
+[05:56:35.04643893]: Started Autorank
+[05:56:37.020842315]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[05:56:37.021687764]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[05:56:37.022918481]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[05:56:37.02301186]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[05:56:37.023828667]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[05:56:37.023924405]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[05:56:37.035053296]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[05:56:37.035266502]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[05:56:37.036313839]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[05:56:37.036408304]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[05:56:37.037273241]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[05:56:37.03740236]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[05:56:37.040932453]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[05:56:37.04105386]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[05:56:37.04179727]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[05:56:37.041867638]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[05:56:37.042693077]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[05:56:37.042822453]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[05:57:14.809699498]: Stopped Autorank
+[05:58:20.972766791]: Started Autorank
+[05:58:55.609903946]: Stopped Autorank
+[06:00:07.104385924]: Started Autorank
+[06:00:38.207912075]: Stopped Autorank
+[06:01:47.104006936]: Started Autorank
+[06:02:18.574290261]: Stopped Autorank
+[06:03:28.660131394]: Started Autorank
+[06:03:59.535043924]: Stopped Autorank
+[06:05:01.628229698]: Started Autorank
+[06:05:40.528075462]: Stopped Autorank
+[06:06:43.131515523]: Started Autorank
+[06:07:22.797770378]: Stopped Autorank
+[06:08:26.470287208]: Started Autorank
+[06:09:05.371288994]: Stopped Autorank
+[06:10:07.906906859]: Started Autorank
+[06:10:47.21394022]: Stopped Autorank
+[06:11:48.172807497]: Started Autorank
+[06:12:27.644193986]: Stopped Autorank
+[06:13:28.54385676]: Started Autorank
+[06:14:08.168706943]: Stopped Autorank
+[06:15:17.592409887]: Started Autorank
+[06:15:49.720129582]: Stopped Autorank
+[06:16:59.330309583]: Started Autorank
+[06:17:31.682889435]: Stopped Autorank
+[06:18:34.385064467]: Started Autorank
+[06:19:13.799718804]: Stopped Autorank
+[06:20:16.877974919]: Started Autorank
+[06:20:55.804250868]: Stopped Autorank
+[06:22:06.176643906]: Started Autorank
+[06:22:37.911449358]: Stopped Autorank
+[06:23:48.788828659]: Started Autorank
+[06:24:20.217609005]: Stopped Autorank
+[06:25:31.242403813]: Started Autorank
+[06:26:02.521518377]: Stopped Autorank
+[06:27:12.560456556]: Started Autorank
+[06:27:14.553846652]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[06:27:14.554736851]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[06:27:14.556080133]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[06:27:14.556208859]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[06:27:14.557209088]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[06:27:14.557337451]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[06:27:14.56894453]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[06:27:14.569242569]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[06:27:14.569986317]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[06:27:14.570068037]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[06:27:14.570819425]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[06:27:14.570905201]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[06:27:14.573954079]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[06:27:14.574053958]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[06:27:14.57629849]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[06:27:14.57639056]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[06:27:14.577126011]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[06:27:14.57721172]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[06:27:44.803616817]: Stopped Autorank
+[06:28:55.899774215]: Started Autorank
+[06:29:27.036931323]: Stopped Autorank
+[06:30:38.346723143]: Started Autorank
+[06:31:09.294455873]: Stopped Autorank
+[06:32:18.669521684]: Started Autorank
+[06:32:50.724568992]: Stopped Autorank
+[06:33:53.965624826]: Started Autorank
+[06:34:33.917745241]: Stopped Autorank
+[06:35:35.599287489]: Started Autorank
+[06:36:14.573534847]: Stopped Autorank
+[06:37:16.96081454]: Started Autorank
+[06:37:56.651845003]: Stopped Autorank
+[06:39:08.414620281]: Started Autorank
+[06:39:38.939615483]: Stopped Autorank
+[06:40:41.462585907]: Started Autorank
+[06:41:20.748808685]: Stopped Autorank
+[06:42:30.482682305]: Started Autorank
+[06:43:02.892476499]: Stopped Autorank
+[06:44:10.856593078]: Started Autorank
+[06:44:45.405875053]: Stopped Autorank
+[06:45:48.029251876]: Started Autorank
+[06:46:27.583427841]: Stopped Autorank
+[06:47:30.351500825]: Started Autorank
+[06:48:09.753496544]: Stopped Autorank
+[06:49:17.197704757]: Started Autorank
+[06:49:51.689751346]: Stopped Autorank
+[06:50:59.170279687]: Started Autorank
+[06:51:34.30877887]: Stopped Autorank
+[06:52:44.001016828]: Started Autorank
+[06:53:15.338213627]: Stopped Autorank
+[06:54:17.541426759]: Started Autorank
+[06:54:56.856410224]: Stopped Autorank
+[06:56:07.38666336]: Started Autorank
+[06:56:38.72946992]: Stopped Autorank
+[06:57:41.473100359]: Started Autorank
+[06:57:43.433629346]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[06:57:43.434271564]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[06:57:43.43546833]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[06:57:43.435573698]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[06:57:43.436474636]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[06:57:43.436559995]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[06:57:43.458036148]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[06:57:43.458170272]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[06:57:43.45921879]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[06:57:43.459385595]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[06:57:43.460958235]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[06:57:43.461063912]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[06:57:43.465298662]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[06:57:43.465435096]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[06:57:43.466458904]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[06:57:43.466568537]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[06:57:43.467451414]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[06:57:43.467550505]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[06:58:21.073895811]: Stopped Autorank
+[06:59:22.226942425]: Started Autorank
+[07:00:01.442303727]: Stopped Autorank
+[07:01:03.022232081]: Started Autorank
+[07:01:41.841105991]: Stopped Autorank
+[07:02:46.984204353]: Started Autorank
+[07:03:22.509560015]: Stopped Autorank
+[07:04:24.446499422]: Started Autorank
+[07:05:04.03202107]: Stopped Autorank
+[07:06:04.367820661]: Started Autorank
+[07:06:44.360295091]: Stopped Autorank
+[07:07:53.302871545]: Started Autorank
+[07:08:25.510379394]: Stopped Autorank
+[07:09:27.84516703]: Started Autorank
+[07:10:07.486471786]: Stopped Autorank
+[07:11:08.49217229]: Started Autorank
+[07:11:47.82540104]: Stopped Autorank
+[07:12:49.949960279]: Started Autorank
+[07:13:28.751072905]: Stopped Autorank
+[07:14:30.84682988]: Started Autorank
+[07:15:10.309610173]: Stopped Autorank
+[07:16:11.910920246]: Started Autorank
+[07:16:52.188101407]: Stopped Autorank
+[07:18:02.54201246]: Started Autorank
+[07:18:34.194974801]: Stopped Autorank
+[07:19:37.710937891]: Started Autorank
+[07:20:16.947231514]: Stopped Autorank
+[07:21:19.831721603]: Started Autorank
+[07:21:59.568146879]: Stopped Autorank
+[07:23:10.355022143]: Started Autorank
+[07:23:41.605265874]: Stopped Autorank
+[07:24:51.539471652]: Started Autorank
+[07:25:23.866037654]: Stopped Autorank
+[07:26:32.583470092]: Started Autorank
+[07:27:04.368844971]: Stopped Autorank
+[07:28:13.242670757]: Started Autorank
+[07:28:15.421469056]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[07:28:15.422160862]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[07:28:15.423372754]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[07:28:15.423479511]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[07:28:15.424469692]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[07:28:15.424578818]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[07:28:15.437738073]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[07:28:15.437975229]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[07:28:15.438961332]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[07:28:15.439064452]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[07:28:15.439886562]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[07:28:15.440001905]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[07:28:15.44324808]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[07:28:15.443335294]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[07:28:15.444086915]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[07:28:15.444165527]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[07:28:15.444971184]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[07:28:15.445056333]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[07:28:44.90698034]: Stopped Autorank
+[07:29:55.219877654]: Started Autorank
+[07:30:26.951610281]: Stopped Autorank
+[07:31:30.622373167]: Started Autorank
+[07:32:09.952811822]: Stopped Autorank
+[07:33:12.512498508]: Started Autorank
+[07:33:52.092759817]: Stopped Autorank
+[07:35:01.897765067]: Started Autorank
+[07:35:34.193318464]: Stopped Autorank
+[07:36:37.275740992]: Started Autorank
+[07:37:16.448486811]: Stopped Autorank
+[07:38:28.563976007]: Started Autorank
+[07:38:59.547366991]: Stopped Autorank
+[07:40:03.02426022]: Started Autorank
+[07:40:41.574330199]: Stopped Autorank
+[07:41:51.685960568]: Started Autorank
+[07:42:23.799289462]: Stopped Autorank
+[07:43:33.262891954]: Started Autorank
+[07:44:04.104077591]: Stopped Autorank
+[07:45:06.394666039]: Started Autorank
+[07:45:45.068587026]: Stopped Autorank
+[07:46:48.172839972]: Started Autorank
+[07:47:26.90869317]: Stopped Autorank
+[07:48:30.848532776]: Started Autorank
+[07:49:09.896618193]: Stopped Autorank
+[07:50:12.161885523]: Started Autorank
+[07:50:52.014243396]: Stopped Autorank
+[07:51:56.273815096]: Started Autorank
+[07:52:34.643893736]: Stopped Autorank
+[07:53:37.85108545]: Started Autorank
+[07:54:17.510739289]: Stopped Autorank
+[07:55:26.686031052]: Started Autorank
+[07:55:58.209896343]: Stopped Autorank
+[07:57:01.996536968]: Started Autorank
+[07:57:40.670310053]: Stopped Autorank
+[07:58:42.695482879]: Started Autorank
+[07:58:44.560199733]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[07:58:44.560855307]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[07:58:44.562887986]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[07:58:44.563743364]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[07:58:44.564890126]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[07:58:44.565002529]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[07:58:44.573263039]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[07:58:44.573402471]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[07:58:44.574944685]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[07:58:44.575052479]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[07:58:44.576002244]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[07:58:44.576104681]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[07:58:44.580398919]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[07:58:44.580524841]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[07:58:44.581762171]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[07:58:44.581866737]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[07:58:44.582684947]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[07:58:44.582793073]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[07:59:21.898353551]: Stopped Autorank
+[08:00:24.847350973]: Started Autorank
+[08:01:04.366467247]: Stopped Autorank
+[08:02:12.705845454]: Started Autorank
+[08:02:44.755829137]: Stopped Autorank
+[08:03:46.908194498]: Started Autorank
+[08:04:26.946795849]: Stopped Autorank
+[08:05:29.922346714]: Started Autorank
+[08:06:09.514880216]: Stopped Autorank
+[08:07:18.207743726]: Started Autorank
+[08:07:50.65355242]: Stopped Autorank
+[08:08:54.030393467]: Started Autorank
+[08:09:32.970225721]: Stopped Autorank
+[08:10:36.174960984]: Started Autorank
+[08:11:15.568084093]: Stopped Autorank
+[08:12:24.21174663]: Started Autorank
+[08:12:55.761246161]: Stopped Autorank
+[08:13:58.707621927]: Started Autorank
+[08:14:38.381691894]: Stopped Autorank
+[08:15:49.336243702]: Started Autorank
+[08:16:20.618562831]: Stopped Autorank
+[08:17:22.985500776]: Started Autorank
+[08:18:02.725288266]: Stopped Autorank
+[08:19:13.144337166]: Started Autorank
+[08:19:44.856503179]: Stopped Autorank
+[08:20:47.861010581]: Started Autorank
+[08:21:27.173382776]: Stopped Autorank
+[08:22:29.956107675]: Started Autorank
+[08:23:09.637869708]: Stopped Autorank
+[08:24:18.964255407]: Started Autorank
+[08:24:50.712300743]: Stopped Autorank
+[08:26:01.356972827]: Started Autorank
+[08:26:32.803378567]: Stopped Autorank
+[08:27:41.582629496]: Started Autorank
+[08:28:13.00822978]: Stopped Autorank
+[08:29:14.04222748]: Started Autorank
+[08:29:15.957930123]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[08:29:15.958741121]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[08:29:15.971346168]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[08:29:15.971477111]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[08:29:15.972517555]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[08:29:15.97262033]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[08:29:15.98268318]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[08:29:15.982787435]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[08:29:15.983603075]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[08:29:15.983682509]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[08:29:15.984276738]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[08:29:15.984330198]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[08:29:15.988791133]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[08:29:15.98899488]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[08:29:15.991888772]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[08:29:15.991981566]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[08:29:15.992738136]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[08:29:15.992812255]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[08:29:54.171154878]: Stopped Autorank
+[08:30:57.243842406]: Started Autorank
+[08:31:35.934147297]: Stopped Autorank
+[08:32:46.979483073]: Started Autorank
+[08:33:17.972010761]: Stopped Autorank
+[08:34:21.680257345]: Started Autorank
+[08:35:00.372933386]: Stopped Autorank
+[08:36:11.773464757]: Started Autorank
+[08:36:42.632520129]: Stopped Autorank
+[08:37:51.052202465]: Started Autorank
+[08:38:23.733687292]: Stopped Autorank
+[08:39:34.502693321]: Started Autorank
+[08:40:05.695176176]: Stopped Autorank
+[08:41:15.215157903]: Started Autorank
+[08:41:46.703937285]: Stopped Autorank
+[08:42:57.443800937]: Started Autorank
+[08:43:28.857002468]: Stopped Autorank
+[08:44:41.079738512]: Started Autorank
+[08:45:11.073698056]: Stopped Autorank
+[08:46:20.417563364]: Started Autorank
+[08:46:52.449471588]: Stopped Autorank
+[08:47:55.719616162]: Started Autorank
+[08:48:34.797492674]: Stopped Autorank
+[08:49:44.59016213]: Started Autorank
+[08:50:16.160786805]: Stopped Autorank
+[08:51:20.231904008]: Started Autorank
+[08:51:58.49370867]: Stopped Autorank
+[08:53:02.32225628]: Started Autorank
+[08:53:40.63720899]: Stopped Autorank
+[08:54:50.716051402]: Started Autorank
+[08:55:22.803588571]: Stopped Autorank
+[08:56:26.09721981]: Started Autorank
+[08:57:05.076526738]: Stopped Autorank
+[08:58:07.976668235]: Started Autorank
+[08:58:47.891655787]: Stopped Autorank
+[08:59:49.817765744]: Started Autorank
+[08:59:51.749064605]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[08:59:51.749769708]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[08:59:51.75096092]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[08:59:51.751079896]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[08:59:51.751820843]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[08:59:51.751903385]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[08:59:51.759137095]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[08:59:51.759253662]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[08:59:51.760179291]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[08:59:51.760284856]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[08:59:51.761776687]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[08:59:51.761883498]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[08:59:51.76504425]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[08:59:51.76513581]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[08:59:51.765924279]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[08:59:51.766018835]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[08:59:51.766784287]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[08:59:51.766873281]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[09:00:29.673664126]: Stopped Autorank
+[09:01:32.536005003]: Started Autorank
+[09:02:12.399935445]: Stopped Autorank
+[09:03:22.540659661]: Started Autorank
+[09:03:54.280449541]: Stopped Autorank
+[09:05:05.057955734]: Started Autorank
+[09:05:36.588082256]: Stopped Autorank
+[09:06:46.868456314]: Started Autorank
+[09:07:17.25595742]: Stopped Autorank
+[09:08:19.543588684]: Started Autorank
+[09:08:58.774955333]: Stopped Autorank
+[09:10:01.025317537]: Started Autorank
+[09:10:41.188878956]: Stopped Autorank
+[09:11:47.497985283]: Started Autorank
+[09:12:23.245267614]: Stopped Autorank
+[09:13:33.404314614]: Started Autorank
+[09:14:05.347620747]: Stopped Autorank
+[09:15:17.178417719]: Started Autorank
+[09:15:48.818650904]: Stopped Autorank
+[09:16:59.143562441]: Started Autorank
+[09:17:31.209668871]: Stopped Autorank
+[09:18:42.203080894]: Started Autorank
+[09:19:14.035871369]: Stopped Autorank
+[09:20:16.732346836]: Started Autorank
+[09:20:55.483432]: Stopped Autorank
+[09:21:59.522891175]: Started Autorank
+[09:22:38.07582139]: Stopped Autorank
+[09:23:41.488420208]: Started Autorank
+[09:24:20.336789398]: Stopped Autorank
+[09:25:22.761877469]: Started Autorank
+[09:26:02.613544894]: Stopped Autorank
+[09:27:11.778600719]: Started Autorank
+[09:27:42.761695977]: Stopped Autorank
+[09:28:43.666506964]: Started Autorank
+[09:29:23.363026825]: Stopped Autorank
+[09:30:33.411160285]: Started Autorank
+[09:30:35.270426688]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[09:30:35.271134823]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[09:30:35.272667003]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[09:30:35.272772751]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[09:30:35.273742302]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[09:30:35.273841789]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[09:30:35.281145857]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[09:30:35.281253891]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[09:30:35.282179316]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[09:30:35.282280314]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[09:30:35.2843191]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[09:30:35.28442131]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[09:30:35.287972188]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[09:30:35.288099895]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[09:30:35.289078774]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[09:30:35.289186009]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[09:30:35.290118867]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[09:30:35.290247623]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[09:31:04.03124983]: Stopped Autorank
+[09:32:06.640739844]: Started Autorank
+[09:32:45.524843931]: Stopped Autorank
+[09:33:56.004851977]: Started Autorank
+[09:34:27.764096214]: Stopped Autorank
+[09:35:31.455977702]: Started Autorank
+[09:36:10.92895519]: Stopped Autorank
+[09:37:12.780709371]: Started Autorank
+[09:37:51.580679439]: Stopped Autorank
+[09:38:54.187329525]: Started Autorank
+[09:39:33.767979991]: Stopped Autorank
+[09:40:43.060769315]: Started Autorank
+[09:41:14.352740297]: Stopped Autorank
+[09:42:25.321081372]: Started Autorank
+[09:42:56.475330148]: Stopped Autorank
+[09:44:06.82995957]: Started Autorank
+[09:44:38.633487446]: Stopped Autorank
+[09:45:41.340370524]: Started Autorank
+[09:46:20.116103511]: Stopped Autorank
+[09:47:30.254810727]: Started Autorank
+[09:48:01.238400091]: Stopped Autorank
+[09:49:04.20020655]: Started Autorank
+[09:49:43.328074557]: Stopped Autorank
+[09:50:52.373797027]: Started Autorank
+[09:51:26.414741829]: Stopped Autorank
+[09:52:35.279061602]: Started Autorank
+[09:53:08.643691483]: Stopped Autorank
+[09:54:11.328356569]: Started Autorank
+[09:54:49.801832373]: Stopped Autorank
+[09:55:59.759895451]: Started Autorank
+[09:56:30.597588821]: Stopped Autorank
+[09:57:33.9608952]: Started Autorank
+[09:58:12.396266189]: Stopped Autorank
+[09:59:14.157212366]: Started Autorank
+[09:59:53.722524006]: Stopped Autorank
+[10:00:55.263520407]: Started Autorank
+[10:00:57.227771884]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[10:00:57.228627029]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[10:00:57.230018516]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[10:00:57.230149696]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[10:00:57.231426116]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[10:00:57.231540637]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[10:00:57.240381005]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[10:00:57.240483359]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[10:00:57.241525985]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[10:00:57.242209095]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[10:00:57.243239989]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[10:00:57.243335894]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[10:00:57.246829191]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[10:00:57.246959394]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[10:00:57.248186868]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[10:00:57.248312759]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[10:00:57.249340735]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[10:00:57.249457808]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[10:01:34.547560749]: Stopped Autorank
+[10:02:43.738302389]: Started Autorank
+[10:03:15.65972746]: Stopped Autorank
+[10:04:19.804960581]: Started Autorank
+[10:04:58.328534566]: Stopped Autorank
+[10:06:08.952180882]: Started Autorank
+[10:06:40.672143679]: Stopped Autorank
+[10:07:42.313175875]: Started Autorank
+[10:08:21.663420707]: Stopped Autorank
+[10:09:32.119657072]: Started Autorank
+[10:10:03.461840783]: Stopped Autorank
+[10:11:14.281096945]: Started Autorank
+[10:11:45.939260806]: Stopped Autorank
+[10:12:48.808982454]: Started Autorank
+[10:13:28.269862375]: Stopped Autorank
+[10:14:31.582273991]: Started Autorank
+[10:15:10.619786128]: Stopped Autorank
+[10:16:13.13735577]: Started Autorank
+[10:16:51.817354284]: Stopped Autorank
+[10:17:54.965952267]: Started Autorank
+[10:18:34.430453572]: Stopped Autorank
+[10:19:36.872824835]: Started Autorank
+[10:20:15.293235307]: Stopped Autorank
+[10:21:19.549647767]: Started Autorank
+[10:21:57.613114645]: Stopped Autorank
+[10:23:00.042782501]: Started Autorank
+[10:23:39.526641174]: Stopped Autorank
+[10:24:49.901949337]: Started Autorank
+[10:25:21.625023207]: Stopped Autorank
+[10:26:22.084764033]: Started Autorank
+[10:27:01.989275224]: Stopped Autorank
+[10:28:11.563445856]: Started Autorank
+[10:28:43.230529373]: Stopped Autorank
+[10:29:53.842779947]: Started Autorank
+[10:30:25.615889437]: Stopped Autorank
+[10:31:29.297423204]: Started Autorank
+[10:31:31.183457066]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[10:31:31.184384874]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[10:31:31.185430222]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[10:31:31.185524253]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[10:31:31.188960746]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[10:31:31.18905109]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[10:31:31.201080543]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[10:31:31.201173276]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[10:31:31.201898945]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[10:31:31.201969288]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[10:31:31.202677988]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[10:31:31.202766735]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[10:31:31.205784102]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[10:31:31.205898566]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[10:31:31.209800475]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[10:31:31.210578256]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[10:31:31.211552723]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[10:31:31.211638183]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[10:32:08.008966122]: Stopped Autorank
+[10:33:10.742364044]: Started Autorank
+[10:33:50.044347381]: Stopped Autorank
+[10:34:59.295233825]: Started Autorank
+[10:35:31.160961992]: Stopped Autorank
+[10:36:42.623631877]: Started Autorank
+[10:37:14.123836503]: Stopped Autorank
+[10:38:23.86488472]: Started Autorank
+[10:38:55.27497562]: Stopped Autorank
+[10:39:57.496888163]: Started Autorank
+[10:40:37.502088377]: Stopped Autorank
+[10:41:39.704823363]: Started Autorank
+[10:42:18.944161414]: Stopped Autorank
+[10:43:29.300960033]: Started Autorank
+[10:44:00.756457882]: Stopped Autorank
+[10:45:11.357513916]: Started Autorank
+[10:45:42.887365924]: Stopped Autorank
+[10:46:52.021012169]: Started Autorank
+[10:47:23.628384593]: Stopped Autorank
+[10:48:34.989179574]: Started Autorank
+[10:49:05.990473543]: Stopped Autorank
+[10:50:09.28431288]: Started Autorank
+[10:50:48.751346694]: Stopped Autorank
+[10:51:59.318038399]: Started Autorank
+[10:52:30.748866061]: Stopped Autorank
+[10:53:34.461501371]: Started Autorank
+[10:54:13.293179784]: Stopped Autorank
+[10:55:24.847595025]: Started Autorank
+[10:55:55.705143762]: Stopped Autorank
+[10:57:06.732128803]: Started Autorank
+[10:57:38.522542259]: Stopped Autorank
+[10:58:41.39864991]: Started Autorank
+[10:59:20.6696493]: Stopped Autorank
+[11:00:29.353687544]: Started Autorank
+[11:01:02.909988533]: Stopped Autorank
+[11:02:04.131208669]: Started Autorank
+[11:02:06.037543133]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[11:02:06.03826404]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[11:02:06.039321976]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[11:02:06.039406195]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[11:02:06.04006931]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[11:02:06.040130895]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[11:02:06.047300523]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[11:02:06.047388352]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[11:02:06.047997017]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[11:02:06.048063328]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[11:02:06.048810825]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[11:02:06.048912899]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[11:02:06.052231005]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[11:02:06.052342876]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[11:02:06.053265906]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[11:02:06.053386954]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[11:02:06.054254798]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[11:02:06.054366311]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[11:02:44.004473023]: Stopped Autorank
+[11:03:53.184190704]: Started Autorank
+[11:04:26.521892547]: Stopped Autorank
+[11:05:28.241875421]: Started Autorank
+[11:06:07.192734679]: Stopped Autorank
+[11:07:17.802540159]: Started Autorank
+[11:07:49.401675305]: Stopped Autorank
+[11:08:51.865134623]: Started Autorank
+[11:09:31.410512226]: Stopped Autorank
+[11:10:41.341486821]: Started Autorank
+[11:11:12.612724155]: Stopped Autorank
+[11:12:23.176978416]: Started Autorank
+[11:12:54.736090484]: Stopped Autorank
+[11:14:03.300802217]: Started Autorank
+[11:14:35.373457553]: Stopped Autorank
+[11:15:37.003059588]: Started Autorank
+[11:16:16.768659853]: Stopped Autorank
+[11:17:27.170503443]: Started Autorank
+[11:17:58.832172892]: Stopped Autorank
+[11:19:10.285135181]: Started Autorank
+[11:19:41.10954042]: Stopped Autorank
+[11:20:43.617071721]: Started Autorank
+[11:21:22.247157032]: Stopped Autorank
+[11:22:33.183691427]: Started Autorank
+[11:23:04.225433437]: Stopped Autorank
+[11:24:05.929859456]: Started Autorank
+[11:24:44.932362724]: Stopped Autorank
+[11:25:55.093012372]: Started Autorank
+[11:26:27.087242025]: Stopped Autorank
+[11:27:28.805682889]: Started Autorank
+[11:28:08.135505912]: Stopped Autorank
+[11:29:17.142785]: Started Autorank
+[11:29:49.299755581]: Stopped Autorank
+[11:30:52.385852265]: Started Autorank
+[11:31:31.738559946]: Stopped Autorank
+[11:32:34.102026519]: Started Autorank
+[11:32:36.427648166]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[11:32:36.428450652]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[11:32:36.429900116]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[11:32:36.430080923]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[11:32:36.431148594]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[11:32:36.431277667]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[11:32:36.436626629]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[11:32:36.436748055]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[11:32:36.437795943]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[11:32:36.437893844]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[11:32:36.438861368]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[11:32:36.438951101]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[11:32:36.442052626]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[11:32:36.442189743]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[11:32:36.44308649]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[11:32:36.443174404]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[11:32:36.44398145]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[11:32:36.444063071]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[11:33:13.953250137]: Stopped Autorank
+[11:34:18.011834264]: Started Autorank
+[11:34:56.771318106]: Stopped Autorank
+[11:35:58.747245879]: Started Autorank
+[11:36:38.816193391]: Stopped Autorank
+[11:37:40.336872475]: Started Autorank
+[11:38:19.547970019]: Stopped Autorank
+[11:39:21.983736939]: Started Autorank
+[11:40:01.676070842]: Stopped Autorank
+[11:41:05.439032148]: Started Autorank
+[11:41:44.249619872]: Stopped Autorank
+[11:42:54.547758582]: Started Autorank
+[11:43:26.095553191]: Stopped Autorank
+[11:44:34.535713732]: Started Autorank
+[11:45:06.220033258]: Stopped Autorank
+[11:46:07.507640551]: Started Autorank
+[11:46:46.976250361]: Stopped Autorank
+[11:47:50.255132311]: Started Autorank
+[11:48:28.988696967]: Stopped Autorank
+[11:49:32.179083694]: Started Autorank
+[11:50:11.225413773]: Stopped Autorank
+[11:51:23.009343524]: Started Autorank
+[11:51:53.671823732]: Stopped Autorank
+[11:53:04.557205237]: Started Autorank
+[11:53:35.799870169]: Stopped Autorank
+[11:54:46.686959954]: Started Autorank
+[11:55:17.742735062]: Stopped Autorank
+[11:56:20.887627333]: Started Autorank
+[11:57:00.075765656]: Stopped Autorank
+[11:58:08.055262835]: Started Autorank
+[11:58:40.421731496]: Stopped Autorank
+[11:59:50.426335582]: Started Autorank
+[12:00:22.197861379]: Stopped Autorank
+[12:01:25.016893321]: Started Autorank
+[12:02:04.403644698]: Stopped Autorank
+[12:03:07.90217923]: Started Autorank
+[12:03:09.80387106]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[12:03:09.804535018]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[12:03:09.805649777]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[12:03:09.805750647]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[12:03:09.806814869]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[12:03:09.807007474]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[12:03:09.815779437]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[12:03:09.815918053]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[12:03:09.816817966]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[12:03:09.816925753]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[12:03:09.821214833]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[12:03:09.821336859]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[12:03:09.825375168]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[12:03:09.825535663]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[12:03:09.826786431]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[12:03:09.826902331]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[12:03:09.827989116]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[12:03:09.828090847]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[12:03:46.410225837]: Stopped Autorank
+[12:04:48.356824973]: Started Autorank
+[12:05:27.102732675]: Stopped Autorank
+[12:06:38.078418178]: Started Autorank
+[12:07:09.315232555]: Stopped Autorank
+[12:08:19.878817898]: Started Autorank
+[12:08:51.604327858]: Stopped Autorank
+[12:09:54.703000345]: Started Autorank
+[12:10:33.859551126]: Stopped Autorank
+[12:11:44.668179815]: Started Autorank
+[12:12:15.988405032]: Stopped Autorank
+[12:13:27.213705534]: Started Autorank
+[12:13:58.368274082]: Stopped Autorank
+[12:15:01.975563659]: Started Autorank
+[12:15:40.591851152]: Stopped Autorank
+[12:16:43.831245863]: Started Autorank
+[12:17:22.851600831]: Stopped Autorank
+[12:18:32.8783606]: Started Autorank
+[12:19:05.030422542]: Stopped Autorank
+[12:20:05.798917342]: Started Autorank
+[12:20:45.405687292]: Stopped Autorank
+[12:21:53.386851284]: Started Autorank
+[12:22:25.622498976]: Stopped Autorank
+[12:23:28.372373811]: Started Autorank
+[12:24:07.688007023]: Stopped Autorank
+[12:25:18.470907027]: Started Autorank
+[12:25:50.04097463]: Stopped Autorank
+[12:27:01.248301317]: Started Autorank
+[12:27:32.245626911]: Stopped Autorank
+[12:28:35.914463676]: Started Autorank
+[12:29:14.778616593]: Stopped Autorank
+[12:30:16.430403928]: Started Autorank
+[12:30:55.860386396]: Stopped Autorank
+[12:32:05.906971578]: Started Autorank
+[12:32:38.030728808]: Stopped Autorank
+[12:33:48.357998185]: Started Autorank
+[12:33:50.277826836]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[12:33:50.278620815]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[12:33:50.280165653]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[12:33:50.280285164]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[12:33:50.281457671]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[12:33:50.281575647]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[12:33:50.29109489]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[12:33:50.291229142]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[12:33:50.3017211]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[12:33:50.30182606]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[12:33:50.310640622]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[12:33:50.310744008]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[12:33:50.320432372]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[12:33:50.320549301]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[12:33:50.322441843]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[12:33:50.322536035]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[12:33:50.325025979]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[12:33:50.325118298]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[12:34:20.387889643]: Stopped Autorank
+[12:35:30.774302955]: Started Autorank
+[12:36:02.671815462]: Stopped Autorank
+[12:37:06.990553076]: Started Autorank
+[12:37:45.133612776]: Stopped Autorank
+[12:38:46.578906471]: Started Autorank
+[12:39:26.472245905]: Stopped Autorank
+[12:40:28.069093716]: Started Autorank
+[12:41:07.557744293]: Stopped Autorank
+[12:42:11.639004435]: Started Autorank
+[12:42:49.69797579]: Stopped Autorank
+[12:44:00.681746287]: Started Autorank
+[12:44:31.851945169]: Stopped Autorank
+[12:45:35.294954145]: Started Autorank
+[12:46:13.949615333]: Stopped Autorank
+[12:47:16.298690045]: Started Autorank
+[12:47:55.499874857]: Stopped Autorank
+[12:49:04.719931761]: Started Autorank
+[12:49:36.978876789]: Stopped Autorank
+[12:50:39.836961206]: Started Autorank
+[12:51:19.533663541]: Stopped Autorank
+[12:52:21.361463651]: Started Autorank
+[12:53:01.332439242]: Stopped Autorank
+[12:54:03.372297109]: Started Autorank
+[12:54:42.321698535]: Stopped Autorank
+[12:55:50.900153617]: Started Autorank
+[12:56:22.826308396]: Stopped Autorank
+[12:57:33.941083969]: Started Autorank
+[12:58:05.274754099]: Stopped Autorank
+[12:59:08.179701697]: Started Autorank
+[12:59:47.974829628]: Stopped Autorank
+[13:00:56.655919524]: Started Autorank
+[13:01:28.254440584]: Stopped Autorank
+[13:02:31.380650202]: Started Autorank
+[13:03:10.341616018]: Stopped Autorank
+[13:04:19.472773723]: Started Autorank
+[13:04:21.428095459]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[13:04:21.428784259]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[13:04:21.430373139]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[13:04:21.430471902]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[13:04:21.434252964]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[13:04:21.434390708]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[13:04:21.448672566]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[13:04:21.448799684]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[13:04:21.449832255]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[13:04:21.449949623]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[13:04:21.450869612]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[13:04:21.450962031]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[13:04:21.456975332]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[13:04:21.45710032]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[13:04:21.45869903]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[13:04:21.458858904]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[13:04:21.460125579]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[13:04:21.460249445]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[13:04:50.914896099]: Stopped Autorank
+[13:05:54.352386441]: Started Autorank
+[13:06:34.075158754]: Stopped Autorank
+[13:07:42.091870691]: Started Autorank
+[13:08:14.56740337]: Stopped Autorank
+[13:09:16.425821651]: Started Autorank
+[13:09:55.328815147]: Stopped Autorank
+[13:11:03.869706254]: Started Autorank
+[13:11:38.196496361]: Stopped Autorank
+[13:12:39.349612494]: Started Autorank
+[13:13:18.658076495]: Stopped Autorank
+[13:14:30.338525449]: Started Autorank
+[13:14:59.890934699]: Stopped Autorank
+[13:16:02.443869029]: Started Autorank
+[13:16:41.661661797]: Stopped Autorank
+[13:17:43.077483728]: Started Autorank
+[13:18:22.843521689]: Stopped Autorank
+[13:19:26.304807305]: Started Autorank
+[13:20:05.309989472]: Stopped Autorank
+[13:21:16.221806885]: Started Autorank
+[13:21:47.620783108]: Stopped Autorank
+[13:22:57.878289662]: Started Autorank
+[13:23:29.607235183]: Stopped Autorank
+[13:24:38.600811995]: Started Autorank
+[13:25:09.930504714]: Stopped Autorank
+[13:26:11.415852147]: Started Autorank
+[13:26:50.884198294]: Stopped Autorank
+[13:28:01.63475565]: Started Autorank
+[13:28:33.27703593]: Stopped Autorank
+[13:29:35.441038733]: Started Autorank
+[13:30:13.815597794]: Stopped Autorank
+[13:31:17.115625946]: Started Autorank
+[13:31:56.379899186]: Stopped Autorank
+[13:33:00.03803771]: Started Autorank
+[13:33:38.81407366]: Stopped Autorank
+[13:34:41.858212344]: Started Autorank
+[13:34:43.794412515]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[13:34:43.795147424]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[13:34:43.797534804]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[13:34:43.797672183]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[13:34:43.798762522]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[13:34:43.798927067]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[13:34:43.807961364]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[13:34:43.808062636]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[13:34:43.810239662]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[13:34:43.810369681]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[13:34:43.811657297]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[13:34:43.811765652]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[13:34:43.815145914]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[13:34:43.815246483]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[13:34:43.816067902]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[13:34:43.816155463]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[13:34:43.816839516]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[13:34:43.816914696]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[13:35:21.017862721]: Stopped Autorank
+[13:36:24.719259078]: Started Autorank
+[13:37:03.430618714]: Stopped Autorank
+[13:38:13.581422517]: Started Autorank
+[13:38:45.208574496]: Stopped Autorank
+[13:39:53.213643686]: Started Autorank
+[13:40:25.397803087]: Stopped Autorank
+[13:41:36.829528274]: Started Autorank
+[13:42:08.277528803]: Stopped Autorank
+[13:43:10.849769228]: Started Autorank
+[13:43:50.304644706]: Stopped Autorank
+[13:44:59.901904508]: Started Autorank
+[13:45:32.278348529]: Stopped Autorank
+[13:46:36.010948345]: Started Autorank
+[13:47:14.675488534]: Stopped Autorank
+[13:48:24.381488266]: Started Autorank
+[13:48:55.779741515]: Stopped Autorank
+[13:49:57.059076857]: Started Autorank
+[13:50:35.85711692]: Stopped Autorank
+[13:51:44.948442596]: Started Autorank
+[13:52:16.346812982]: Stopped Autorank
+[13:53:26.870344766]: Started Autorank
+[13:53:58.850412177]: Stopped Autorank
+[13:55:05.681350502]: Started Autorank
+[13:55:40.704795259]: Stopped Autorank
+[13:56:48.867166949]: Started Autorank
+[13:57:21.40784879]: Stopped Autorank
+[13:58:32.451816348]: Started Autorank
+[13:59:03.243038833]: Stopped Autorank
+[14:00:05.873157623]: Started Autorank
+[14:00:45.44688013]: Stopped Autorank
+[14:01:47.480709682]: Started Autorank
+[14:02:27.4432814]: Stopped Autorank
+[14:03:37.044892647]: Started Autorank
+[14:04:08.771923103]: Stopped Autorank
+[14:05:11.536190946]: Started Autorank
+[14:05:13.461521245]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[14:05:13.462166547]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[14:05:13.463327706]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[14:05:13.463439668]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[14:05:13.464311039]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[14:05:13.464396024]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[14:05:13.474381603]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[14:05:13.474501466]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[14:05:13.476471342]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[14:05:13.476609162]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[14:05:13.477664987]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[14:05:13.477767143]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[14:05:13.48142302]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[14:05:13.481530621]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[14:05:13.482402174]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[14:05:13.482497756]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[14:05:13.483766215]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[14:05:13.483859949]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[14:05:51.019703677]: Stopped Autorank
+[14:06:54.353898143]: Started Autorank
+[14:07:33.405908054]: Stopped Autorank
+[14:08:36.274947386]: Started Autorank
+[14:09:15.744362563]: Stopped Autorank
+[14:10:18.445184507]: Started Autorank
+[14:10:57.744519806]: Stopped Autorank
+[14:11:58.97872232]: Started Autorank
+[14:12:38.447555145]: Stopped Autorank
+[14:13:42.707933384]: Started Autorank
+[14:14:21.530999995]: Stopped Autorank
+[14:15:23.521325324]: Started Autorank
+[14:16:03.07763314]: Stopped Autorank
+[14:17:05.982468933]: Started Autorank
+[14:17:45.296236317]: Stopped Autorank
+[14:18:48.696225705]: Started Autorank
+[14:19:27.894078311]: Stopped Autorank
+[14:20:38.511309335]: Started Autorank
+[14:21:10.253000342]: Stopped Autorank
+[14:22:18.958960081]: Started Autorank
+[14:22:50.795676817]: Stopped Autorank
+[14:23:53.990366524]: Started Autorank
+[14:24:32.979766225]: Stopped Autorank
+[14:25:35.705042775]: Started Autorank
+[14:26:15.195113135]: Stopped Autorank
+[14:27:17.946031693]: Started Autorank
+[14:27:57.072493813]: Stopped Autorank
+[14:29:00.138821558]: Started Autorank
+[14:29:39.251441171]: Stopped Autorank
+[14:30:45.076455115]: Started Autorank
+[14:31:19.929360681]: Stopped Autorank
+[14:32:22.678125821]: Started Autorank
+[14:33:00.791696335]: Stopped Autorank
+[14:34:11.350950225]: Started Autorank
+[14:34:43.029088262]: Stopped Autorank
+[14:35:54.42967067]: Started Autorank
+[14:35:56.483898207]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[14:35:56.484668993]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[14:35:56.485955207]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[14:35:56.486056419]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[14:35:56.489044034]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[14:35:56.48915895]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[14:35:56.502061285]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[14:35:56.502173225]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[14:35:56.503903654]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[14:35:56.504048713]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[14:35:56.505186692]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[14:35:56.505367166]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[14:35:56.512279727]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[14:35:56.512407916]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[14:35:56.514902441]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[14:35:56.515048994]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[14:35:56.515974219]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[14:35:56.516076756]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[14:36:25.588334142]: Stopped Autorank
+[14:37:26.943869688]: Started Autorank
+[14:38:06.137415703]: Stopped Autorank
+[14:39:07.378184509]: Started Autorank
+[14:39:46.571579415]: Stopped Autorank
+[14:40:48.839620691]: Started Autorank
+[14:41:27.52660862]: Stopped Autorank
+[14:42:37.958887143]: Started Autorank
+[14:43:09.798080239]: Stopped Autorank
+[14:44:20.823045755]: Started Autorank
+[14:44:51.947314432]: Stopped Autorank
+[14:46:02.118847101]: Started Autorank
+[14:46:34.365041094]: Stopped Autorank
+[14:47:44.564808247]: Started Autorank
+[14:48:16.566624889]: Stopped Autorank
+[14:49:20.015986135]: Started Autorank
+[14:49:59.552375066]: Stopped Autorank
+[14:51:10.729468285]: Started Autorank
+[14:51:41.746419509]: Stopped Autorank
+[14:52:43.803040537]: Started Autorank
+[14:53:23.028879455]: Stopped Autorank
+[14:54:25.423741286]: Started Autorank
+[14:55:04.95953537]: Stopped Autorank
+[14:56:07.742440922]: Started Autorank
+[14:56:46.517263361]: Stopped Autorank
+[14:57:57.606303218]: Started Autorank
+[14:58:29.072078678]: Stopped Autorank
+[14:59:30.792573594]: Started Autorank
+[15:00:10.364654564]: Stopped Autorank
+[15:01:19.381373158]: Started Autorank
+[15:01:50.661824699]: Stopped Autorank
+[15:02:52.795868376]: Started Autorank
+[15:03:31.71658452]: Stopped Autorank
+[15:04:43.506768915]: Started Autorank
+[15:05:14.336128209]: Stopped Autorank
+[15:06:17.69460227]: Started Autorank
+[15:06:19.584020716]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[15:06:19.585823511]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[15:06:19.587234115]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[15:06:19.587327377]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[15:06:19.588258104]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[15:06:19.588348223]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[15:06:19.604301995]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[15:06:19.604415053]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[15:06:19.605404183]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[15:06:19.605516572]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[15:06:19.607040071]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[15:06:19.607154823]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[15:06:19.610759657]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[15:06:19.610864654]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[15:06:19.61180473]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[15:06:19.611896873]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[15:06:19.612623784]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[15:06:19.612703316]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[15:06:56.493835169]: Stopped Autorank
+[15:08:07.749099345]: Started Autorank
+[15:08:38.688256066]: Stopped Autorank
+[15:09:39.901914983]: Started Autorank
+[15:10:18.917952412]: Stopped Autorank
+[15:11:22.23618259]: Started Autorank
+[15:12:01.299495333]: Stopped Autorank
+[15:13:04.156176361]: Started Autorank
+[15:13:43.364733053]: Stopped Autorank
+[15:14:49.837993052]: Started Autorank
+[15:15:24.630059473]: Stopped Autorank
+[15:16:35.137049711]: Started Autorank
+[15:17:06.812811752]: Stopped Autorank
+[15:18:16.635588787]: Started Autorank
+[15:18:48.761847987]: Stopped Autorank
+[15:20:01.344388637]: Started Autorank
+[15:20:31.919822625]: Stopped Autorank
+[15:21:34.403429145]: Started Autorank
+[15:22:13.62775176]: Stopped Autorank
+[15:23:23.573544469]: Started Autorank
+[15:23:55.920305293]: Stopped Autorank
+[15:24:57.780147828]: Started Autorank
+[15:25:38.10428856]: Stopped Autorank
+[15:26:49.497332536]: Started Autorank
+[15:27:20.537007935]: Stopped Autorank
+[15:28:32.207676454]: Started Autorank
+[15:29:02.727819803]: Stopped Autorank
+[15:30:12.20909844]: Started Autorank
+[15:30:43.455305312]: Stopped Autorank
+[15:31:53.638037875]: Started Autorank
+[15:32:24.708198037]: Stopped Autorank
+[15:33:26.610530695]: Started Autorank
+[15:34:05.369196391]: Stopped Autorank
+[15:35:14.09708417]: Started Autorank
+[15:35:45.836889242]: Stopped Autorank
+[15:36:47.309556992]: Started Autorank
+[15:36:49.358117722]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[15:36:49.360252267]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[15:36:49.361689136]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[15:36:49.361799846]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[15:36:49.362723907]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[15:36:49.362830823]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[15:36:49.370039022]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[15:36:49.370134434]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[15:36:49.370797933]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[15:36:49.370863822]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[15:36:49.371467541]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[15:36:49.371541379]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[15:36:49.375832628]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[15:36:49.375928804]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[15:36:49.376731415]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[15:36:49.376830009]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[15:36:49.379063468]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[15:36:49.379157201]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[15:37:27.332678024]: Stopped Autorank
+[15:38:29.586146233]: Started Autorank
+[15:39:08.584815549]: Stopped Autorank
+[15:40:18.911921124]: Started Autorank
+[15:40:50.785988534]: Stopped Autorank
+[15:42:00.668674828]: Started Autorank
+[15:42:31.226978125]: Stopped Autorank
+[15:43:42.584132605]: Started Autorank
+[15:44:13.547963315]: Stopped Autorank
+[15:45:23.731643064]: Started Autorank
+[15:45:55.889683929]: Stopped Autorank
+[15:46:58.650773797]: Started Autorank
+[15:47:37.496155883]: Stopped Autorank
+[15:48:40.364907718]: Started Autorank
+[15:49:19.493361768]: Stopped Autorank
+[15:50:30.715253464]: Started Autorank
+[15:51:01.533526688]: Stopped Autorank
+[15:52:12.370849118]: Started Autorank
+[15:52:43.873600836]: Stopped Autorank
+[15:53:55.662345607]: Started Autorank
+[15:54:26.86674244]: Stopped Autorank
+[15:55:29.711860377]: Started Autorank
+[15:56:08.494044641]: Stopped Autorank
+[15:57:17.638351474]: Started Autorank
+[15:57:48.768094211]: Stopped Autorank
+[15:58:58.025563834]: Started Autorank
+[15:59:29.505835918]: Stopped Autorank
+[16:00:38.909060004]: Started Autorank
+[16:01:09.761096182]: Stopped Autorank
+[16:02:12.537019705]: Started Autorank
+[16:02:51.576726038]: Stopped Autorank
+[16:03:54.681783423]: Started Autorank
+[16:04:33.80682642]: Stopped Autorank
+[16:05:44.916585134]: Started Autorank
+[16:06:15.901975453]: Stopped Autorank
+[16:07:26.189862497]: Started Autorank
+[16:07:28.092525098]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[16:07:28.093164908]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[16:07:28.09531019]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[16:07:28.095415981]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[16:07:28.096512357]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[16:07:28.096611689]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[16:07:28.106883738]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[16:07:28.106992086]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[16:07:28.107843035]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[16:07:28.107941459]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[16:07:28.108827018]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[16:07:28.10893536]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[16:07:28.112823953]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[16:07:28.112929588]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[16:07:28.113891288]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[16:07:28.113997814]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[16:07:28.114857012]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[16:07:28.114942886]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[16:07:58.027980264]: Stopped Autorank
+[16:09:07.948932717]: Started Autorank
+[16:09:38.444433605]: Stopped Autorank
+[16:10:41.792734]: Started Autorank
+[16:11:21.276780051]: Stopped Autorank
+[16:12:22.884747857]: Started Autorank
+[16:13:02.381533293]: Stopped Autorank
+[16:14:06.053345221]: Started Autorank
+[16:14:44.739452327]: Stopped Autorank
+[16:15:55.229228552]: Started Autorank
+[16:16:26.927318159]: Stopped Autorank
+[16:17:35.938633207]: Started Autorank
+[16:18:07.495085914]: Stopped Autorank
+[16:19:18.724618612]: Started Autorank
+[16:19:50.180200665]: Stopped Autorank
+[16:20:53.909173662]: Started Autorank
+[16:21:32.584798534]: Stopped Autorank
+[16:22:44.117245114]: Started Autorank
+[16:23:14.866817052]: Stopped Autorank
+[16:24:18.223604777]: Started Autorank
+[16:24:56.922363503]: Stopped Autorank
+[16:26:05.866010446]: Started Autorank
+[16:26:37.103054477]: Stopped Autorank
+[16:27:41.220723758]: Started Autorank
+[16:28:19.881161414]: Stopped Autorank
+[16:29:22.743100159]: Started Autorank
+[16:30:01.851066089]: Stopped Autorank
+[16:31:03.738874716]: Started Autorank
+[16:31:43.567335818]: Stopped Autorank
+[16:32:54.570568103]: Started Autorank
+[16:33:26.349983143]: Stopped Autorank
+[16:34:37.088846296]: Started Autorank
+[16:35:08.695008444]: Stopped Autorank
+[16:36:19.765079731]: Started Autorank
+[16:36:50.973043388]: Stopped Autorank
+[16:37:59.987067269]: Started Autorank
+[16:38:01.91048393]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[16:38:01.911154218]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[16:38:01.912417893]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[16:38:01.912548585]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[16:38:01.913396534]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[16:38:01.91348956]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[16:38:01.921451121]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[16:38:01.921550567]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[16:38:01.922309973]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[16:38:01.922406263]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[16:38:01.923170968]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[16:38:01.923265402]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[16:38:01.926543562]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[16:38:01.926652518]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[16:38:01.927426701]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[16:38:01.927515243]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[16:38:01.928175779]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[16:38:01.928245505]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[16:38:31.499866806]: Stopped Autorank
+[16:39:35.29051999]: Started Autorank
+[16:40:13.685978537]: Stopped Autorank
+[16:41:15.744687999]: Started Autorank
+[16:41:55.873593116]: Stopped Autorank
+[16:43:06.726364558]: Started Autorank
+[16:43:38.412668406]: Stopped Autorank
+[16:44:41.214061713]: Started Autorank
+[16:45:20.665935654]: Stopped Autorank
+[16:46:31.724170302]: Started Autorank
+[16:47:02.830915421]: Stopped Autorank
+[16:48:05.293617482]: Started Autorank
+[16:48:44.947519864]: Stopped Autorank
+[16:49:51.994378928]: Started Autorank
+[16:50:26.328582459]: Stopped Autorank
+[16:51:29.883240889]: Started Autorank
+[16:52:08.61122415]: Stopped Autorank
+[16:53:09.81389622]: Started Autorank
+[16:53:50.774199856]: Stopped Autorank
+[16:54:54.590876683]: Started Autorank
+[16:55:33.094080795]: Stopped Autorank
+[16:56:36.620585422]: Started Autorank
+[16:57:15.479948351]: Stopped Autorank
+[16:58:26.018190406]: Started Autorank
+[16:58:57.576353137]: Stopped Autorank
+[17:00:00.388500993]: Started Autorank
+[17:00:40.439334207]: Stopped Autorank
+[17:01:43.302208594]: Started Autorank
+[17:02:21.994483142]: Stopped Autorank
+[17:03:33.571455318]: Started Autorank
+[17:04:04.256350562]: Stopped Autorank
+[17:05:06.924979355]: Started Autorank
+[17:05:46.662092673]: Stopped Autorank
+[17:06:59.235648485]: Started Autorank
+[17:07:28.943310871]: Stopped Autorank
+[17:08:38.310669103]: Started Autorank
+[17:08:40.29644899]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[17:08:40.297080503]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[17:08:40.29834525]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[17:08:40.298458177]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[17:08:40.305461329]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[17:08:40.305596175]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[17:08:40.313741032]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[17:08:40.313854803]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[17:08:40.315285171]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[17:08:40.315389616]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[17:08:40.317202785]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[17:08:40.317329156]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[17:08:40.321510958]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[17:08:40.321611887]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[17:08:40.322538489]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[17:08:40.322631513]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[17:08:40.323635966]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[17:08:40.323746311]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[17:09:09.812606947]: Stopped Autorank
+[17:10:20.4922823]: Started Autorank
+[17:10:51.925925095]: Stopped Autorank
+[17:11:56.185549269]: Started Autorank
+[17:12:34.326937085]: Stopped Autorank
+[17:13:43.632294483]: Started Autorank
+[17:14:15.472703221]: Stopped Autorank
+[17:15:18.666159296]: Started Autorank
+[17:15:57.646650067]: Stopped Autorank
+[17:17:07.857922375]: Started Autorank
+[17:17:39.814608601]: Stopped Autorank
+[17:18:48.655561515]: Started Autorank
+[17:19:20.854593053]: Stopped Autorank
+[17:20:31.253538198]: Started Autorank
+[17:21:02.892347969]: Stopped Autorank
+[17:22:06.308969056]: Started Autorank
+[17:22:45.240933918]: Stopped Autorank
+[17:23:46.636342278]: Started Autorank
+[17:24:25.73320613]: Stopped Autorank
+[17:25:26.305433409]: Started Autorank
+[17:26:06.093755457]: Stopped Autorank
+[17:27:09.344159583]: Started Autorank
+[17:27:48.153917244]: Stopped Autorank
+[17:28:48.634530798]: Started Autorank
+[17:29:28.422273054]: Stopped Autorank
+[17:30:38.714039628]: Started Autorank
+[17:31:10.640713397]: Stopped Autorank
+[17:32:13.102562466]: Started Autorank
+[17:32:51.833608517]: Stopped Autorank
+[17:33:53.876904859]: Started Autorank
+[17:34:34.368370739]: Stopped Autorank
+[17:35:45.098808395]: Started Autorank
+[17:36:16.312989924]: Stopped Autorank
+[17:37:17.471337833]: Started Autorank
+[17:37:57.081767402]: Stopped Autorank
+[17:39:09.178690037]: Started Autorank
+[17:39:11.203999667]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[17:39:11.204658931]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[17:39:11.205775656]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[17:39:11.206034823]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[17:39:11.207469136]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[17:39:11.207584046]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[17:39:11.21682726]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[17:39:11.216934746]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[17:39:11.217943297]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[17:39:11.218057646]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[17:39:11.218943442]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[17:39:11.219046008]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[17:39:11.227485885]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[17:39:11.22758197]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[17:39:11.232462692]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[17:39:11.232558299]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[17:39:11.233245765]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[17:39:11.233340828]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[17:39:39.317991405]: Stopped Autorank
+[17:40:50.501513387]: Started Autorank
+[17:41:21.259159307]: Stopped Autorank
+[17:42:32.188343627]: Started Autorank
+[17:43:03.245769719]: Stopped Autorank
+[17:44:12.135034104]: Started Autorank
+[17:44:43.494534153]: Stopped Autorank
+[17:45:46.620077155]: Started Autorank
+[17:46:25.819472035]: Stopped Autorank
+[17:47:29.677547944]: Started Autorank
+[17:48:08.39511375]: Stopped Autorank
+[17:49:18.710447153]: Started Autorank
+[17:49:49.990540882]: Stopped Autorank
+[17:50:55.902564222]: Started Autorank
+[17:51:31.389618494]: Stopped Autorank
+[17:52:34.003644639]: Started Autorank
+[17:53:13.429612458]: Stopped Autorank
+[17:54:23.008485487]: Started Autorank
+[17:54:55.443445913]: Stopped Autorank
+[17:56:05.669165562]: Started Autorank
+[17:56:37.578722626]: Stopped Autorank
+[17:57:38.189210214]: Started Autorank
+[17:58:17.863975165]: Stopped Autorank
+[17:59:26.904852386]: Started Autorank
+[17:59:58.585091381]: Stopped Autorank
+[18:01:01.549663368]: Started Autorank
+[18:01:41.169370407]: Stopped Autorank
+[18:02:42.940113414]: Started Autorank
+[18:03:22.709813009]: Stopped Autorank
+[18:04:33.571655763]: Started Autorank
+[18:05:04.607580694]: Stopped Autorank
+[18:06:13.645967407]: Started Autorank
+[18:06:45.011703609]: Stopped Autorank
+[18:07:48.474481738]: Started Autorank
+[18:08:27.306963396]: Stopped Autorank
+[18:09:37.649315399]: Started Autorank
+[18:09:39.835578286]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[18:09:39.836306933]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[18:09:39.837915932]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[18:09:39.838169001]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[18:09:39.839054442]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[18:09:39.83914357]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[18:09:39.846847001]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[18:09:39.846951138]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[18:09:39.847790036]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[18:09:39.847883871]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[18:09:39.848690823]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[18:09:39.84878907]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[18:09:39.852697393]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[18:09:39.852804704]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[18:09:39.854476117]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[18:09:39.8546143]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[18:09:39.856228424]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[18:09:39.856346573]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[18:10:09.332629327]: Stopped Autorank
+[18:11:15.908097486]: Started Autorank
+[18:11:52.53216471]: Stopped Autorank
+[18:13:02.628502335]: Started Autorank
+[18:13:07.200341487]: Stopped Autorank
+[18:16:39.372133232]: Started Autorank
+[18:16:56.275859739]: Stopped Autorank
+[18:18:03.611054138]: Started Autorank
+[18:18:35.218972712]: Stopped Autorank
+[18:19:39.331084549]: Started Autorank
+[18:20:17.862622573]: Stopped Autorank
+[18:21:28.053812863]: Started Autorank
+[18:21:59.819816555]: Stopped Autorank
+[18:23:11.043350568]: Started Autorank
+[18:23:42.398794042]: Stopped Autorank
+[18:24:52.691150814]: Started Autorank
+[18:25:24.632262017]: Stopped Autorank
+[18:26:27.834788635]: Started Autorank
+[18:27:06.804377444]: Stopped Autorank
+[18:28:08.878822063]: Started Autorank
+[18:28:47.970951786]: Stopped Autorank
+[18:29:55.27859759]: Started Autorank
+[18:30:30.137761247]: Stopped Autorank
+[18:31:34.119015664]: Started Autorank
+[18:32:12.352571057]: Stopped Autorank
+[18:33:16.227488405]: Started Autorank
+[18:33:55.666846097]: Stopped Autorank
+[18:35:01.488394514]: Started Autorank
+[18:35:35.888347789]: Stopped Autorank
+[18:36:47.776647566]: Started Autorank
+[18:37:18.321804105]: Stopped Autorank
+[18:38:28.351382302]: Started Autorank
+[18:38:59.87698043]: Stopped Autorank
+[18:40:08.681767758]: Started Autorank
+[18:40:10.790281174]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[18:40:10.790931962]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[18:40:10.792200009]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[18:40:10.792294298]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[18:40:10.793249067]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[18:40:10.793345102]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[18:40:10.801552538]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[18:40:10.801668039]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[18:40:10.802510215]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[18:40:10.802611177]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[18:40:10.803455468]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[18:40:10.803552223]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[18:40:10.819005422]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[18:40:10.819121592]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[18:40:10.821231965]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[18:40:10.821324602]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[18:40:10.822023691]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[18:40:10.822097535]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[18:40:39.939746724]: Stopped Autorank
+[18:41:49.575197098]: Started Autorank
+[18:42:00.598093198]: Stopped Autorank
+[18:45:38.616986836]: Started Autorank
+[18:45:40.953639443]: Stopped Autorank
+[18:46:49.9799122]: Started Autorank
+[18:47:21.594131465]: Stopped Autorank
+[18:48:22.175355169]: Started Autorank
+[18:48:31.663412099]: Stopped Autorank
+[23:10:01.174119405]: Started Autorank
+[23:10:03.121880503]: Fetched fresh (MySQL) DAILY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 96 minutes
+[23:10:03.122668955]: Retrieved fresh time (MySQL) DAILY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 96 minutes
+[23:10:03.124248068]: Fetched fresh (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 215 minutes
+[23:10:03.124364746]: Retrieved fresh time (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 215 minutes
+[23:10:03.134603636]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[23:10:03.134718415]: Retrieved fresh time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[23:10:03.136063602]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:10:03.136429936]: Retrieved fresh time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:10:03.137524042]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:10:03.137617375]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:10:03.141689303]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[23:10:03.141803125]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[23:10:03.14294877]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:10:03.143075726]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:10:03.143951923]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:10:03.144030978]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:10:03.165310227]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[23:10:03.165468329]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[23:10:03.166303646]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:10:03.166379117]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:10:03.172363436]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:10:03.172469224]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:11:02.826710849]: Resetting daily time file
+[23:11:02.840145252]: Retrieved cached time (MySQL) DAILY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 96 minutes
+[23:11:02.840363616]: Retrieved cached time (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 215 minutes
+[23:11:02.842314473]: Resetting weekly time file
+[23:11:02.845127116]: Retrieved cached time (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 96 minutes
+[23:11:02.845327899]: Retrieved cached time (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:11:02.845444867]: Retrieved cached time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:16:02.821260999]: Fetched fresh (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 0 minutes
+[23:16:02.823103363]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 0 minutes
+[23:16:02.841788043]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:16:02.862809919]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:16:02.863963079]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 0 minutes
+[23:16:02.86474681]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[23:16:02.865431297]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[23:16:02.866365399]: Fetched fresh (MySQL) DAILY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 0 minutes
+[23:16:02.867145971]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 0 minutes
+[23:16:02.86801924]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:16:02.869047268]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:19:02.539892528]: Setting (Flatfile) DAILY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 to: 4
+[23:19:02.540465621]: Setting (Flatfile) WEEKLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 to: 4
+[23:19:02.540538788]: Setting (Flatfile) MONTHLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 to: 300
+[23:19:02.540577295]: Setting (Flatfile) TOTAL_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 to: 300
+[23:19:02.76374696]: Adding (MySQL) DAILY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 time: 4 minutes
+[23:19:02.763746933]: Adding (MySQL) MONTHLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 time: 4 minutes
+[23:19:02.764091972]: Adding (MySQL) WEEKLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 time: 4 minutes
+[23:19:02.767531488]: Adding (MySQL) TOTAL_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 time: 4 minutes
+[23:21:02.823999905]: Fetched fresh (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 0 minutes
+[23:21:02.824789238]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 0 minutes
+[23:23:32.819324326]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:23:32.820214168]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:23:32.820780959]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 0 minutes
+[23:23:32.82128843]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[23:23:32.821809485]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[23:23:32.822406233]: Fetched fresh (MySQL) DAILY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 0 minutes
+[23:23:32.822940872]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 0 minutes
+[23:23:32.823388548]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:23:32.823885873]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:28:32.819156455]: Fetched fresh (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 0 minutes
+[23:28:32.819731919]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 0 minutes
+[23:28:32.820629444]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:28:32.821697148]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:28:32.823585778]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 0 minutes
+[23:28:32.824139926]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[23:28:32.82448501]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[23:28:32.82479911]: Fetched fresh (MySQL) DAILY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 0 minutes
+[23:28:32.825109814]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 0 minutes
+[23:28:32.825426749]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:28:32.82574168]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:36:02.819619456]: Fetched fresh (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 0 minutes
+[23:36:02.820799933]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 0 minutes
+[23:36:02.821288778]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:36:02.821734126]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:36:02.825960496]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 0 minutes
+[23:36:02.826773642]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[23:36:02.82728342]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[23:36:02.82775448]: Fetched fresh (MySQL) DAILY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 0 minutes
+[23:36:02.829121575]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 0 minutes
+[23:36:02.829918229]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:36:02.830684073]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:43:32.819514704]: Fetched fresh (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 0 minutes
+[23:43:32.820472906]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 0 minutes
+[23:43:32.821064402]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:43:32.821507278]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:43:32.821896269]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 0 minutes
+[23:43:32.822286738]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[23:43:32.822714106]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[23:43:32.823129405]: Fetched fresh (MySQL) DAILY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 0 minutes
+[23:43:32.823518198]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 0 minutes
+[23:43:32.823910153]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:43:32.824288001]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:48:32.832187528]: Fetched fresh (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 0 minutes
+[23:48:32.832731602]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 0 minutes
+[23:48:32.833233993]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:48:32.834787208]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[23:48:32.835543774]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 0 minutes
+[23:48:32.835954001]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[23:48:32.836348058]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[23:48:32.837290185]: Fetched fresh (MySQL) DAILY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 0 minutes
+[23:48:32.838272319]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 0 minutes
+[23:48:32.838706071]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:48:32.839151951]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:48:36.819452319]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 5
+[23:48:36.819542302]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 5
+[23:48:36.819578655]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1028
+[23:48:36.819608578]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1028
+[23:48:36.868096941]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:48:36.868104083]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:48:36.868099773]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:48:36.868460592]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:53:32.866086017]: Fetched fresh (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 5 minutes
+[23:53:32.86814293]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 5 minutes
+[23:53:32.868989875]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1021 minutes
+[23:53:32.877760103]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1021 minutes
+[23:53:32.878257971]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 0 minutes
+[23:53:32.878715072]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[23:53:32.879193431]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[23:53:32.879714007]: Fetched fresh (MySQL) DAILY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 0 minutes
+[23:53:32.88018653]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 0 minutes
+[23:53:32.880909672]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:53:32.881604579]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[23:53:36.818429303]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 10
+[23:53:36.818530713]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 10
+[23:53:36.818570364]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1033
+[23:53:36.818603452]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1033
+[23:53:36.868117148]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:53:36.868117312]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:53:36.868464376]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:53:36.868117317]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:58:36.818509681]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 15
+[23:58:36.818619956]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 15
+[23:58:36.818657079]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1038
+[23:58:36.818683841]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1038
+[23:58:36.86807842]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:58:36.868078381]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:58:36.868162816]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:58:36.868168026]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:01:02.82160877]: Resetting daily time file
+[00:01:02.830975328]: Retrieved cached time (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 5 minutes
+[00:01:02.831613291]: Fetched fresh (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 15 minutes
+[00:01:02.835396208]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 15 minutes
+[00:01:02.835903233]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1031 minutes
+[00:01:02.83660815]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1031 minutes
+[00:01:02.837115672]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 0 minutes
+[00:01:02.84160783]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[00:01:02.842284198]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[00:01:02.842791162]: Fetched fresh (MySQL) DAILY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 0 minutes
+[00:01:02.843423455]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 0 minutes
+[00:01:02.843860447]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[00:01:02.844233229]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[00:03:36.818664774]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 5
+[00:03:36.81875232]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 20
+[00:03:36.818788725]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1043
+[00:03:36.818814162]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1043
+[00:03:36.868094941]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:03:36.868123105]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:03:36.868268537]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:03:36.86812311]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:08:32.822469983]: Fetched fresh (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 5 minutes
+[00:08:32.823382667]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 20 minutes
+[00:08:32.824361464]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1036 minutes
+[00:08:32.824846757]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1036 minutes
+[00:08:32.825392475]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 0 minutes
+[00:08:32.828633369]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[00:08:32.829190445]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[00:08:32.829742621]: Fetched fresh (MySQL) DAILY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 0 minutes
+[00:08:32.830204813]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 0 minutes
+[00:08:32.830635825]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[00:08:32.831125461]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[00:08:36.846757137]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 10
+[00:08:36.846868553]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 25
+[00:08:36.846899899]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1048
+[00:08:36.84692592]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1048
+[00:08:36.868107149]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:08:36.868260091]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:08:36.868359851]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:08:36.869019561]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:13:36.823536002]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 15
+[00:13:36.823634191]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 30
+[00:13:36.823667436]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1053
+[00:13:36.823695283]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1053
+[00:13:36.868151963]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:13:36.868151948]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:13:36.868406811]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:13:36.868664705]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:16:02.821750917]: Fetched fresh (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 15 minutes
+[00:16:02.822381945]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 30 minutes
+[00:16:02.822923982]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1046 minutes
+[00:16:02.823496672]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1046 minutes
+[00:16:02.825806067]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 0 minutes
+[00:16:02.826395734]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[00:16:02.827242503]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[00:16:02.827757752]: Fetched fresh (MySQL) DAILY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 0 minutes
+[00:16:02.828492734]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 0 minutes
+[00:16:02.829003192]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[00:16:02.829510955]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[00:18:36.818361784]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 20
+[00:18:36.826154473]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 35
+[00:18:36.826224025]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1058
+[00:18:36.826251219]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1058
+[00:18:36.868094184]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:18:36.868095056]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:18:36.868150297]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:18:36.868315376]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:23:32.819595354]: Fetched fresh (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 20 minutes
+[00:23:32.820160137]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 35 minutes
+[00:23:32.820542739]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1051 minutes
+[00:23:32.820894049]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1051 minutes
+[00:23:32.821258608]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 0 minutes
+[00:23:32.821790873]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[00:23:32.822154365]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[00:23:32.822569831]: Fetched fresh (MySQL) DAILY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 0 minutes
+[00:23:32.823087427]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 0 minutes
+[00:23:32.823564987]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[00:23:32.823987906]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[00:23:36.84546904]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 25
+[00:23:36.845557641]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 40
+[00:23:36.845587109]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1063
+[00:23:36.845611461]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1063
+[00:23:36.868121714]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:23:36.868121735]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:23:36.86839597]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:23:36.86913858]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:28:32.868360956]: Fetched fresh (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 25 minutes
+[00:28:32.86911543]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 40 minutes
+[00:28:32.871529478]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1056 minutes
+[00:28:32.872257496]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1056 minutes
+[00:28:32.872819259]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 0 minutes
+[00:28:32.873423388]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[00:28:32.874040172]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[00:28:32.87457251]: Fetched fresh (MySQL) DAILY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 0 minutes
+[00:28:32.875092206]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 0 minutes
+[00:28:32.875545946]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[00:28:32.875929405]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[00:28:36.818466661]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 30
+[00:28:36.818550535]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 45
+[00:28:36.818579138]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1068
+[00:28:36.818603647]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1068
+[00:28:36.86812335]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:28:36.868123378]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:28:36.868201181]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:28:36.868123374]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:33:36.81835723]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 35
+[00:33:36.818451452]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 50
+[00:33:36.818489683]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1073
+[00:33:36.818514194]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1073
+[00:33:36.818866573]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:33:36.819138015]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:33:36.819185711]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:33:36.8206224]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:36:02.819763191]: Fetched fresh (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 35 minutes
+[00:36:02.820620046]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 50 minutes
+[00:36:02.821611565]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1066 minutes
+[00:36:02.822102352]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1066 minutes
+[00:36:02.825477257]: Fetched fresh (MySQL) WEEKLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 0 minutes
+[00:36:02.826089385]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[00:36:02.826683693]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[00:36:02.827207779]: Fetched fresh (MySQL) DAILY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 0 minutes
+[00:36:02.827727048]: Fetched fresh (MySQL) WEEKLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 0 minutes
+[00:36:02.828232001]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[00:36:02.828668543]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[00:38:36.818422922]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 40
+[00:38:36.818542112]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 55
+[00:38:36.818570585]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1078
+[00:38:36.818590611]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1078
+[00:38:36.868109137]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:38:36.86810914]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:38:36.868408912]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:38:36.868406664]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:39:41.945722469]: Stopped Autorank

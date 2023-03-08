@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.218.127.162
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1677612722417
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677625494639
+  login: 1677625465416
+money: '2990.0'
+last-account-name: Rydeenn
+geolocation: Saint-Denis, Seine-Saint-Denis, France
+logoutlocation:
+  world: ebfb5284-4a20-4152-b278-694b10616f84
+  world-name: world
+  x: 6357.531955707066
+  y: 64.875
+  z: -4103.736856024792
+  yaw: 179.9902801513672
+  pitch: 33.38127899169922
+lastlocation:
+  world: ebfb5284-4a20-4152-b278-694b10616f84
+  world-name: world
+  x: 5167.201937456437
+  y: 82.0
+  z: -1993.6375592565892
+  yaw: 137.82785034179688
+  pitch: 29.83621597290039

@@ -1,0 +1,52 @@
+version: '3'
+services:
+  db:
+    image: mysql:latest
+    volumes:
+      - /fast/containers/mariadb/minecraft:/var/lib/mysql
+    restart: always
+    deploy:
+      resources:
+        limits:
+          memory: 5g
+        reservations:
+          memory: 512m
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
+      MYSQL_DATABASE: ${MYSQL_DATABASE}
+      MYSQL_USER: ${MYSQL_USER}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD}
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "--silent"]
+      interval: 20s
+      timeout: 10s
+      retries: 8
+  
+  minecraft:
+    image: "marctv/minecraft-papermc-server:latest"
+    labels:
+      - "com.centurylinklabs.watchtower.enable=false"
+    restart: always
+    links:
+      - db
+    depends_on:
+      db:
+        condition: service_healthy
+    deploy:
+      resources:
+        limits:
+          memory: 22g
+        reservations:
+          memory: 1g
+    environment:
+      MEMORYSIZE: "20G"
+    volumes:
+      - "/fast/containers/minecraft:/data:rw"
+    ports:
+      - "25565:25565"
+      - "8123:8123"
+      - "24454:24454/udp"
+      - "25575:25575"
+    # The following allow `docker attach minecraft` to work
+    stdin_open: true
+    tty: true

@@ -1,0 +1,32 @@
+[2023-01-15 18:53:37] - Cowbraaa bought 1 x Polished Blackstone Brick Stairs(Blocks.23) for €0.79 with the buy screen.
+[2023-01-15 18:54:24] - Cowbraaa bought 2 x Blackstone(Blocks.20) for €1.50 with the buy screen.
+[2023-01-16 16:16:34] - Cowbraaa bought 1 x Enchanted Book(Enchanting.1) for €160 with the buy screen.
+[2023-01-16 16:50:48] - Cowbraaa bought 1 x Chain(Decoration.1) for €26.71 with the buy screen.
+[2023-01-16 16:50:58] - Cowbraaa sold 1 x Chain(Decoration.1) for €6.68 with the sell screen.
+[2023-01-16 16:53:55] - [Paysan] Cowbraaa sold 1x Vine(Decoration.81) for €1.75 with the sell all command.
+[2023-01-17 00:17:06] - THOM80160 bought 64 x Fire Coral(Decoration.45) for €320 with the buy stacks screen.
+[2023-01-17 00:17:15] - THOM80160 bought 1 x Orange Candle(Decoration.18) for €12.30 with the buy screen.
+[2023-01-17 00:44:06] - THOM80160 bought 5 x Bubble Coral Fan(Decoration.29) for €15 with the buy screen.
+[2023-01-17 00:51:58] - THOM80160 bought 3 x Spore Blossom(Decoration.6) for €10.50 with the buy screen.
+[2023-01-17 00:52:25] - THOM80160 bought 3 x Gold Ingot(Ores.14) for €94.50 with the buy screen.
+[2023-01-17 00:52:41] - THOM80160 bought 3 x Gold Ingot(Ores.14) for €94.50 with the buy screen.
+[2023-01-17 00:53:23] - THOM80160 bought 3 x Turtle Egg(Miscellaneous.37) for €45 with the buy screen.
+[2023-01-17 00:53:38] - THOM80160 bought 1 x Axolotl Bucket(Miscellaneous.2) for €73.26 with the buy screen.
+[2023-01-17 01:50:38] - THOM80160 bought 6 x Gold Ingot(Ores.14) for €189 with the buy screen.
+[2023-01-17 01:56:03] - Cowbraaa bought 1 x Ender Chest(Miscellaneous.8) for €273.12 with the buy screen.
+[2023-01-17 01:56:13] - Cowbraaa bought 1 x Totem Of Undying(Miscellaneous.34) for €100 with the buy screen.
+[2023-01-17 02:07:24] - THOM80160 bought 1 x Gold Ingot(Ores.14) for €31.50 with the buy screen.
+[2023-01-17 02:13:54] - THOM80160 bought 6 x Iron Ingot(Ores.16) for €126 with the buy screen.
+[2023-01-17 03:02:21] - THOM80160 bought 10 x Iron Ingot(Ores.16) for €210 with the buy screen.
+[2023-01-17 03:02:47] - Cowbraaa bought 64 x White Concrete(Blocks.45) for €512.64 with the buy screen.
+[2023-01-17 03:38:48] - THOM80160 bought 1 x Verdant Froglight(Decoration.66) for €6 with the buy screen.
+[2023-01-17 03:39:40] - THOM80160 bought 3 x Verdant Froglight(Decoration.66) for €18 with the buy screen.
+[2023-01-17 03:40:15] - THOM80160 bought 1 x Verdant Froglight(Decoration.66) for €6 with the buy screen.
+[2023-01-17 03:41:26] - THOM80160 bought 1 x Sea Lantern(Decoration.62) for €66.15 with the buy screen.
+[2023-01-17 03:41:44] - THOM80160 bought 1 x Pearlescent Froglight(Decoration.65) for €6 with the buy screen.
+[2023-01-17 03:41:48] - THOM80160 bought 1 x Ochre Froglight(Decoration.64) for €6 with the buy screen.
+[2023-01-17 03:42:30] - THOM80160 bought 2 x Verdant Froglight(Decoration.66) for €12 with the buy screen.
+[2023-01-17 03:42:34] - THOM80160 bought 3 x Pearlescent Froglight(Decoration.65) for €18 with the buy screen.
+[2023-01-17 03:46:22] - THOM80160 bought 1 x Verdant Froglight(Decoration.66) for €6 with the buy screen.
+[2023-01-17 03:51:54] - THOM80160 bought 2 x Flowering Azalea(Decoration.74) for €6 with the buy screen.
+[2023-01-17 03:53:01] - THOM80160 bought 1 x Pearlescent Froglight(Decoration.65) for €6 with the buy screen.

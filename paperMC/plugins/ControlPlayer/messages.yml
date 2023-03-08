@@ -1,0 +1,24 @@
+messages:
+  prefix: '&8[&4&lC&c&lP&8]'
+  normal_usage: '%prefix% &7Use &e/cp [player] &7to control someone. Execute this
+    command again to stop controlling the player.'
+  silent_usage: '%prefix% &7Use &e/scp [player] &7to control someone. Execute this
+    command again to stop controlling the player.'
+  being_controlled: '%prefix% You were being controlled right now!'
+  normal_success: '%prefix% &aYou are controlling %player%!'
+  silent_success: '%prefix% &aYou are controlling %player%! Press &eLEFT CLICK 3x
+    &ato take control of the player. Hold &eSNEAK &aand click &eLEFT CLICK 3x §ato
+    free the player again!'
+  error: '%prefix% &cSomething went wrong!'
+  no_permission: '%prefix% &cMissing permissions!'
+  not_alive: '%prefix% &cThe player you want to control isn''t alive. (dead)'
+  only_players: '%prefix% &cYou are not a player!'
+  stopped_controlling: '%prefix% &aYou stopped controlling the player!'
+  already_controlled: '%prefix% &cSomeone else is already controlling this player!'
+  player_imun: '%prefix% &cYou are not allowed to control this player!'
+  self_control: '%prefix% &cYou can not control yourself!'
+  not_online: '%prefix% &7This player is not online!'
+  player_left: '%prefix% &cThe player you have controlled left the server!'
+  player_died: '%prefix% &cThe player you controlled died!'
+  controlling_actionbar_text: '&aYou are controlling %player%'
+  waiting_actionbar_text: '&eLEFT CLICK 3x &7to toggle control-mode!'

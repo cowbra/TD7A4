@@ -1,0 +1,56 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.18.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: true
+timestamps:
+  lastteleport: 1677715833379
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677800527733
+  login: 1677800223639
+money: '8079.96210000000002454'
+logoutlocation:
+  world: 47b22722-ebe5-4250-aff6-eb76e4102f45
+  world-name: world_nether
+  x: -17.21486997976088
+  y: 47.0
+  z: -31.79574031450871
+  yaw: 9.743682861328125
+  pitch: 17.399677276611328
+last-account-name: Cowbraaa
+lastlocation:
+  world: 84bce1b5-5ef9-4ca4-a4fe-39515d5cf8e3
+  world-name: world
+  x: 5234.008206841087
+  y: 103.0
+  z: -1474.887450835393
+  yaw: 123.13175964355469
+  pitch: 38.249610900878906
+homes:
+  home:
+    world: 84bce1b5-5ef9-4ca4-a4fe-39515d5cf8e3
+    world-name: world
+    x: 5034.957137760976
+    y: 64.0
+    z: -1759.671146149156
+    yaw: 165.1279296875
+    pitch: 28.64873695373535
+  gare2:
+    world: 84bce1b5-5ef9-4ca4-a4fe-39515d5cf8e3
+    world-name: world
+    x: 5065.277954331631
+    y: 35.0
+    z: -1702.223415223976
+    yaw: -153.83203125
+    pitch: 20.699865341186523
+geolocation: Paris, Paris, France

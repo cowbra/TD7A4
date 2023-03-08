@@ -1,0 +1,26 @@
+{"sets": {"essentials.homes": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Homes","markers": {"world\/Cowbraaa": {"markup": false,"x": 5135.21,"icon": "house","y": 78.00,"dim": "16x16","z": -1997.80,"label": "Cowbraaa(home)"}
+}
+,"lines": {}
+,"layerprio": 10}
+,"worldborder.markerset": {"hide": false,"circles": {"worldborder_world": {"fillcolor": "#000000","color": "#FF0000","markup": false,"x": 5119.27,"zr": 3000.00,"y": 320.00,"weight": 3,"z": -1986.50,"xr": 3000.00,"label": "The border of the world.","opacity": 1.00,"fillopacity": 0.00}
+}
+,"areas": {}
+,"label": "WorldBorder","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"essentials.warps": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Warps","markers": {"world\/slime1": {"markup": false,"x": 3695.73,"icon": "portal","y": 82.00,"dim": "16x16","z": -3192.66,"label": "[slime1]"}
+}
+,"lines": {}
+,"layerprio": 10}
+,"markers": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Markers","markers": {"_spawn_world": {"markup": false,"x": 5076.00,"icon": "world","y": 274.00,"dim": "16x16","z": -2067.00,"label": "Spawn"}
+}
+,"lines": {}
+,"layerprio": 0}
+}
+,"timestamp": 1673879740154}

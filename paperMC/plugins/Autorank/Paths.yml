@@ -1,0 +1,49 @@
+# Paths file - This file will contain all paths that a player is allowed to take. Previously known as 'AdvancedConfig.yml'.
+# This file contains (by default) a Test group that shows the basic syntax of this file.
+# For more information, go to https://github.com/Armarr/Autorank-2/wiki/How-to-configure-the-Paths.yml-file%3F.
+default to paysan:
+  prerequisites:
+    in group:
+      value: default
+  requirements:
+    time:
+      value: 2h
+  results:
+    money:
+      value: 500
+    command:
+      value: lp user &p promote voie
+    message:
+      value: Félicitations, tu as été promu au rang de Paysan!
+  options:
+    display name: Paysan
+    auto choose: true
+    allow partial completion: false
+    show based on prerequisites: true
+
+paysan to citoyen:
+  prerequisites:
+    in group:
+      value: Paysan
+  requirements:
+    time:
+      value: 4h
+    blocks moved :
+      value: 2000
+    money:
+      value: 500
+      options:    # Give the requirement a better description
+        description: 'Deviens riche !'
+  results:
+    money:
+      value: 1000
+    command:
+      value: lp user &p promote voie
+    message:
+      value: Félicitations, tu as été promu au rang de Citoyen! 
+  options:
+    display name: Citoyen
+    auto choose: true
+    allow partial completion: false
+    show based on prerequisites: true
+

@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.199.101.14
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1674757931381
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674769148426
+  login: 1674746731566
+money: '17835.24600000000000896'
+last-account-name: Louloudinette
+logoutlocation:
+  world: ebfb5284-4a20-4152-b278-694b10616f84
+  world-name: world
+  x: 5954.462934055158
+  y: 189.0
+  z: -2270.487500011921
+  yaw: 179.17706298828125
+  pitch: 9.161248207092285
+lastlocation:
+  world: ebfb5284-4a20-4152-b278-694b10616f84
+  world-name: world
+  x: 5173.228706817349
+  y: 86.0
+  z: -1951.955610391625
+  yaw: -107.88438415527344
+  pitch: 31.949748992919922
+geolocation: Bagnolet, Seine-Saint-Denis, France

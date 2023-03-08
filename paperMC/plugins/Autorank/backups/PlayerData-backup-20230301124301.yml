@@ -1,0 +1,302 @@
+2c96a16f-5544-3bdf-b7db-023c97780151:
+  exempt leaderboard: false
+  exempted from checking: false
+  exempted from time addition: false
+  results not performed:
+    completed requirements: {}
+  active paths:
+    default to member:
+      started: 1673784414431
+  completed paths: {}
+  progress on paths:
+    default to member:
+      completed requirements: []
+      completed prerequisites: []
+356e0c41-2383-422f-a1da-50bbb7768b07:
+  exempt leaderboard: false
+  exempted from checking: false
+  exempted from time addition: false
+  results not performed:
+    completed requirements: {}
+  active paths:
+    maire to noble:
+      started: 1674164354139
+    default to paysan:
+      started: 1676918410357
+  completed paths:
+    citoyen to marchand:
+      completed: 1
+      completed at: 1674164054142
+    marchand to maire:
+      completed: 1
+      completed at: 1674164954141
+  progress on paths:
+    paysan to citoyen:
+      completed requirements: []
+      completed prerequisites: []
+    citoyen to marchand:
+      completed requirements:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      completed prerequisites: []
+    marchand to maire:
+      completed requirements: []
+      completed prerequisites: []
+    maire to noble:
+      completed requirements:
+      - 0
+      - 2
+      - 3
+      - 4
+      - 5
+      completed prerequisites: []
+    default to paysan:
+      completed requirements: []
+      completed prerequisites: []
+4c5e1277-eba1-4f29-a5be-a37d275e71e1:
+  exempt leaderboard: false
+  exempted from checking: false
+  exempted from time addition: false
+  results not performed:
+    completed requirements: {}
+  active paths:
+    citoyen to marchand:
+      started: 1673913619190
+  completed paths:
+    default to paysan:
+      completed: 1
+      completed at: 1673913319191
+    paysan to citoyen:
+      completed: 1
+      completed at: 1673921600037
+  progress on paths:
+    default to paysan:
+      completed requirements: []
+      completed prerequisites: []
+    paysan to citoyen:
+      completed requirements: []
+      completed prerequisites: []
+    citoyen to marchand:
+      completed requirements:
+      - 1
+      - 4
+      - 3
+      - 0
+      completed prerequisites: []
+5d10cadf-5c22-4f20-8a44-70fee6e6209d:
+  exempt leaderboard: false
+  exempted from checking: false
+  exempted from time addition: false
+  results not performed:
+    completed requirements: {}
+  active paths:
+    maire to noble:
+      started: 1674589401598
+  completed paths:
+    default to paysan:
+      completed: 1
+      completed at: 1674085848524
+    paysan to citoyen:
+      completed: 1
+      completed at: 1674093048524
+    citoyen to marchand:
+      completed: 1
+      completed at: 1674147987224
+    marchand to maire:
+      completed: 1
+      completed at: 1674589101589
+  progress on paths:
+    default to paysan:
+      completed requirements: []
+      completed prerequisites: []
+    paysan to citoyen:
+      completed requirements: []
+      completed prerequisites: []
+    citoyen to marchand:
+      completed requirements: []
+      completed prerequisites: []
+    marchand to maire:
+      completed requirements: []
+      completed prerequisites: []
+    maire to noble:
+      completed requirements:
+      - 0
+      - 2
+      - 4
+      - 5
+      completed prerequisites: []
+43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8:
+  exempt leaderboard: false
+  exempted from checking: false
+  exempted from time addition: false
+  results not performed:
+    completed requirements: {}
+  active paths:
+    paysan to citoyen:
+      started: 1677622257890
+  completed paths:
+    default to paysan:
+      completed: 1
+      completed at: 1677621957890
+  progress on paths:
+    default to paysan:
+      completed requirements: []
+      completed prerequisites: []
+    paysan to citoyen:
+      completed requirements: []
+      completed prerequisites: []
+86eaa348-3901-4bb1-92c0-b25d6dfc7ae2:
+  exempt leaderboard: false
+  exempted from checking: false
+  exempted from time addition: false
+  results not performed:
+    completed requirements: {}
+  active paths:
+    paysan to citoyen:
+      started: 1677622664646
+  completed paths:
+    default to paysan:
+      completed: 1
+      completed at: 1677622364654
+  progress on paths:
+    default to paysan:
+      completed requirements: []
+      completed prerequisites: []
+    paysan to citoyen:
+      completed requirements: []
+      completed prerequisites: []
+faaa0b5c-520d-43d5-932e-26fa76a85b9a:
+  exempt leaderboard: false
+  exempted from checking: false
+  exempted from time addition: false
+  results not performed:
+    completed requirements: {}
+  active paths:
+    paysan to citoyen:
+      started: 1677622602739
+  completed paths:
+    default to paysan:
+      completed: 1
+      completed at: 1677622302739
+  progress on paths:
+    default to paysan:
+      completed requirements: []
+      completed prerequisites: []
+    paysan to citoyen:
+      completed requirements: []
+      completed prerequisites: []
+d319763e-9412-4a85-9edf-648178a62dea:
+  exempt leaderboard: false
+  exempted from checking: false
+  exempted from time addition: false
+  results not performed:
+    completed requirements: {}
+  active paths:
+    default to paysan:
+      started: 1677618242068
+  completed paths: {}
+  progress on paths:
+    default to paysan:
+      completed requirements: []
+      completed prerequisites: []
+5ffa8b60-f1b7-406f-9807-86635db09ba7:
+  exempt leaderboard: false
+  exempted from checking: false
+  exempted from time addition: false
+  results not performed:
+    completed requirements: {}
+  active paths:
+    default to paysan:
+      started: 1677619306964
+  completed paths: {}
+  progress on paths:
+    default to paysan:
+      completed requirements: []
+      completed prerequisites: []
+c4e1ca7a-3c91-498c-bb77-2f4aa9fd4c10:
+  exempt leaderboard: false
+  exempted from checking: false
+  exempted from time addition: false
+  results not performed:
+    completed requirements: {}
+  active paths:
+    default to paysan:
+      started: 1677619557155
+  completed paths: {}
+  progress on paths:
+    default to paysan:
+      completed requirements: []
+      completed prerequisites: []
+a252237a-bc6b-46b9-8121-51991e39b880:
+  exempt leaderboard: false
+  exempted from checking: false
+  exempted from time addition: false
+  results not performed:
+    completed requirements: {}
+  active paths:
+    default to paysan:
+      started: 1677619672365
+  completed paths: {}
+  progress on paths:
+    default to paysan:
+      completed requirements: []
+      completed prerequisites: []
+c22c6bf4-92b4-45fc-9c0f-b7d2d8f69512:
+  exempt leaderboard: false
+  exempted from checking: false
+  exempted from time addition: false
+  results not performed:
+    completed requirements: {}
+  active paths:
+    default to paysan:
+      started: 1677620316205
+  completed paths: {}
+  progress on paths:
+    default to paysan:
+      completed requirements: []
+      completed prerequisites: []
+b41638d5-7c10-4937-89d7-9f25f9644b50:
+  exempt leaderboard: false
+  exempted from checking: false
+  exempted from time addition: false
+  results not performed:
+    completed requirements: {}
+  active paths:
+    default to paysan:
+      started: 1677623947127
+  completed paths: {}
+  progress on paths:
+    default to paysan:
+      completed requirements: []
+      completed prerequisites: []
+6e8def11-cfe4-4d14-8233-67179addab4a:
+  exempt leaderboard: false
+  exempted from checking: false
+  exempted from time addition: false
+  results not performed:
+    completed requirements: {}
+  active paths:
+    default to paysan:
+      started: 1677624152717
+  completed paths: {}
+  progress on paths:
+    default to paysan:
+      completed requirements: []
+      completed prerequisites: []
+781a73da-e2e6-47ab-ac59-8b5d0db56df1:
+  exempt leaderboard: false
+  exempted from checking: false
+  exempted from time addition: false
+  results not performed:
+    completed requirements: {}
+  active paths:
+    default to paysan:
+      started: 1677624253085
+  completed paths: {}
+  progress on paths:
+    default to paysan:
+      completed requirements: []
+      completed prerequisites: []

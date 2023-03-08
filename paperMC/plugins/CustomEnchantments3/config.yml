@@ -1,0 +1,264 @@
+#  𝐂𝐮𝐬𝐭𝐨𝐦 𝐄𝐧𝐜𝐡𝐚𝐧𝐭𝐦𝐞𝐧𝐭𝐬 𝟑 𝐩𝐥𝐮𝐬 𝐀𝐝𝐝𝐨𝐧𝐬
+# -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+#
+#   ██████╗██╗   ██╗███████╗████████╗ ██████╗ ███╗   ███╗
+#   ██╔════╝██║   ██║██╔════╝╚══██╔══╝██╔═══██╗████╗ ████║
+#   ██║     ██║   ██║███████╗   ██║   ██║   ██║██╔████╔██║
+#   ██║     ██║   ██║╚════██║   ██║   ██║   ██║██║╚██╔╝██║
+#   ╚██████╗╚██████╔╝███████║   ██║   ╚██████╔╝██║ ╚═╝ ██║
+#    ╚═════╝ ╚═════╝ ╚══════╝   ╚═╝    ╚═════╝ ╚═╝     ╚═╝
+#
+#    ███████╗███╗   ██╗ ██████╗██╗  ██╗ █████╗ ███╗   ██╗████████╗███████╗██████╗
+#    ██╔════╝████╗  ██║██╔════╝██║  ██║██╔══██╗████╗  ██║╚══██╔══╝██╔════╝╚════██╗
+#    █████╗  ██╔██╗ ██║██║     ███████║███████║██╔██╗ ██║   ██║   ███████╗ █████╔╝
+#    ██╔══╝  ██║╚██╗██║██║     ██╔══██║██╔══██║██║╚██╗██║   ██║   ╚════██║ ╚═══██╗
+#    ███████╗██║ ╚████║╚██████╗██║  ██║██║  ██║██║ ╚████║   ██║   ███████║██████╔╝
+#    ╚══════╝╚═╝  ╚═══╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═════╝
+#  Developed by: JayMar921
+#  Contributors: Sekai47, MikaPikaChu
+Config_Ver: '1.0.5'
+# -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+#            [𝐏𝐥𝐮𝐠𝐢𝐧 𝐂𝐨𝐧𝐟𝐢𝐠𝐮𝐫𝐚𝐭𝐢𝐨𝐧]
+# -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+#  [𝐒𝐊𝐈𝐋𝐋𝐒 𝐒𝐘𝐒𝐓𝐄𝐌]
+#  XP multiplier (0.5 -> 3.0) default = 1.0
+XP_multiplier: 1.0
+# Experience Gain points
+PlayerKillXP: 50
+AnimalKillXP: 5
+VillagerKillXP: 10
+ZombieKillXP: 15
+SpiderKillXP: 17
+CreeperKillXP: 20
+SkeletonKillXP: 18
+EndermanKillXP: 25
+BlazeKillXP: 30
+GuardianXP: 13
+ElderGuardianXP: 35
+DragonKillXP: 700
+NetherBossKillXP: 550
+OtherMobKillXP: 15
+HarvestCropsXPGain: 2
+# Experience to Skill Point (default is 1500) (MAX = 15000)
+# this means, players must reach first 2700(1500 * 1.8) exp to
+# get 1 Skill point, it will then be multiplied overtime
+SkillPointXP: 1500
+# Skill Point multiplier, multiplies the current SkillPointXP
+# to get the next XP to Skill Point goal (default: 1.8) (0.5 -> 3.0)
+SkillPointMultiplier: 1.8
+# Show level on chat, example: <JayMar921> [1]: Hello World
+# it will also show an icon of what main skill was focused
+ShowLevelOnChat: true
+# -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+#                 [SKILL STAT]
+# -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+StrengthPhysicalDamage: 0.13
+StrengthPhysicalDefense: 0.25
+AgilityPhysicalDamage: 0.125
+IntelligenceMagicDefense: 0.25
+# -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+#                   [Shop GUI]
+# -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+# Shop background color
+# Options: white, blue, green, red, yellow, lime, brown, black, pink
+ShopGUIBackColor: white
+# -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+#              [Enchantment Limits]
+# -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+# Limit on how many enchants on 1 item
+EnchantLimit: 5
+# Remove Enchantment cost per level
+RemoveEnchantmentCost: 5
+# Do you only allow 1 active skill on sword/bow/wand?
+# Active Skill are custom enchantments that is enchanted
+# to the sword/bow/wand. Allowing players to focus only on
+# one active skill to level up. This is true by default
+AllowOneActiveSkill: true
+# Do you allow players to use enchantments that are
+# not associated with their specific class?
+# Example: LightSpirit can only be used if you
+# are in a warrior class.
+# this is false by default
+AllowUseAllEnchantDenyClass: false
+# -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+#               [Enchantment Price]
+# -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+# Set the price to '0' to disable players from buying
+# Swords Enchantments
+LifeSteal: 55
+Bleed: 38
+Critical: 85
+Poison: 18
+ManaSteal: 35
+Execute: 75
+LightSpirit: 55
+SoulEater: 100
+WindStrike: 40
+Juggernaut: 70
+WindSlasher: 55
+# Trident Enchantments
+SuddenBlow: 35
+HailStorm: 95
+# Shield
+ManaShield: 48
+Sturdy: 50
+# Bow Enchantments
+SharpArrow: 35
+Stun: 53
+FrostArrow: 43
+FocusFire: 58
+DeathAngel: 75
+Implant: 93
+DeathRay: 85
+Stella: 125
+# Armor Enchantments
+MagicResist: 45
+Tank: 45
+Regain: 70
+PoisonousThorns: 33
+Freeze: 47
+OmniVamp: 52
+Blindness: 20
+DoubleJump: 25
+Blink: 35
+# Tool Enchantments
+AutoFarm: 15
+VeinMiner: 15
+Deforestation: 15
+Farmland: 25
+Telepathy: 30
+# Generic Shop
+ManaPotion: 5
+AutoRepair: 30
+SuperNova: 75
+Lightning: 57
+Healing: 45
+Levitate: 60
+Nebula: 150
+Storm: 140
+ManaBurn: 48
+ResetElixir: 500
+FireBall: 20
+# Bought in RACO Currency
+BlackHole: 750
+FallingStar: 850
+# Mana Cost multiplier per level
+ManaCostMultiplierPerLevel: 1.2
+# Mana Cost and Cool down in seconds
+LightSpiritManaCost: 10
+WindStrikeManaCost: 4.5
+HailStormManaCost: 20
+HailStormCoolDown: 200
+RegainCoolDown: 200
+DoubleJumpManaCost: 3
+SuperNovaManaCost: 15.0
+SuperNovaCoolDown: 40
+LightningCoolDown: 25
+LightningManaCost: 12.5
+HealingCoolDown: 50
+HealingManaCost: 13.2
+LevitateCoolDown: 35
+LevitateManaCost: 8.2
+NebulaCoolDown: 45
+NebulaManaCost: 17.3
+DeathAngelCoolDown: 30
+DeathAngelManaCost: 8
+StormManaCost: 14.5
+StormCoolDown: 150
+ManaBurnManaCost: 20
+ManaBurnCoolDown: 250
+FireBallManaCost: 5
+StellaCoolDown: 300
+BlackHoleCoolDown: 450
+BlackHoleManaCost: 25.2
+FallingStarCoolDown: 340
+FallingStarManaCost: 20.8
+# Mana Potion (Energy obtained when consumed)
+ManaPotionEnergy: 35.0
+# -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+#       [ENCHANTMENT ATTRIBUTES REQUIRED]
+# Note: You can only set the level required, not
+#       the entire attribute. Remember that
+#       Each Attributes has a max level of '200'
+# -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+LifeSteal_STRENGTH: 40
+ManaSteal_INTELLIGENCE: 10
+Execute_STRENGTH: 80
+LightSpirit_INTELLIGENCE: 50
+SoulEater_STRENGTH: 50
+WindStrike_AGILITY: 5
+Juggernaut_STRENGTH: 40
+WindSlasher_AGILITY: 35
+SuddenBlow_STRENGTH: 30
+HailStorm_INTELLIGENCE: 40
+ManaShield_INTELLIGENCE: 35
+Sturdy_STRENGTH: 35
+MagicResist_INTELLIGENCE: 20
+Tank_STRENGTH: 20
+Regain_STRENGTH: 65
+Omnivamp_STRENGTH: 120
+Blink_AGILITY: 40
+SharpArrow_AGILITY: 5
+DeathAngel_AGILITY: 40
+Implant_INTELLIGENCE: 60
+DeathRay_AGILITY: 120
+Stella_AGILITY: 100
+SuperNova_INTELLIGENCE: 55
+Lightning_INTELLIGENCE: 15
+Healing_INTELLIGENCE: 10
+Levitate_INTELLIGENCE: 50
+Nebula_INTELLIGENCE: 100
+Storm_INTELLIGENCE: 100
+ManaBurn_INTELLIGENCE: 10
+Fireball_INTELLIGENCE: 10
+BlackHole_INTELLIGENCE: 80
+FallingStar_INTELLIGENCE: 80
+# -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+#              [QUEST and CURRENCY]
+# -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+SelectQuestCoolDown: 500
+ExpEarnedPerQuest: 100
+# CE Currency is called RACO
+RACOSign: C
+# -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+#                [Custom Looting]
+# -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+# CE Looting only occur when a player opens an
+# non looted chest from any locations in the server.
+# Custom Enchantments LootItems can be found in
+# LootItem.yml and you can modify the file if you want.
+#
+# Allow CE Looting in Server?
+CustomLootingAllowed: true
+# Item Rarity Chances in decimal. (0.5 = 50%)
+CommonChance: 0.3
+UncommonChance: 0.1
+RareChance: 0.05
+VeryRareChance: 0.01
+EpicChance: 0.005
+LegendaryChance: 0.0002
+# The loot chest can only contain 'UP TO'
+# 2 common, 2 uncommon, 1 rare, 1 very rare, 1 epic
+# and 1 legendary item.
+# -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+#                 [EXPERIMENTAL]
+# -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+# Amount of particle can be changed from 0 to 100,
+# mostly magic enchantments are affected.
+# Default value is 80% for a high detailed effect,
+# changing the value to 0% will almost remove the
+# particle effect of the affected enchantments.
+# 100% is very high detail particle effect and may
+# cause performance issue not on the server but on
+# the client side (PLAYERS PLAYING).
+ParticleAmount: 80
+# Wand magic damage, this associate with the base
+# damage of fireball 1, it will be multiplied by
+# how much level of fireball does the magic wand
+# has. Default value is 0.5
+# Most magic enchantments are also affected but
+# setting MagicWandDamage to 0 doesn't remove the
+# magic damage of magic enchantments.
+# Note: Magic damage is 3 times greater than the
+# vanilla physical damage.
+MagicWandDamage: 1.5

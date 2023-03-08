@@ -1,0 +1,11 @@
+# This file stores all uuids of players that Autorank has looked up before.
+# Each file stores accounts with the starting letter of the player's name.
+
+skekette:
+  uuid: 5ffa8b60-f1b7-406f-9807-86635db09ba7
+  updateTime: 1677623828879
+  realName: Skekette
+shizue_01:
+  uuid: 6e8def11-cfe4-4d14-8233-67179addab4a
+  updateTime: 1677624218729
+  realName: Shizue_01

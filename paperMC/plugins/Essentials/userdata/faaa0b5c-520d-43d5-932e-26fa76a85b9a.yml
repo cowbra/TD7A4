@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.125.227.192
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677625486490
+  login: 1677625792749
+money: '3910.0'
+last-account-name: Nyuo
+geolocation: Bobigny, Seine-Saint-Denis, France
+logoutlocation:
+  world: ebfb5284-4a20-4152-b278-694b10616f84
+  world-name: world
+  x: 6359.993905782269
+  y: 63.0
+  z: -4102.361375671711
+  yaw: 81.10589599609375
+  pitch: 16.960535049438477

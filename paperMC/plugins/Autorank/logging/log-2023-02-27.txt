@@ -1,0 +1,327 @@
+[11:20:50.461383594]: Started Autorank
+[11:20:52.804931136]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[11:20:52.805843293]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[11:20:52.812750712]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[11:20:52.814848531]: Fetched fresh (MySQL) MONTHLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07: 310 minutes
+[11:20:52.814977984]: Retrieved fresh time (MySQL) MONTHLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07: 310 minutes
+[11:20:52.818488255]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[11:20:52.818616313]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[11:20:52.820140641]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[11:20:52.820248037]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[11:20:52.831634348]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[11:20:52.831771583]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[11:20:52.83305454]: Fetched fresh (MySQL) TOTAL_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07: 310 minutes
+[11:20:52.833137978]: Retrieved fresh time (MySQL) TOTAL_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07: 310 minutes
+[11:20:52.83430796]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[11:20:52.83439322]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[11:20:52.835440047]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[11:20:52.835571429]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1016 minutes
+[12:47:48.449545998]: Started Autorank
+[12:47:51.065721595]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[13:42:40.327828677]: Stopped Autorank
+[13:51:37.210926194]: Started Autorank
+[13:51:49.962934487]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[14:11:58.296269227]: Stopped Autorank
+[14:16:13.218069547]: Started Autorank
+[14:16:15.357703681]: Warning occurred: You used the 'default' group, but it was not recognized in your permission plugin!
+[14:25:12.413925298]: Stopped Autorank
+[14:26:09.650459864]: Started Autorank
+[14:26:11.997633821]: Warning occurred: You used the 'paysan' group, but it was not recognized in your permission plugin!
+[14:29:14.256899113]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[14:29:14.257699888]: Retrieved fresh time (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[14:30:12.718366498]: Retrieved cached time (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[14:34:41.540246893]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[14:35:12.526506011]: Setting (Flatfile) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 to: 5
+[14:35:12.527204731]: Setting (Flatfile) WEEKLY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 to: 5
+[14:35:12.527298636]: Setting (Flatfile) MONTHLY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 to: 49
+[14:35:12.527338348]: Setting (Flatfile) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 to: 49
+[14:35:12.528569595]: Retrieved cached time (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[14:35:12.571894639]: Adding (MySQL) WEEKLY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 time: 5 minutes
+[14:35:12.571910105]: Adding (MySQL) MONTHLY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 time: 5 minutes
+[14:35:12.572040354]: Adding (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 time: 5 minutes
+[14:35:12.571890006]: Adding (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 time: 5 minutes
+[14:40:12.522435676]: Setting (Flatfile) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 to: 10
+[14:40:12.522677439]: Setting (Flatfile) WEEKLY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 to: 10
+[14:40:12.522782655]: Setting (Flatfile) MONTHLY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 to: 54
+[14:40:12.522875679]: Setting (Flatfile) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 to: 54
+[14:40:12.525101475]: Retrieved cached time (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[14:40:12.571819827]: Adding (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 time: 5 minutes
+[14:40:12.571982421]: Adding (MySQL) MONTHLY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 time: 5 minutes
+[14:40:12.571815796]: Adding (MySQL) WEEKLY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 time: 5 minutes
+[14:40:12.572708323]: Adding (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 time: 5 minutes
+[14:42:11.52397795]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 10 minutes
+[14:45:12.522277409]: Setting (Flatfile) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 to: 15
+[14:45:12.522402646]: Setting (Flatfile) WEEKLY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 to: 15
+[14:45:12.522454246]: Setting (Flatfile) MONTHLY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 to: 59
+[14:45:12.522491766]: Setting (Flatfile) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 to: 59
+[14:45:12.522986519]: Adding (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 time: 5 minutes
+[14:45:12.535618474]: Retrieved cached time (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 10 minutes
+[14:45:12.571677114]: Adding (MySQL) WEEKLY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 time: 5 minutes
+[14:45:12.571901669]: Adding (MySQL) MONTHLY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 time: 5 minutes
+[14:45:12.579283848]: Adding (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 time: 5 minutes
+[14:49:41.580276978]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[14:57:11.531467851]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[15:04:41.527252169]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[15:12:11.52535501]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[15:19:41.525076719]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[15:27:11.527324224]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[15:34:41.525450337]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[15:42:11.525147344]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[15:49:41.524917176]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[15:57:11.530149961]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[16:04:41.522988661]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[16:12:11.524235665]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[16:19:41.522901137]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[16:27:11.523197021]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[16:34:41.526244744]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[16:42:11.524908829]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[16:49:41.525031043]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[16:57:11.525654095]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[17:04:41.523534547]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[17:12:11.525155675]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[17:19:41.525191666]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[17:27:11.526718174]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[17:34:41.525008628]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[17:42:11.524310311]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[17:49:41.525275253]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[17:57:11.524589873]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[18:04:41.524984974]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[18:12:11.524599504]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[18:19:41.524848493]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[18:27:11.527342564]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[18:34:41.525170981]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[18:42:11.523758438]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[18:49:41.525081416]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[18:57:11.525226248]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[19:04:41.525258025]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[19:12:11.52391309]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[19:19:41.522835713]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[19:27:11.526578085]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[19:34:41.522798302]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[19:42:11.522801079]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[19:49:41.522840101]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[19:57:11.524250532]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[20:04:41.522900821]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[20:12:11.522961788]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[20:19:41.524993029]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[20:27:11.523293313]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[20:34:41.52273717]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[20:42:11.522854144]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[20:49:41.522783922]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[20:57:11.523502955]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[21:04:41.524914462]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[21:12:11.524802089]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[21:19:41.523015469]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[21:27:11.523289109]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[21:34:41.525303639]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[21:42:11.522769414]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[21:47:11.527789264]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[21:54:41.522801696]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[22:02:11.522801415]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[22:09:41.522731966]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[22:17:11.524082808]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[22:24:41.522808777]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[22:25:30.658192229]: Retrieved cached time (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[22:25:42.750599442]: Retrieved cached time (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 15 minutes
+[22:26:54.131415162]: Setting (Flatfile) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 to: 16
+[22:26:54.131540617]: Setting (Flatfile) WEEKLY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 to: 16
+[22:26:54.131582388]: Setting (Flatfile) MONTHLY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 to: 60
+[22:26:54.131613254]: Setting (Flatfile) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 to: 60
+[22:26:54.184733471]: Adding (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 time: 1 minutes
+[22:26:54.18499414]: Adding (MySQL) WEEKLY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 time: 1 minutes
+[22:26:54.185094976]: Adding (MySQL) MONTHLY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 time: 1 minutes
+[22:26:54.185972007]: Adding (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8 time: 1 minutes
+[22:32:11.522910312]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[22:39:41.52356365]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[22:47:11.523468895]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[22:54:41.52293892]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[23:02:11.523135531]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[23:09:41.523447262]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[23:17:11.52458308]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[23:24:41.525106164]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[23:32:11.525024099]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[23:39:41.524791793]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[23:47:11.525056208]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[23:54:41.52302867]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[00:02:11.525194036]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[00:07:11.585269386]: Resetting daily time file
+[00:07:11.595715781]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[00:07:11.59606723]: Retrieved fresh time (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[00:09:41.524209134]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[00:14:41.6511131]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[00:14:41.653695648]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[00:22:11.524883387]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[00:22:11.527255816]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[00:29:41.524708949]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[00:29:41.527265859]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[00:37:11.525457326]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[00:37:11.527717502]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[00:44:41.522891599]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[00:44:41.523934315]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[00:52:11.5237894]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[00:52:11.525840571]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[00:59:41.525134629]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[00:59:41.525836555]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[01:07:11.527306714]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[01:07:11.529620577]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[01:14:41.524673311]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[01:14:41.527162253]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[01:22:11.524983857]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[01:22:11.527540481]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[01:29:41.524719858]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[01:29:41.527259587]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[01:37:11.527136809]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[01:37:11.527994166]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[01:44:41.525055584]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[01:44:41.527645212]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[01:52:11.523475363]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[01:52:11.52478949]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[01:59:41.524819483]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[01:59:41.527399572]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[02:07:11.526591037]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[02:07:11.528705445]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[02:14:41.52464909]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[02:14:41.527251687]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[02:22:11.523170753]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[02:22:11.524296689]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[02:29:41.525251621]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[02:29:41.527950459]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[02:37:11.526596845]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[02:37:11.529180149]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[02:44:41.524581175]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[02:44:41.527083722]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[02:52:11.525064707]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[02:52:11.526874843]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[02:59:41.524906037]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[02:59:41.527641232]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[03:07:11.52487305]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[03:07:11.527325456]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[03:14:41.524178215]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[03:14:41.526678352]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[03:22:11.524736813]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[03:22:11.527240105]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[03:29:41.524268627]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[03:29:41.52635029]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[03:37:11.525333146]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[03:37:11.527552585]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[03:44:41.5246981]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[03:44:41.527153707]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[03:52:11.52479239]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[03:52:11.527198801]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[03:59:41.526332132]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[03:59:41.527682662]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[04:07:11.526554933]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[04:07:11.528757466]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[04:14:41.524738443]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[04:14:41.527145523]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[04:22:11.524983071]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[04:22:11.527115007]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[04:29:41.524772575]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[04:29:41.527201264]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[04:37:11.526271878]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[04:37:11.527498275]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[04:44:41.52453515]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[04:44:41.526973379]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[04:52:11.524639585]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[04:52:11.52692874]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[04:59:41.524603117]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[04:59:41.527040409]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[05:07:11.525234688]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[05:07:11.527200781]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[05:14:41.523904085]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[05:14:41.525834284]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[05:22:11.524943719]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[05:22:11.527026586]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[05:29:41.527568245]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[05:29:41.530482462]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[05:37:11.524167428]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[05:37:11.525712293]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[05:44:41.525935322]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[05:44:41.528353762]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[05:52:11.524354391]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[05:52:11.52621062]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[05:59:41.527035687]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[05:59:41.528522785]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[06:07:11.523962423]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[06:07:11.524657111]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[06:14:41.522866555]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[06:14:41.52385916]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[06:22:11.524919472]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[06:22:11.527370085]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[06:29:41.52407354]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[06:29:41.526299356]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[06:37:11.523390315]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[06:37:11.524271591]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[06:44:41.522934327]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[06:44:41.523632235]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[06:52:11.524529174]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[06:52:11.526982001]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[06:59:41.522939827]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[06:59:41.524235571]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[07:07:11.526682014]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[07:07:11.528501981]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[07:14:41.525037282]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[07:14:41.527319454]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[07:22:11.524563876]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[07:22:11.526715017]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[07:29:41.524723262]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[07:29:41.526929899]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[07:37:11.52703941]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[07:37:11.528650772]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[07:44:41.524068236]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[07:44:41.52608303]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[07:52:11.5235993]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[07:52:11.525588737]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[07:59:41.524629803]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[07:59:41.527051471]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[08:07:11.526457356]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[08:07:11.52849477]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[08:14:41.524646107]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[08:14:41.527036351]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[08:22:11.523859821]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[08:22:11.526360536]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[08:29:41.525830222]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[08:29:41.526833356]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[08:37:11.522884619]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[08:37:11.523889785]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[08:44:41.522808812]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[08:44:41.523464135]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[08:52:11.52451991]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[08:52:11.526601538]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[08:59:41.522788559]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[08:59:41.52350198]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[09:07:11.523201164]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[09:07:11.523715704]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[09:14:41.523625893]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[09:14:41.525267191]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[09:22:11.52330378]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[09:22:11.523819988]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[09:29:41.524841171]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[09:29:41.527299671]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[09:37:11.523090218]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[09:37:11.523883667]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[09:44:41.522674994]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[09:44:41.523243203]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[09:52:11.522577723]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[09:52:11.523312545]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[09:57:11.523094095]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[09:57:11.523704362]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[10:02:56.358487012]: Fetched fresh (MySQL) TOTAL_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07: 0 minutes
+[10:02:56.36387025]: Retrieved fresh time (MySQL) TOTAL_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07: 0 minutes
+[10:04:41.523265089]: Fetched fresh (MySQL) DAILY_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 0 minutes
+[10:04:41.523756934]: Fetched fresh (MySQL) TOTAL_TIME of 43bdd2a3-3a44-4ac8-9461-6fef65c4f5d8: 16 minutes
+[10:05:08.431335933]: Setting (Flatfile) DAILY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 to: 2
+[10:05:08.431418098]: Setting (Flatfile) WEEKLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 to: 2
+[10:05:08.431442035]: Setting (Flatfile) MONTHLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 to: 11
+[10:05:08.431460406]: Setting (Flatfile) TOTAL_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 to: 322
+[10:05:08.489751191]: Adding (MySQL) DAILY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 time: 2 minutes
+[10:05:08.489751182]: Adding (MySQL) MONTHLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 time: 2 minutes
+[10:05:08.489751252]: Adding (MySQL) WEEKLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 time: 2 minutes
+[10:05:08.4908219]: Adding (MySQL) TOTAL_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 time: 2 minutes
+[10:06:21.606094646]: Retrieved cached time (MySQL) TOTAL_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07: 0 minutes
+[10:08:57.82406733]: Fetched fresh (MySQL) TOTAL_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07: 2 minutes
+[10:10:41.77675425]: Setting (Flatfile) DAILY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 to: 6
+[10:10:41.77694121]: Setting (Flatfile) WEEKLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 to: 6
+[10:10:41.77705004]: Setting (Flatfile) MONTHLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 to: 15
+[10:10:41.777126989]: Setting (Flatfile) TOTAL_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 to: 326
+[10:10:44.05747726]: Stopped Autorank

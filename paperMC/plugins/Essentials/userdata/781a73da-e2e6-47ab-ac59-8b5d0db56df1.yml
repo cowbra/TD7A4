@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.199.176.78
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677624409902
+  login: 1677624292422
+money: '0'
+last-account-name: Migoyy
+geolocation: Créteil, Val-de-Marne, France
+logoutlocation:
+  world: ebfb5284-4a20-4152-b278-694b10616f84
+  world-name: world
+  x: 5078.542311100177
+  y: 76.0
+  z: -2048.26521749596
+  yaw: -179.7320098876953
+  pitch: 5.342650890350342

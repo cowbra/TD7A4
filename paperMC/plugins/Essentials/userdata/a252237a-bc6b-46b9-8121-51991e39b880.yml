@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 87.89.216.229
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677624826826
+  login: 1677624454472
+money: '2422.1'
+last-account-name: Kyharuuu
+geolocation: Paris, Paris, France
+logoutlocation:
+  world: ebfb5284-4a20-4152-b278-694b10616f84
+  world-name: world
+  x: 3405.88379962179
+  y: 7.875
+  z: -5006.70324996772
+  yaw: 88.28677368164062
+  pitch: 17.122909545898438

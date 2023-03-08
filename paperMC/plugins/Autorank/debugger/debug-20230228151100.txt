@@ -1,0 +1,184 @@
+This is a debug file of Autorank. You should give this to an author or ticket manager of Autorank.
+You can go to http://pastebin.com/ and paste this file. Then, give the link and state the problems you're having in a ticket on the Autorank page.
+
+Date created: 2023-02-28 15:11:00
+
+Autorank version: 5.2.1
+
+Server implementation: 3553-Spigot-14a2382-ef09464 (MC: 1.19)
+
+Server version: 1.19-R0.1-SNAPSHOT
+
+Server warning state: DEFAULT
+
+Paths defined: 
+
+ ------------------- Path debug info ------------------- 
+Path: default to paysan
+Display name: Paysan
+Prerequisites: 
+    1. Be in group default.
+Requirements: 
+    1. Play for at least 2 hours
+Results: 
+    1. Reward you with 500 €.
+    2. Perform the following command(s): <GRAY>lp user &p promote voie<RESET>
+    3. Send you the following message: Félicitations, tu as été promu au rang de Paysan!
+----------------------------
+Path: paysan to citoyen
+Display name: Citoyen
+Prerequisites: 
+    1. Be in group Paysan.
+Requirements: 
+    1. Play for at least 4 hours
+    2. Travel at least 2000 by foot
+    3. Deviens riche !
+Results: 
+    1. Reward you with 1000 €.
+    2. Perform the following command(s): <GRAY>lp user &p promote voie<RESET>
+    3. Send you the following message: Félicitations, tu as été promu au rang de Citoyen!
+----------------------------
+Path: citoyen to marchand
+Display name: Marchand
+Prerequisites: 
+    1. Be in group citoyen.
+Requirements: 
+    1. Have at least level 25 in exp
+    2. Have at least 2500.0 €
+    3. Trade at least 30 with villagers
+    4. Kill at least 50 mobs {1} {2}
+    5. Craft at least 200 item(s)
+Results: 
+    1. Reward you with 1500 €.
+    2. Perform the following command(s): <GRAY>lp user &p promote voie<RESET>
+    3. Send you the following message: Félicitations, tu as été promu au rang de Marchand !
+----------------------------
+Path: marchand to maire
+Display name: Maire
+Prerequisites: 
+    1. Be in group marchand.
+Requirements: 
+    1. Have at least level 30 in exp
+    2. Have at least 5000.0 €
+    3. Trade at least 50 with villagers
+    4. Kill at least 5 player(s)
+    5. Obtain Advancement 'Forteresse du Nether'
+    6. Enchant at least 5 items.
+Results: 
+    1. Reward you with 1500 €.
+    2. Perform the following command(s): <GRAY>lp user &p promote voie<RESET>
+    3. Send you the following message: Félicitations, tu as été promu au rang de Maire !
+----------------------------
+Path: maire to noble
+Display name: Noble
+Prerequisites: 
+    1. Be in group maire.
+Requirements: 
+    1. Have at least level 20 in exp
+    2. Have at least 100000.0 €
+    3. Kill at least 5 player(s)
+    4. Obtain Advancement 'Resister à 1 raid'
+    5. Enchant at least 10 items.
+    6. Die at least 3 times
+Results: 
+    1. Reward you with 1500 €.
+    2. Perform the following command(s): <GRAY>lp user &p promote voie<RESET>
+    3. Send you the following message: Félicitations, tu as été promu au rang de Noble !
+----------------------------
+
+Using MySQL: true
+
+Java version: 17.0.1
+
+Operating system: Linux
+
+OS version: 5.15.0-60-generic
+
+OS architecture: amd64
+
+Loaded addons: []
+
+Requirements registered: 
+me.armar.plugins.autorank.pathbuilder.requirement.AnimalsBredRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.InGroupRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.JobsExperienceRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.PlayerKillsRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.AureliumSkillsSkillRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.AureliumSkillsStatRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.TownyHasANationRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.AureliumSkillsXPRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.PlantsPottedRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.TownyNumberOfTownBlocksRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.BentoBoxLevelRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.GamemodeRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.DamageTakenRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.GriefPreventionClaimsCountRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.TownyIsMayorRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.WorldGuardRegionRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.ExpRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.InBiomeRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.LastLoginLogoutRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.MobKillsRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.McRPGPowerLevelRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.McRPGSkillLevelRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.ExpRangeRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.CakeSlicesEatenRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.TradedWithVillagersRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.JavaScriptRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.HasItemRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.FactionsXPowerRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.PlayerPointsPointsRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.PlaceholderapiStringRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.McMMOSkillLevelRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.TownyIsKingRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.QuestsCompleteSpecificQuestRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.BlocksMovedRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.TimesDiedRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.BlocksBrokenRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.GlobalTimeRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.AdvancementRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.JobsLevelRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.QuestsCompletedQuestsRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.ItemsEnchantedRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.WorldRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.TotalTimeRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.FactionPowerRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.GriefPreventionBonusBlocksRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.EssentialsGeoIPRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.GriefPreventionRemainingBlocksRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.QuestsActiveQuestsRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.AureliumSkillsManaRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.BlocksPlacedRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.FoodEatenRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.ItemsCraftedRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.ItemThrownRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.TownyHasATownRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.McMMOPowerLevelRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.NotInGroupRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.PermissionRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.TimeMonthlyRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.AutorankCompletedPathsRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.QuestsQuestPointsRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.JobsTotalPointsRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.JobsCurrentPointsRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.MoneyRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.TimeWeeklyRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.AutorankActivePathsRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.GriefPreventionClaimedBlocksRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.TimeDailyRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.LocationRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.TotalVotesRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.LastLoginLoginRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.TimeRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.TimesShearedRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.PlaceholderapiIntegerRequirement
+me.armar.plugins.autorank.pathbuilder.requirement.FishCaughtRequirement
+
+Results registered: 
+me.armar.plugins.autorank.pathbuilder.result.SpawnFireworkResult
+me.armar.plugins.autorank.pathbuilder.result.MoneyResult
+me.armar.plugins.autorank.pathbuilder.result.EffectResult
+me.armar.plugins.autorank.pathbuilder.result.MessageResult
+me.armar.plugins.autorank.pathbuilder.result.TeleportResult
+me.armar.plugins.autorank.pathbuilder.result.CommandResult
+

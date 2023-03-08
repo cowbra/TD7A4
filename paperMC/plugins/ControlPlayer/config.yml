@@ -1,0 +1,22 @@
+settings:
+  apimode: false
+  updater:
+    enabled: true
+    delay: 18000
+  control:
+    running:
+      forcechat:
+        enabled: true
+        bypassmessage: '-b '
+      syncdelay: 0
+      actionbar:
+        enabled: true
+    stop:
+      return:
+        inventory: true
+        location: true
+        level: true
+        health: true
+        foodlevel: true
+        gamemode: true
+        flight: true

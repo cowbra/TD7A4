@@ -1,0 +1,46 @@
+# This is the internal properties file of Autorank. 
+# You should not touch any values here, unless instructed by a developer.
+# Autorank uses these to keep track of certain aspects of the plugin.
+
+leaderboard last updated: 0
+tracked month: 3
+tracked week: 9
+tracked day: 5
+leaderboards:
+  total_time:
+    cached leaderboard:
+    - '-------- Leaderboard (All time) --------'
+    - §61 | §bRydeenn - §70 days, 2 hours and 54 minutes.
+    - §62 | §bJaemilie - §70 days, 2 hours and 48 minutes.
+    - §63 | §bNyuo - §70 days, 2 hours and 47 minutes.
+    - §64 | §bCowbraaa - §70 days, 1 hour and 31 minutes.
+    - §65 | §bSkekette - §70 days, 1 hour and 23 minutes.
+    - '------------------------------------'
+    last updated: 1677801955401
+  daily_time:
+    cached leaderboard:
+    - '-------- Leaderboard (Daily time) --------'
+    - '------------------------------------'
+    last updated: 1677802648404
+  weekly_time:
+    cached leaderboard:
+    - '-------- Leaderboard (Weekly time) --------'
+    - §61 | §bRydeenn - §70 days, 2 hours and 54 minutes.
+    - §62 | §bJaemilie - §70 days, 2 hours and 48 minutes.
+    - §63 | §bNyuo - §70 days, 2 hours and 47 minutes.
+    - §64 | §bCowbraaa - §70 days, 1 hour and 31 minutes.
+    - §65 | §bSkekette - §70 days, 1 hour and 23 minutes.
+    - '------------------------------------'
+    last updated: 1677801955314
+  monthly_time:
+    cached leaderboard:
+    - '-------- Leaderboard (Monthly time) --------'
+    - §61 | §bRydeenn - §70 days, 2 hours and 54 minutes.
+    - §62 | §bJaemilie - §70 days, 2 hours and 48 minutes.
+    - §63 | §bNyuo - §70 days, 2 hours and 47 minutes.
+    - §64 | §bCowbraaa - §70 days, 1 hour and 31 minutes.
+    - §65 | §bSkekette - §70 days, 1 hour and 23 minutes.
+    - '------------------------------------'
+    last updated: 1677801955361
+has converted uuids: true
+is converted to new format: true

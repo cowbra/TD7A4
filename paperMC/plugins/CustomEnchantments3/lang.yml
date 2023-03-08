@@ -1,0 +1,356 @@
+# Language data, modify you can modify this file
+# Deleting this 'lang.yml' file, the plugin generates a new one
+
+LANGUAGE:
+- ResetElixirLore: Reset your skill tree
+  QUEST_CREATE_13: Enter quest description
+  QUEST_CREATE_14: 'Description: _a'
+  Storm: Storm
+  NoLevelOnDisenchant: You don't have enough levels to disenchant item
+  QUEST_CREATE_15: Enter Quest Reward (CE Currency)
+  QUEST_CREATE_16: Currency reward set to _a
+  QUEST_CREATE_17: Hold any item in your main hand as your item reward and type _a
+  CHESTPLATE: Chestplates
+  QUEST_CREATE_18: Item reward was set
+  Souls: '[Souls _a]'
+  QUEST_CREATE_19: Type the Quest ID's that you want for this quest entity to associate
+  QUEST_COMPLETE: Quest _a Completed
+  WIZARD_MASTERY: WIZARD MASTERY
+  WindStrike: Wind Strike
+  NEAR: _a near _b
+  ARCHER: Archer
+  QUEST_CREATE_10: Separate your input with commas[_a]
+  LevitateLore: Levitate Enemies and deal magic damage
+  QUEST_CREATE_11: Invalid Goal and Condition may not cause any error messages but
+    the quest will not work!
+  QUEST_CREATE_12: 'QUEST: -> _a _b'
+  WindSlasher: Wind Slasher
+  RequiredMana: 'Enchantment _a requires: _b mana'
+  SoulEaterLore: Spirit of darkness binds on your sword
+  QUEST_CANCEL: You have cancelled creating a quest
+  FoundPlayer: _a was added as your ally
+  AGILITY_LORE: Increase movement speed
+  AboutEnchant: Enchanting is ready, swap to item to enchant
+  VERY_LOW: VERY LOW
+  RemoveEnchant: Remove Enchantment
+  ARCHER_LORE: Inhibit in the northern land of jungle biomes
+  HOE: Hoe
+  FoundSelf: Try another name
+  WAND: Magic Wands
+  PENETRATION: PENETRATION
+  IsCooldown: 'Enchantment _a is on cooldown: _b seconds'
+  QUEST_CREATE_20: 'Separate with comma[,] example: 1000,1001,1002'
+  QuestEntity: Quest Entity
+  NotEnoughBalance: Not enough balance
+  ManaEnergy: Obtain _a mana when consumed
+  AutoFarmLore: Get a chance to replant harvested crops
+  BuySkillAttribute: Spend an attribute point
+  INTELLIGENCE_LORE1: Increase magical defense by _a or _b% on Max INTELLIGENCE
+  INTELLIGENCE_LORE0: Increase magical damage
+  IncompleteCommand: Incomplete command
+  ShopCreated: Created a shop
+  SWORD_MASTERY: SWORD MASTERY
+  Greeting: Hello _a!
+  DESTROY: Mine _a
+  ManaStealLore: Steal mana from enemy
+  WeaponEnchant: Weapons Enchantments
+  BleedLore: Get a chance for enemy to bleed
+  HailStormLore: Cast a hail storm in the area
+  QUEST_CREATED: Quest was saved!
+  PLACE_NEAR: Place _a near _b
+  HOURGLASS_LORE: Decrease Cooldown
+  ShowActionBar: You have enabled the action bar
+  NoPointBoundary: You need to set point _a location
+  VeinMinerLore: Mine veins of ores
+  PLAYER_ON_QUEST: You are currently on a quest
+  CONSUME: Consume _a
+  BOOTS: Boots
+  NebulaLore: Nebula explosion!
+  ItemPenetration: Penetration
+  CONSUME_NEAR: Consume _a near _b
+  InvalidShopType: Invalid Shop Type
+  Stella: Stella
+  ItemCritical: Critical
+  DeathAngel: Death Angel
+  PoisonousThornsLore: Get a chance to poison the attacker
+  ConsumeMana: (Consumes _a mana)
+  PLACE: Place _a
+  LEGGINGS: Leggings
+  QUEST_INFO_4: 'Condition: _a'
+  QUEST_INFO_5: 'Description:'
+  QUEST_INFO_6: 'REWARD: _aC and _b'
+  PENETRATION_LORE: Ignore physical defense by 0.5
+  ManaBurnLore: Burn players mana when nearby
+  Healing: Healing
+  QUEST_NOT_AVAILABLE: Sorry, please try again later...
+  Power: Power
+  LevelUp: You have leveled up, you have _a point/s to spend. Do _b to buy skill
+  MaxSouls: Max Souls
+  BoundaryList: List of boundaries
+  EnchantmentDisabled: Enchantment was disabled
+  DeathRayLore: Shoot laser on target
+  RARE: Rare
+  EnterShopName: Enter the shop name
+  Juggernaut: Juggernaut
+  OpeningInClass: Opening Classes UI in _a second/s
+  DoubleJump: Double Jump
+  SettingSet: Setting was set
+  ACCEPT_QUEST: You have accepted the quest
+  QUEST_LIST_SHOP: List of Quests Entities
+  TelepathyLore1: Incompatible with fortune enchantment
+  TelepathyLore0: Collect dropped item instantly from being mined
+  ResetMessage: Your skill tree was reset
+  LightningLore: Strike lightning on surrounding area
+  STRENGTH_LORE0: Increase physical defense by _a
+  BlinkLore: Shift + Right click to blink on short distance
+  STRENGTH_LORE1: Increase health regen
+  HELMET: Helmet
+  Levitate: Levitate
+  ProtectedBoundaryWarn: This block is inside a protected boundary
+  VERY_HIGH: VERY HIGH
+  ARMOR: Armors
+  ArmorEnchant: Armors Enchantments
+  LifeStealLore: Heal while attacking
+  BOW_MASTERY_LORE: Increase bow damage
+  TankEnchantLore: Gain physical damage resistance
+  SettingBoundary2: Location _a to _b
+  SettingBoundary3: 'Type ''save [boundary name]'' to save. Example: save territory_1'
+  SettingBoundary4: Type 'cancel' to cancel
+  Allies: _a's Allies
+  SettingBoundary1: You have set the boundary from
+  SuddenBlowLore: Has chance to blind and stun the enemy
+  ClassIntroduction: |-
+    This plugin embraces MMORPG gameplay and a class system. Skills are available only to the appropriate classes.
+
+
+    Changing class is expensive, so be wise.
+  PLANT: Plant _a
+  MODERATE: NORMAL
+  KILL_NEAR: Kill _a near _b
+  Cooldown: Cool Down
+  QUEST_CREATE_9: 'Example Quest Objective:'
+  QUEST_REWARDS: 'Rewards: _a _b'
+  Farmland: Farmland
+  QUEST_CREATE_8: Something_2 should be an entity type!
+  ResetElixir: Reset Elixir
+  QUEST_CREATE_7: Something_2 is is the condition to complete the goal
+  UNSWERVING_SHOT_LORE: Increases arrow’s flying speed
+  QUEST_CREATE_6: Something_1 is the goal to complete the objective
+  Bleed: Bleed
+  SuperNovaLore: Deal huge magic damage on surrounding area
+  QUEST_CREATE_1: Enter the quest title. Type _a to cancel
+  CannotActivateNearShop: Enchantment _a cannot activate within _b blocks near a shop
+  RegainLore: Get a second life!
+  QUEST_CREATE_5: Quest type is the objective type
+  QUEST_CREATE_4: Create your Quest Objective
+  QUEST_CREATE_3: 'Type: _a -> _b'
+  QUEST_CREATE_2: 'Quest Title: [_a]'
+  HealingLore: Heal allies nearby
+  StunLore: Get a chance to stun the enemy
+  Shops: List of Shops
+  BowEnchant: Bow Enchantments
+  DISENCHANT_3: You'll pay _a levels for every removed enchantment
+  DISENCHANT_2: Click on 'check' to select enchantments to remove
+  DISENCHANT_1: Place your item at the middle
+  QUEST_ERROR: Invalid Input!! Error at _a
+  AppliesTo: (Applies to _a)
+  InsideBoundaryWarn: You are inside a protected boundary
+  Blink: Blink
+  LightSpiritLore: Spirit of light binds on your sword
+  BERSERK_LORE: Increase damage by 0.2 for every hp lost
+  MaxSkill: You have mastered this skill
+  NO_ACTIVE_QUEST: You don't have any active quest
+  BoundarySaved: 'Saved boundary: _a'
+  AXE: Axe
+  DESTROY_NEAR: Mine _a near _b
+  WARRIOR: Warrior
+  QUEST_REMOVE: Removed Quest _a
+  EnchantMax: You already have the maximum level on this enchantment
+  HideActionBar: You have disabled the action bar
+  OmnivampLore: Get a chance to heal when attacked
+  Lightning: Lightning
+  SpecifyArg: Specify the arguments
+  BOW_MASTERY: BOW MASTERY
+  DeforestationLore: Cut the whole vertical tree trunk
+  SelectSpell: Right click to select a spell
+  QUEST_LIST: List of Quests
+  PLUGIN_INFO_10: MAGIC_WAND_DMG
+  Stun: Stun
+  SharpArrow: Sharp Arrow
+  WARRIOR_LORE0: They have the best in attacking ability and endurance,
+  WindSlasherLore: Gain Attack Speed
+  WARRIOR_LORE2: You'll be able to use Sword Enchantments)
+  WARRIOR_LORE1: but they're slow in speed and is inaccurate.
+  Check: Check
+  ManaSteal: Mana Steal
+  EnchantComplete: You have applied _a enchantment to _b
+  SelectClass: Select this class
+  AGILITY_LORE1: Increase physical damage by _a
+  BuySkill: Spend a skill point
+  AGILITY_LORE0: Increase critical chance
+  INTELLIGENCE: INTELLIGENCE
+  PlayerBalance: Balance
+  FrostArrowLore: Slow your enemy by chance
+  Back: Go back
+  QUEST_RETURN: Return to _a and claim your reward
+  LifeSteal: Life Steal
+  LEGENDARY: Legendary
+  TankEnchant: Tank
+  EPIC: Epic
+  WarnIncompatibleClass: Enchantment _a can only be used if you're in _b class
+  BoundaryNotFound: 'Cannot find boundary: _a'
+  SwordEnchant: Sword Enchantments
+  STRENGTH: STRENGTH
+  CriticalLore: Deal critical damage to enemy
+  AutoFarm: Auto Farm
+  Shop: Shop _a is at _b
+  ONLY_ONE_ENCHANT: You can only have 1 active skill on this item
+  EnchantTimeout: Enchanting was cancelled due to timeout
+  LOW: LOW
+  DeathAngelLore: Fall a meteorite to where the arrow landed
+  ShieldEnchant: Shield Enchantments
+  BERSERK: BERSERK
+  COMMON: Common
+  Level: LEVEL
+  INTELLIGENCE_LORE: Increase mana
+  SturdyLore: Obtain physical resistance when equipped
+  JuggernautLore: Deal armor penetration
+  PoisonLore: Attack with poison effect
+  BlindnessLore: When attacked, blind the enemy by chance
+  ManaShield: Mana Shield
+  RemovedAlly: _a was removed as your ally
+  QUEST_OPTION: Type _a to accept, _b to deny quest
+  QUEST_LOAD: Loading your quest...
+  FireBall: Fire Ball
+  DoubleJumpLore: Sneak while on air to jump
+  AutoRepair: Auto Repair
+  WIZARD_LORE: Occupies the lands of Snowy Plain.
+  SharpArrowLore: Deal more ranged damage
+  SkillTree: Skill Tree
+  'OFF': 'OFF'
+  FreezeLore: Get a chance to freeze your attacker
+  BlackHoleLore: Cast a black hole on your area, trapping players
+  InvalidArg: Invalid Argument
+  Freeze: Freeze
+  HailStorm: Hail Storm
+  Blocks: blocks
+  StellaLore: Ultimate bow enchantment
+  PROMPT_BUY_PLUGIN_2: Trial version doesn't allow you to use this command
+  FallingStar: Falling Star
+  PROMPT_BUY_PLUGIN_1: Trial version doesn't allow you to use this item
+  BoundaryCancel: Cancelled setting boundary
+  SWORD_MASTERY_LORE: Increases sword damage
+  Omnivamp: Omni Vamp
+  FocusFire: Focus Fire
+  PlayerRank: Player Ranks
+  ClassPoints: SKILL POINT/S
+  ToolEnchant: Tools Enchantments
+  Blindness: Blindness
+  Telepathy: Telepathy
+  UNCOMMON: Uncommon
+  PICKAXE: Pickaxe
+  KILL: Kill _a
+  SuddenBlow: Sudden Blow
+  FarmlandLore: Create a small chunk of farmland
+  MagicResistLore: Gain magic damage resistance
+  WARRIOR_LORE: Settle in the southern area of the Taiga Biomes.
+  EnchantIncompatible: The enchantment cannot be applied to this item
+  HIGH: HIGH
+  FallingStarLore: Call the falling star above to rain the enemies
+  QUEST_ENTITY_SET: Quest Entity Set!
+  NoAttributePoint: You don't have enough attribute point/s
+  WindStrikeLore: Dashes to enemy, deal magic damage
+  Nebula: Nebula
+  DeathRay: Death Ray
+  ARCHER_LORE0: They shun the use of heavy equipment as it
+  Critical: Critical
+  ARCHER_LORE1: restricts their mobility and agility.
+  NotFoundPlayer: Player not found, must be online!
+  QUEST_INFO_1: 'Title: _a'
+  QUEST_INFO_2: 'Objective: _a'
+  QUEST_INFO_3: 'Goal: _a'
+  SpecifyPlayer: Please specify the player name
+  WindSlasherLore0: Summon tornado by chance at AGILITY 40+
+  UNSWERVING_SHOT: UNSWERVING SHOT
+  NoSkillPoint: You don't have enough skill point/s
+  Something: something
+  DENY_QUEST: You denied the quest
+  FrostArrow: Frost Arrow
+  Deforestation: Deforestation
+  Player: Player
+  PoisonousThorns: Poisonous Thorns
+  Implant: Implant
+  WIZARD_LORE0: They manifest less physical ability than
+  VERY_RARE: Very Rare
+  WIZARD_LORE1: the other classes but has the strongest magical powers.
+  GenericEnchant: Generic and Magic Enchantments
+  WIZARD_LORE2: (You'll be able to use Magic Enchantments)
+  CoolDownRefreshed: _a is now ready
+  PlayerClassesUI: Select a classification
+  BOW: Bows/Crossbows
+  QUEST_VERIFY: Save Quest? _a to save or _b to cancel
+  SuccessJoinedClass: _a has successfully joined the _b class!
+  GENERIC: Weapons/Armors/Tools
+  MaxLevel: Max Level
+  RequiredClass: You must be in _a class to acquire this skill
+  TOOL: Tools
+  SuperNova: Super Nova
+  Disenchant: Remove Enchantments
+  Execute: Execute
+  TridentEnchant: Trident Enchantments
+  Sturdy: Sturdy
+  SomeoneWand: _a's Magic Wand
+  FireBallLore: Shoot fireball
+  VeinMiner: Vein Miner
+  WIZARD: Wizard
+  QUEST_CREATE_8.2: for a player to complete the quest
+  ManaShieldLore: Absorb some damage and consume it as mana
+  PLANT_NEAR: Plant _a near _b
+  Points: ATTRIBUTE POINT/S
+  STRENGTH_LORE: Increase physical damage by _a
+  BoughtEnchant: You've bought _a for _b levels
+  QUEST_CREATE_8.1: You also must provide the number of occurrence
+  WIZARD_MASTERY_LORE: Increase casting range / spell radius by 0.2 blocks
+  EnchantmentShop: Enchantment Shop
+  ImplantLore: The dark matter will give a strength to your bow
+  HOURGLASS: HOURGLASS
+  LightSpirit: Light Spirit
+  AGILITY: AGILITY
+  MANA_CHARGE: MANA CHARGE
+  SoulEater: Soul Eater
+  PLUGIN_INFO_3: Developed by
+  PLUGIN_INFO_4: XP_MULTIPLIER
+  PLUGIN_INFO_1: Plugin Information
+  BoundaryRemoved: 'Removed boundary: _a'
+  ItemDamage: Damage
+  PlayerClass: Class
+  PLUGIN_INFO_2: Plugin Version
+  StormLore: The power of wind and storm will bind your wand
+  RightClick2: 'Step 2: Switch on item to enchant'
+  RightClick3: 'Step 3: Right click the item'
+  QUEST_REPEAT: Repeat _a times
+  BlackHole: Black Hole
+  BoughtSkill: You have bought _a for _b
+  MagicResist: Magic Resist
+  AutoRepairLore: Slowly repair tool/weapon over time
+  RightClick1: 'Step 1: Right Click this book'
+  EnchantLimit: You have reached the maximum enchant limit of _a
+  ExecuteLore: Deal huge damage on enemy with low health
+  FocusFireLore: Gain Quick MS and Invisibility on every success hit
+  ARCHER_LORE2: They are considered as the quickest
+  ManaBurn: Mana Burn
+  RequiredSkill: Required _a to be level _b
+  ARCHER_LORE3: and fastest of all the classes.
+  SWIFT_ESCAPE: SWIFT ESCAPE
+  SWIFT_ESCAPE_LORE: Increases Chance to Evade/Ignore Damage
+  ARCHER_LORE4: (You'll be able to use Bow Enchantments)
+  ManaBottle: Mana Potion
+  PLUGIN_INFO_7: QUEST_XP_REWARD
+  PLUGIN_INFO_8: DENIED_QUEST_COOLDOWN
+  Poison: Poison
+  PLUGIN_INFO_5: SKILL_POINT_MULTIPLIER
+  PLUGIN_INFO_6: ENCHANTMENT_LIMIT
+  Exp: EXP
+  MANA_CHARGE_LORE: Increase mana regen by 0.125/s
+  PLUGIN_INFO_9: PARTICLE_EFFECTS
+  Regain: Regain

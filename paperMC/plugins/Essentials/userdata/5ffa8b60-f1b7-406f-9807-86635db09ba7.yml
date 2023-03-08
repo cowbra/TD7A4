@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.199.176.78
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1677624409756
+  login: 1677623829035
+money: '4444.6355000000001787'
+last-account-name: Skekette
+geolocation: Créteil, Val-de-Marne, France
+logoutlocation:
+  world: ebfb5284-4a20-4152-b278-694b10616f84
+  world-name: world
+  x: 3406.914849323091
+  y: 5.0
+  z: -5008.662327556784
+  yaw: -171.22760009765625
+  pitch: 8.053948402404785

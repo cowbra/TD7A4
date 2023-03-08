@@ -1,0 +1,11 @@
+# This file stores all uuids of players that Autorank has looked up before.
+# Each file stores accounts with the starting letter of the player's name.
+
+kyharuuu:
+  uuid: a252237a-bc6b-46b9-8121-51991e39b880
+  updateTime: 1677624454408
+  realName: Kyharuuu
+karuraa:
+  uuid: b41638d5-7c10-4937-89d7-9f25f9644b50
+  updateTime: 1677625084826
+  realName: Karuraa

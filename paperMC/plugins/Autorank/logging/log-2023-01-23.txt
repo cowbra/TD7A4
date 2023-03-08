@@ -1,0 +1,556 @@
+[00:43:33.755869157]: Started Autorank
+[00:43:35.979261252]: Fetched fresh (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 40 minutes
+[00:43:35.979954473]: Retrieved fresh time (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 40 minutes
+[00:43:35.989337718]: Fetched fresh (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 55 minutes
+[00:43:35.989437089]: Retrieved fresh time (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 55 minutes
+[00:43:35.992430983]: Fetched fresh (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[00:43:35.992527505]: Retrieved fresh time (MySQL) MONTHLY_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[00:43:35.993394266]: Fetched fresh (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[00:43:35.99347162]: Retrieved fresh time (MySQL) MONTHLY_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[00:43:35.994295158]: Fetched fresh (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1071 minutes
+[00:43:35.994377098]: Retrieved fresh time (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1071 minutes
+[00:43:35.998222645]: Fetched fresh (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[00:43:35.998317169]: Retrieved fresh time (MySQL) TOTAL_TIME of 2c96a16f-5544-3bdf-b7db-023c97780151: 104 minutes
+[00:43:35.999359755]: Fetched fresh (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[00:43:35.999488643]: Retrieved fresh time (MySQL) TOTAL_TIME of 4c5e1277-eba1-4f29-a5be-a37d275e71e1: 891 minutes
+[00:43:36.000786616]: Fetched fresh (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1071 minutes
+[00:43:36.000897527]: Retrieved fresh time (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d: 1071 minutes
+[00:48:44.330707854]: Started Autorank
+[00:59:01.853558715]: Setting (Flatfile) DAILY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 to: 4
+[00:59:01.854084651]: Setting (Flatfile) WEEKLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 to: 8
+[00:59:01.854156003]: Setting (Flatfile) MONTHLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 to: 304
+[00:59:01.854193694]: Setting (Flatfile) TOTAL_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 to: 304
+[00:59:01.920249169]: Adding (MySQL) MONTHLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 time: 4 minutes
+[00:59:01.920541478]: Adding (MySQL) DAILY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 time: 4 minutes
+[00:59:01.920976738]: Adding (MySQL) WEEKLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 time: 4 minutes
+[00:59:01.925027914]: Adding (MySQL) TOTAL_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 time: 4 minutes
+[19:54:35.239351317]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 45
+[19:54:35.287027625]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 60
+[19:54:35.287081577]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1083
+[19:54:35.287140695]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1083
+[19:54:35.287972305]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[19:54:35.288145169]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[19:54:35.288307241]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[19:54:35.288870782]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[19:59:35.238304748]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 50
+[19:59:35.238395656]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 65
+[19:59:35.238435319]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1088
+[19:59:35.238469575]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1088
+[19:59:35.288085736]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[19:59:35.288085715]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[19:59:35.288085583]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[19:59:35.28835287]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:04:35.238721974]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 55
+[20:04:35.238816473]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 70
+[20:04:35.238860633]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1093
+[20:04:35.238907601]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1093
+[20:04:35.288091191]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:04:35.288091162]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:04:35.288091185]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:04:35.288388088]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:09:35.23839424]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 60
+[20:09:35.23852133]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 75
+[20:09:35.238570664]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1098
+[20:09:35.238607754]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1098
+[20:09:35.288078879]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:09:35.28807903]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:09:35.288079023]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:09:35.288499781]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:14:35.238528663]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 65
+[20:14:35.238655254]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 80
+[20:14:35.238715415]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1103
+[20:14:35.238750807]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1103
+[20:14:35.287950673]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:14:35.287950698]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:14:35.287950686]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:14:35.288193211]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:19:35.238318793]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 70
+[20:19:35.238412681]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 85
+[20:19:35.238452827]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1108
+[20:19:35.238485188]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1108
+[20:19:35.288078947]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:19:35.28807938]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:19:35.288312265]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:19:35.288079095]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:24:35.238366322]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 75
+[20:24:35.238455005]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 90
+[20:24:35.238492826]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1113
+[20:24:35.238525021]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1113
+[20:24:35.288104626]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:24:35.288104622]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:24:35.288107615]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:24:35.28901088]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:29:35.23836915]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 80
+[20:29:35.238509247]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 95
+[20:29:35.238550158]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1118
+[20:29:35.238588838]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1118
+[20:29:35.288107893]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:29:35.288097936]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:29:35.28811007]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:29:35.288348196]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:34:35.238362614]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 85
+[20:34:35.238496823]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 100
+[20:34:35.23853159]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1123
+[20:34:35.238564807]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1123
+[20:34:35.288142068]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:34:35.288099588]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:34:35.288099755]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:34:35.288099739]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:22:31.338320816]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 90
+[22:22:31.338421416]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 105
+[22:22:31.338456261]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1128
+[22:22:31.338485984]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1128
+[22:22:31.388089955]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:22:31.38808995]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:22:31.388483357]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:22:31.388362573]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:27:31.342558445]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 95
+[22:27:31.342686994]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 110
+[22:27:31.342809111]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1133
+[22:27:31.342859502]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1133
+[22:27:31.388017791]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:27:31.388017626]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:27:31.388065341]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:27:31.388017795]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:32:31.338403709]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 100
+[22:32:31.338486838]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 115
+[22:32:31.338519608]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1138
+[22:32:31.338545994]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1138
+[22:32:31.388100891]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:32:31.388113169]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:32:31.388339884]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:32:31.389019886]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:37:31.439242838]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 105
+[22:37:31.439327443]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 120
+[22:37:31.439359409]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1143
+[22:37:31.439389145]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1143
+[22:37:31.447092115]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:37:31.447092106]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:37:31.447270743]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:37:31.447918427]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:42:31.33820653]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 110
+[22:42:31.338347201]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 125
+[22:42:31.33837935]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1148
+[22:42:31.338424199]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1148
+[22:42:31.388080929]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:42:31.388063298]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:42:31.388063315]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:42:31.388065552]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:47:31.374680012]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 115
+[22:47:31.374773394]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 130
+[22:47:31.374829341]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1153
+[22:47:31.374869809]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1153
+[22:47:31.394097679]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:47:31.394097718]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:47:31.394173836]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:47:31.394322368]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:52:31.338184338]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 120
+[22:52:31.338269524]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 135
+[22:52:31.33833897]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1158
+[22:52:31.33836921]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1158
+[22:52:31.38805708]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:52:31.388056945]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:52:31.38829822]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:52:31.38813104]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:57:31.346255266]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 125
+[22:57:31.34644061]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 140
+[22:57:31.346498021]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1163
+[22:57:31.346546716]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1163
+[22:57:31.387917955]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:57:31.387932817]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:57:31.387920965]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:57:31.387944949]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:02:31.339417129]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 130
+[23:02:31.339516879]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 145
+[23:02:31.339546196]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1168
+[23:02:31.339571581]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1168
+[23:02:31.388004428]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:02:31.38800459]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:02:31.388004582]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:02:31.388969007]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:07:31.338175044]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 135
+[23:07:31.338263012]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 150
+[23:07:31.338291874]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1173
+[23:07:31.338356365]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1173
+[23:07:31.388055162]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:07:31.388046243]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:07:31.388046236]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:07:31.388262467]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:12:31.338145928]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 140
+[23:12:31.33822747]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 155
+[23:12:31.338255457]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1178
+[23:12:31.338305779]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1178
+[23:12:31.388105595]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:12:31.388105578]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:12:31.388389002]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:12:31.388105598]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:17:31.338126648]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 145
+[23:17:31.3382562]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 160
+[23:17:31.338303889]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1183
+[23:17:31.338327638]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1183
+[23:17:31.388035094]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:17:31.3880352]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:17:31.388097767]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:17:31.388270713]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:22:31.338217146]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 150
+[23:22:31.338293789]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 165
+[23:22:31.338320057]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1188
+[23:22:31.338343189]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1188
+[23:22:31.387964106]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:22:31.387964151]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:22:31.387964123]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:22:31.388222579]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:27:31.338214343]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 155
+[23:27:31.3382951]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 170
+[23:27:31.33832476]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1193
+[23:27:31.338347859]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1193
+[23:27:31.388078356]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:27:31.388078349]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:27:31.388078215]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:27:31.388402348]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:32:31.338226077]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 160
+[23:32:31.33837121]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 175
+[23:32:31.338401915]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1198
+[23:32:31.338425268]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1198
+[23:32:31.388065729]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:32:31.388063709]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:32:31.388063941]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:32:31.388718648]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:37:31.338218902]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 165
+[23:37:31.338313852]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 180
+[23:37:31.338346029]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1203
+[23:37:31.338369284]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1203
+[23:37:31.38808155]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:37:31.38808138]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:37:31.388291206]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:37:31.388081546]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:42:31.338315318]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 170
+[23:42:31.338394883]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 185
+[23:42:31.338421393]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1208
+[23:42:31.338474513]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1208
+[23:42:31.38799412]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:42:31.387994126]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:42:31.387993914]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:42:31.388256657]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:47:31.338302553]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 175
+[23:47:31.338420063]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 190
+[23:47:31.338449943]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1213
+[23:47:31.33847326]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1213
+[23:47:31.387942768]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:47:31.38794275]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:47:31.387942763]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:47:31.388575464]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:52:31.338225674]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 180
+[23:52:31.338307998]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 195
+[23:52:31.33833656]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1218
+[23:52:31.338360275]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1218
+[23:52:31.387932551]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:52:31.387932321]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:52:31.388016664]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:52:31.388018546]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:57:31.343924684]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 185
+[23:57:31.344004546]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 200
+[23:57:31.344030131]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1223
+[23:57:31.344051822]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1223
+[23:57:31.388110049]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:57:31.388110033]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:57:31.388333357]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[23:57:31.388110027]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:02:31.338259658]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 190
+[00:02:31.338341948]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 205
+[00:02:31.338370502]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1228
+[00:02:31.33839369]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1228
+[00:02:31.388062131]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:02:31.388062274]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:02:31.388149949]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:02:31.388806026]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:07:31.338256202]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 195
+[00:07:31.338349239]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 210
+[00:07:31.338376222]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1233
+[00:07:31.338401389]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1233
+[00:07:31.388097544]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:07:31.388097544]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:07:31.38831387]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:07:31.388977484]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:09:46.239396972]: Resetting daily time file
+[00:12:31.338115728]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 5
+[00:12:31.338197359]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 215
+[00:12:31.338222151]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1238
+[00:12:31.338243508]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1238
+[00:12:31.388079729]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:12:31.388079704]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:12:31.388079783]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:12:31.388809174]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:16:25.000495805]: Setting (Flatfile) DAILY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 to: 2
+[00:16:25.000579494]: Setting (Flatfile) WEEKLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 to: 10
+[00:16:25.000607017]: Setting (Flatfile) MONTHLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 to: 306
+[00:16:25.000628431]: Setting (Flatfile) TOTAL_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 to: 306
+[00:16:25.058968307]: Adding (MySQL) DAILY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 time: 2 minutes
+[00:16:25.059172712]: Adding (MySQL) WEEKLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 time: 2 minutes
+[00:16:25.059397345]: Adding (MySQL) MONTHLY_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 time: 2 minutes
+[00:16:25.060693442]: Adding (MySQL) TOTAL_TIME of 356e0c41-2383-422f-a1da-50bbb7768b07 time: 2 minutes
+[00:17:31.361739525]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 10
+[00:17:31.36194991]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 220
+[00:17:31.362028354]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1243
+[00:17:31.362089547]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1243
+[00:17:31.391567723]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:17:31.391507216]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:17:31.391507556]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:17:31.392681285]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:22:31.344051424]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 15
+[00:22:31.344166945]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 225
+[00:22:31.344278663]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1248
+[00:22:31.344304295]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1248
+[00:22:31.38812588]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:22:31.388093877]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:22:31.388314257]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:22:31.388093868]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:27:31.350853627]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 20
+[00:27:31.350946274]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 230
+[00:27:31.35097144]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1253
+[00:27:31.350988711]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1253
+[00:27:31.388095183]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:27:31.388095167]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:27:31.388157589]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:27:31.388640157]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:32:31.338331928]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 25
+[00:32:31.338409738]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 235
+[00:32:31.33843334]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1258
+[00:32:31.338452256]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1258
+[00:32:31.388083154]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:32:31.388080948]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:32:31.388399807]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:32:31.388080791]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:37:31.338177163]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 30
+[00:37:31.338257957]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 240
+[00:37:31.338290365]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1263
+[00:37:31.338306729]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1263
+[00:37:31.388102482]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:37:31.388102487]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:37:31.388591368]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:37:31.388857953]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:42:31.344667184]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 35
+[00:42:31.344740991]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 245
+[00:42:31.344763372]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1268
+[00:42:31.344779727]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1268
+[00:42:31.388073615]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:42:31.38807373]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:42:31.388077947]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:42:31.388476434]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:47:31.338173626]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 40
+[00:47:31.338250504]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 250
+[00:47:31.338273081]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1273
+[00:47:31.338289602]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1273
+[00:47:31.387929393]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:47:31.387929333]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:47:31.387929399]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:47:31.388253423]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:52:31.338177525]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 45
+[00:52:31.338250272]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 255
+[00:52:31.33827123]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1278
+[00:52:31.338292119]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1278
+[00:52:31.388084757]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:52:31.388084745]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:52:31.388084583]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:52:31.388084749]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:57:31.338083916]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 50
+[00:57:31.338165714]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 260
+[00:57:31.338188547]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1283
+[00:57:31.338204693]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1283
+[00:57:31.38809125]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:57:31.388091167]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:57:31.388091244]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[00:57:31.388892346]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[01:02:31.33826639]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 55
+[01:02:31.338338758]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 265
+[01:02:31.338358925]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1288
+[01:02:31.338374434]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1288
+[01:02:31.388106399]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[01:02:31.388106388]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[01:02:31.388166042]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[01:02:31.388303083]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[01:07:31.338280415]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 60
+[01:07:31.338354428]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 270
+[01:07:31.338375484]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1293
+[01:07:31.338391618]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1293
+[01:07:31.388104201]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[01:07:31.388104181]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[01:07:31.388104204]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[01:07:31.388338137]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[01:09:43.946619315]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 62
+[01:09:43.946708769]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 272
+[01:09:43.946746006]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1295
+[01:09:43.946761067]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1295
+[01:09:44.002834951]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 2 minutes
+[01:09:44.002877179]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 2 minutes
+[01:09:44.003398351]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 2 minutes
+[01:09:44.003512698]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 2 minutes
+[20:23:21.588139793]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 67
+[20:23:21.58841468]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 277
+[20:23:21.588443758]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1300
+[20:23:21.588460861]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1300
+[20:23:21.637938657]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:23:21.637943631]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:23:21.637969746]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:23:21.638253735]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:28:21.588207057]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 72
+[20:28:21.588277869]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 282
+[20:28:21.588299527]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1305
+[20:28:21.588316724]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1305
+[20:28:21.63796591]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:28:21.637965919]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:28:21.637965923]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:28:21.638056232]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:33:21.588406336]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 77
+[20:33:21.588592422]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 287
+[20:33:21.588667313]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1310
+[20:33:21.588720354]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1310
+[20:33:21.638001089]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:33:21.637999184]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:33:21.638144589]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:33:21.638038159]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:38:21.588061844]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 82
+[20:38:21.588131767]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 292
+[20:38:21.588161205]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1315
+[20:38:21.588178317]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1315
+[20:38:21.638034891]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:38:21.638034895]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:38:21.638270513]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:38:21.638876655]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:43:21.589513227]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 87
+[20:43:21.597309776]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 297
+[20:43:21.597374842]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1320
+[20:43:21.597415006]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1320
+[20:43:21.638048269]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:43:21.63810831]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:43:21.638058895]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:43:21.638137699]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:48:22.616202969]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 92
+[20:48:22.616268767]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 302
+[20:48:22.616303453]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1325
+[20:48:22.616319551]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1325
+[20:48:22.61884848]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:48:22.619469361]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:48:22.619959614]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:48:22.629528848]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:53:21.588040448]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 97
+[20:53:21.588130223]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 307
+[20:53:21.588150302]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1330
+[20:53:21.588163171]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1330
+[20:53:21.6379889]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:53:21.637988906]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:53:21.637988912]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:53:21.638328963]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:58:21.588429694]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 102
+[20:58:21.588507013]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 312
+[20:58:21.588523905]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1335
+[20:58:21.588554465]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1335
+[20:58:21.637978952]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:58:21.637978764]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:58:21.638044453]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[20:58:21.637981346]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:03:21.588260461]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 107
+[21:03:21.5883463]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 317
+[21:03:21.588373941]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1340
+[21:03:21.588394569]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1340
+[21:03:21.638146902]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:03:21.638163072]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:03:21.638144045]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:03:21.638773137]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:08:21.588377729]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 112
+[21:08:21.588458395]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 322
+[21:08:21.588475689]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1345
+[21:08:21.588488677]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1345
+[21:08:21.588824355]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:08:21.589541083]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:08:21.590051068]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:08:21.591226965]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:13:21.588273368]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 117
+[21:13:21.588332913]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 327
+[21:13:21.588352889]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1350
+[21:13:21.588367809]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1350
+[21:13:21.638089139]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:13:21.63808912]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:13:21.638089143]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:13:21.638330316]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:18:21.588690148]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 122
+[21:18:21.588817257]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 332
+[21:18:21.588860596]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1355
+[21:18:21.588896983]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1355
+[21:18:21.63808109]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:18:21.638081119]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:18:21.638081627]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:18:21.638603348]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:23:21.588202667]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 127
+[21:23:21.588264582]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 337
+[21:23:21.588280213]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1360
+[21:23:21.588292836]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1360
+[21:23:21.638054553]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:23:21.638054536]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:23:21.638233154]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:23:21.638931764]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:32:41.188155074]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 132
+[21:32:41.188257168]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 342
+[21:32:41.188297052]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1365
+[21:32:41.18833099]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1365
+[21:32:41.237983926]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:32:41.238078011]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:32:41.238019244]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:32:41.238008692]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:37:41.188112646]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 137
+[21:37:41.188179308]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 347
+[21:37:41.188196963]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1370
+[21:37:41.188232344]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1370
+[21:37:41.237911095]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:37:41.2379111]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:37:41.237977939]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:37:41.237925353]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:42:41.188187826]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 142
+[21:42:41.188260729]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 352
+[21:42:41.188277367]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1375
+[21:42:41.188289794]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1375
+[21:42:41.237917185]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:42:41.237917281]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:42:41.23807756]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:42:41.238171417]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:45:04.909199615]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 144
+[21:45:04.909264176]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 354
+[21:45:04.909278702]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1377
+[21:45:04.909300229]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1377
+[21:45:04.966557119]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 2 minutes
+[21:45:04.966557057]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 2 minutes
+[21:45:04.966780283]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 2 minutes
+[21:45:04.966872754]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 2 minutes
+[21:59:43.288109299]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 149
+[21:59:43.288214019]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 359
+[21:59:43.288238306]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1382
+[21:59:43.288264357]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1382
+[21:59:43.33806954]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:59:43.338069532]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:59:43.338144125]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[21:59:43.338069553]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:04:43.288176705]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 154
+[22:04:43.28828938]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 364
+[22:04:43.288325407]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1387
+[22:04:43.288354256]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1387
+[22:04:43.338092397]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:04:43.338150219]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:04:43.338165561]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:04:43.33843425]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:09:43.288374518]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 159
+[22:09:43.296291292]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 369
+[22:09:43.296375492]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1392
+[22:09:43.296408908]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1392
+[22:09:43.338152052]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:09:43.33819435]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:09:43.338315222]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:09:43.338495255]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 5 minutes
+[22:14:06.902423078]: Setting (Flatfile) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 163
+[22:14:06.902495076]: Setting (Flatfile) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 373
+[22:14:06.902521167]: Setting (Flatfile) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1396
+[22:14:06.902549638]: Setting (Flatfile) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d to: 1396
+[22:14:06.96201375]: Adding (MySQL) DAILY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 4 minutes
+[22:14:06.962013602]: Adding (MySQL) WEEKLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 4 minutes
+[22:14:06.962348759]: Adding (MySQL) MONTHLY_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 4 minutes
+[22:14:06.96248102]: Adding (MySQL) TOTAL_TIME of 5d10cadf-5c22-4f20-8a44-70fee6e6209d time: 4 minutes
+[00:09:46.28850815]: Resetting daily time file

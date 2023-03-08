@@ -1,0 +1,6 @@
+INFO: 'PLACEHOLDERS: <player> Players Name, <killer> Killers Name, <weapon> Weapons
+  Name, <deathdate> the death time'
+HeadName: '&e<player>'
+LoreLine1: '&eMurderer: &6<killer>'
+LoreLine2: '&eKilled with: &6<weapon>'
+LoreLine3: '&eDate: &6<deathdate>'

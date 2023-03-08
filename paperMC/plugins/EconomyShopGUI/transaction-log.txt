@@ -1,0 +1,111 @@
+[2023-01-15 18:53:37] - Cowbraaa bought 1 x Polished Blackstone Brick Stairs(Blocks.23) for €0.79 with the buy screen.
+[2023-01-15 18:54:24] - Cowbraaa bought 2 x Blackstone(Blocks.20) for €1.50 with the buy screen.
+[2023-01-16 16:16:34] - Cowbraaa bought 1 x Enchanted Book(Enchanting.1) for €160 with the buy screen.
+[2023-01-16 16:50:48] - Cowbraaa bought 1 x Chain(Decoration.1) for €26.71 with the buy screen.
+[2023-01-16 16:50:58] - Cowbraaa sold 1 x Chain(Decoration.1) for €6.68 with the sell screen.
+[2023-01-16 16:53:55] - [Paysan] Cowbraaa sold 1x Vine(Decoration.81) for €1.75 with the sell all command.
+[2023-01-17 00:17:06] - THOM80160 bought 64 x Fire Coral(Decoration.45) for €320 with the buy stacks screen.
+[2023-01-17 00:17:15] - THOM80160 bought 1 x Orange Candle(Decoration.18) for €12.30 with the buy screen.
+[2023-01-17 00:44:06] - THOM80160 bought 5 x Bubble Coral Fan(Decoration.29) for €15 with the buy screen.
+[2023-01-17 00:51:58] - THOM80160 bought 3 x Spore Blossom(Decoration.6) for €10.50 with the buy screen.
+[2023-01-17 00:52:25] - THOM80160 bought 3 x Gold Ingot(Ores.14) for €94.50 with the buy screen.
+[2023-01-17 00:52:41] - THOM80160 bought 3 x Gold Ingot(Ores.14) for €94.50 with the buy screen.
+[2023-01-17 00:53:23] - THOM80160 bought 3 x Turtle Egg(Miscellaneous.37) for €45 with the buy screen.
+[2023-01-17 00:53:38] - THOM80160 bought 1 x Axolotl Bucket(Miscellaneous.2) for €73.26 with the buy screen.
+[2023-01-17 01:50:38] - THOM80160 bought 6 x Gold Ingot(Ores.14) for €189 with the buy screen.
+[2023-01-17 01:56:03] - Cowbraaa bought 1 x Ender Chest(Miscellaneous.8) for €273.12 with the buy screen.
+[2023-01-17 01:56:13] - Cowbraaa bought 1 x Totem Of Undying(Miscellaneous.34) for €100 with the buy screen.
+[2023-01-17 02:07:24] - THOM80160 bought 1 x Gold Ingot(Ores.14) for €31.50 with the buy screen.
+[2023-01-17 02:13:54] - THOM80160 bought 6 x Iron Ingot(Ores.16) for €126 with the buy screen.
+[2023-01-17 03:02:21] - THOM80160 bought 10 x Iron Ingot(Ores.16) for €210 with the buy screen.
+[2023-01-17 03:02:47] - Cowbraaa bought 64 x White Concrete(Blocks.45) for €512.64 with the buy screen.
+[2023-01-17 03:38:48] - THOM80160 bought 1 x Verdant Froglight(Decoration.66) for €6 with the buy screen.
+[2023-01-17 03:39:40] - THOM80160 bought 3 x Verdant Froglight(Decoration.66) for €18 with the buy screen.
+[2023-01-17 03:40:15] - THOM80160 bought 1 x Verdant Froglight(Decoration.66) for €6 with the buy screen.
+[2023-01-17 03:41:26] - THOM80160 bought 1 x Sea Lantern(Decoration.62) for €66.15 with the buy screen.
+[2023-01-17 03:41:44] - THOM80160 bought 1 x Pearlescent Froglight(Decoration.65) for €6 with the buy screen.
+[2023-01-17 03:41:48] - THOM80160 bought 1 x Ochre Froglight(Decoration.64) for €6 with the buy screen.
+[2023-01-17 03:42:30] - THOM80160 bought 2 x Verdant Froglight(Decoration.66) for €12 with the buy screen.
+[2023-01-17 03:42:34] - THOM80160 bought 3 x Pearlescent Froglight(Decoration.65) for €18 with the buy screen.
+[2023-01-17 03:46:22] - THOM80160 bought 1 x Verdant Froglight(Decoration.66) for €6 with the buy screen.
+[2023-01-17 03:51:54] - THOM80160 bought 2 x Flowering Azalea(Decoration.74) for €6 with the buy screen.
+[2023-01-17 03:53:01] - THOM80160 bought 1 x Pearlescent Froglight(Decoration.65) for €6 with the buy screen.
+[2023-01-19 22:43:53] - Louloudinette bought 5 x Lectern(Workstations.8) for €621.35 with the buy screen.
+[2023-01-19 22:45:50] - Louloudinette bought 8 x Shulker Shell(Miscellaneous.28) for €56 with the buy screen.
+[2023-01-19 22:53:08] - Cowbraaa bought 1 x Enchanted Book(Enchanting.10) for €926.10 with the buy screen.
+[2023-01-19 22:53:18] - Cowbraaa bought 1 x Enchanted Book(Enchanting.15) for €200 with the buy screen.
+[2023-01-19 22:53:31] - Cowbraaa bought 1 x Enchanted Book(Enchanting.11) for €160 with the buy screen.
+[2023-01-19 22:53:46] - Cowbraaa bought 1 x Enchanted Book(Enchanting.10) for €926.10 with the buy screen.
+[2023-01-19 22:54:00] - Cowbraaa bought 1 x Enchanted Book(Enchanting.37) for €882 with the buy screen.
+[2023-01-19 22:54:07] - Cowbraaa bought 3 x Enchanted Book(Enchanting.37) for €2,646 with the buy screen.
+[2023-01-19 22:54:18] - Cowbraaa bought 4 x Enchanted Book(Enchanting.38) for €1,764 with the buy screen.
+[2023-01-19 22:54:25] - Cowbraaa bought 2 x Enchanted Book(Enchanting.25) for €1,852.20 with the buy screen.
+[2023-01-19 22:54:28] - Cowbraaa bought 1 x Enchanted Book(Enchanting.25) for €926.10 with the buy screen.
+[2023-01-19 22:54:28] - Cowbraaa bought 1 x Enchanted Book(Enchanting.25) for €926.10 with the buy screen.
+[2023-01-19 22:54:36] - Cowbraaa bought 3 x Enchanted Book(Enchanting.24) for €2,917.23 with the buy screen.
+[2023-01-19 22:54:49] - Cowbraaa bought 1 x Enchanted Book(Enchanting.17) for €705.60 with the buy screen.
+[2023-01-19 22:54:49] - Cowbraaa bought 1 x Enchanted Book(Enchanting.17) for €705.60 with the buy screen.
+[2023-01-19 22:56:58] - Louloudinette bought 1 x Elytra(Miscellaneous.7) for €2,415.20 with the buy screen.
+[2023-01-19 22:57:24] - Louloudinette bought 5 x Ancient Debris(Ores.3) for €2,645 with the buy screen.
+[2023-01-19 23:04:12] - Cowbraaa bought 1 x Diamond(Ores.9) for €840 with the buy screen.
+[2023-01-19 23:04:33] - Cowbraaa bought 33 x Observer(Redstone.11) for €1,651.32 with the buy screen.
+[2023-01-19 23:04:40] - Cowbraaa bought 64 x Sticky Piston(Redstone.22) for €2,536.32 with the buy screen.
+[2023-01-19 23:05:04] - Cowbraaa bought 1 x Elytra(Miscellaneous.7) for €2,415.20 with the buy screen.
+[2023-01-19 23:05:45] - Louloudinette bought 8 x Shulker Shell(Miscellaneous.28) for €56 with the buy screen.
+[2023-01-19 23:05:47] - Cowbraaa bought 64 x Shulker Shell(Miscellaneous.28) for €448 with the buy screen.
+[2023-01-19 23:06:00] - Cowbraaa bought 17 x Ender Eye(Miscellaneous.9) for €171.87 with the buy screen.
+[2023-01-19 23:06:10] - Cowbraaa bought 1 x Nether Star(Miscellaneous.21) for €1,400 with the buy screen.
+[2023-01-19 23:06:17] - Cowbraaa bought 1 x Glow Ink Sac(Miscellaneous.11) for €5.50 with the buy screen.
+[2023-01-19 23:06:22] - Cowbraaa bought 1 x Trident(Miscellaneous.35) for €180 with the buy screen.
+[2023-01-19 23:07:09] - Louloudinette bought 1 x Potato(Farming.20) for €5 with the buy screen.
+[2023-01-19 23:08:18] - Louloudinette bought 16 x Slime Block(Blocks.9) for €756 with the buy screen.
+[2023-01-19 23:08:45] - Cowbraaa bought 1 x Beacon(Miscellaneous.52) for €1,601.52 with the buy screen.
+[2023-01-19 23:10:40] - Louloudinette bought 1 x Lead(Miscellaneous.15) for €17.33 with the buy screen.
+[2023-01-19 23:12:02] - Louloudinette bought 1 x Red Dye(Dyes.14) for €1.05 with the buy screen.
+[2023-01-19 23:12:07] - Louloudinette bought 1 x Black Dye(Dyes.1) for €5.25 with the buy screen.
+[2023-01-19 23:12:12] - Louloudinette bought 1 x Yellow Dye(Dyes.16) for €0.70 with the buy screen.
+[2023-01-19 23:12:16] - Louloudinette bought 1 x Green Dye(Dyes.6) for €0.11 with the buy screen.
+[2023-01-19 23:12:20] - Louloudinette bought 1 x Brown Dye(Dyes.3) for €6.30 with the buy screen.
+[2023-01-19 23:12:31] - Louloudinette bought 1 x Pink Dye(Dyes.12) for €1.05 with the buy screen.
+[2023-01-19 23:12:44] - Louloudinette bought 1 x Blue Dye(Dyes.2) for €1.05 with the buy screen.
+[2023-01-19 23:12:49] - Louloudinette bought 1 x White Dye(Dyes.15) for €1.63 with the buy screen.
+[2023-01-19 22:43:53] - Louloudinette bought 5 x Lectern(Workstations.8) for €621.35 with the buy screen.
+[2023-01-19 22:45:50] - Louloudinette bought 8 x Shulker Shell(Miscellaneous.28) for €56 with the buy screen.
+[2023-01-19 22:53:08] - Cowbraaa bought 1 x Enchanted Book(Enchanting.10) for €926.10 with the buy screen.
+[2023-01-19 22:53:18] - Cowbraaa bought 1 x Enchanted Book(Enchanting.15) for €200 with the buy screen.
+[2023-01-19 22:53:31] - Cowbraaa bought 1 x Enchanted Book(Enchanting.11) for €160 with the buy screen.
+[2023-01-19 22:53:46] - Cowbraaa bought 1 x Enchanted Book(Enchanting.10) for €926.10 with the buy screen.
+[2023-01-19 22:54:00] - Cowbraaa bought 1 x Enchanted Book(Enchanting.37) for €882 with the buy screen.
+[2023-01-19 22:54:07] - Cowbraaa bought 3 x Enchanted Book(Enchanting.37) for €2,646 with the buy screen.
+[2023-01-19 22:54:18] - Cowbraaa bought 4 x Enchanted Book(Enchanting.38) for €1,764 with the buy screen.
+[2023-01-19 22:54:25] - Cowbraaa bought 2 x Enchanted Book(Enchanting.25) for €1,852.20 with the buy screen.
+[2023-01-19 22:54:28] - Cowbraaa bought 1 x Enchanted Book(Enchanting.25) for €926.10 with the buy screen.
+[2023-01-19 22:54:28] - Cowbraaa bought 1 x Enchanted Book(Enchanting.25) for €926.10 with the buy screen.
+[2023-01-19 22:54:36] - Cowbraaa bought 3 x Enchanted Book(Enchanting.24) for €2,917.23 with the buy screen.
+[2023-01-19 22:54:49] - Cowbraaa bought 1 x Enchanted Book(Enchanting.17) for €705.60 with the buy screen.
+[2023-01-19 22:54:49] - Cowbraaa bought 1 x Enchanted Book(Enchanting.17) for €705.60 with the buy screen.
+[2023-01-19 22:56:58] - Louloudinette bought 1 x Elytra(Miscellaneous.7) for €2,415.20 with the buy screen.
+[2023-01-19 22:57:24] - Louloudinette bought 5 x Ancient Debris(Ores.3) for €2,645 with the buy screen.
+[2023-01-19 23:04:12] - Cowbraaa bought 1 x Diamond(Ores.9) for €840 with the buy screen.
+[2023-01-19 23:04:33] - Cowbraaa bought 33 x Observer(Redstone.11) for €1,651.32 with the buy screen.
+[2023-01-19 23:04:40] - Cowbraaa bought 64 x Sticky Piston(Redstone.22) for €2,536.32 with the buy screen.
+[2023-01-19 23:05:04] - Cowbraaa bought 1 x Elytra(Miscellaneous.7) for €2,415.20 with the buy screen.
+[2023-01-19 23:05:45] - Louloudinette bought 8 x Shulker Shell(Miscellaneous.28) for €56 with the buy screen.
+[2023-01-19 23:05:47] - Cowbraaa bought 64 x Shulker Shell(Miscellaneous.28) for €448 with the buy screen.
+[2023-01-19 23:06:00] - Cowbraaa bought 17 x Ender Eye(Miscellaneous.9) for €171.87 with the buy screen.
+[2023-01-19 23:06:10] - Cowbraaa bought 1 x Nether Star(Miscellaneous.21) for €1,400 with the buy screen.
+[2023-01-19 23:06:17] - Cowbraaa bought 1 x Glow Ink Sac(Miscellaneous.11) for €5.50 with the buy screen.
+[2023-01-19 23:06:22] - Cowbraaa bought 1 x Trident(Miscellaneous.35) for €180 with the buy screen.
+[2023-01-19 23:07:09] - Louloudinette bought 1 x Potato(Farming.20) for €5 with the buy screen.
+[2023-01-19 23:08:18] - Louloudinette bought 16 x Slime Block(Blocks.9) for €756 with the buy screen.
+[2023-01-19 23:08:45] - Cowbraaa bought 1 x Beacon(Miscellaneous.52) for €1,601.52 with the buy screen.
+[2023-01-19 23:10:40] - Louloudinette bought 1 x Lead(Miscellaneous.15) for €17.33 with the buy screen.
+[2023-01-19 23:12:02] - Louloudinette bought 1 x Red Dye(Dyes.14) for €1.05 with the buy screen.
+[2023-01-19 23:12:07] - Louloudinette bought 1 x Black Dye(Dyes.1) for €5.25 with the buy screen.
+[2023-01-19 23:12:12] - Louloudinette bought 1 x Yellow Dye(Dyes.16) for €0.70 with the buy screen.
+[2023-01-19 23:12:16] - Louloudinette bought 1 x Green Dye(Dyes.6) for €0.11 with the buy screen.
+[2023-01-19 23:12:20] - Louloudinette bought 1 x Brown Dye(Dyes.3) for €6.30 with the buy screen.
+[2023-01-19 23:12:31] - Louloudinette bought 1 x Pink Dye(Dyes.12) for €1.05 with the buy screen.
+[2023-01-19 23:12:44] - Louloudinette bought 1 x Blue Dye(Dyes.2) for €1.05 with the buy screen.
+[2023-01-19 23:12:49] - Louloudinette bought 1 x White Dye(Dyes.15) for €1.63 with the buy screen.
+[2023-01-20 00:59:38] - Louloudinette bought 10 x Leather(Farming.15) for €336 with the buy screen.
