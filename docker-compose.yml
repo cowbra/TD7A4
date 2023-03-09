@@ -3,7 +3,7 @@ services:
   db:
     image: mysql:latest
     volumes:
-      - /fast/containers/mariadb/minecraft:/var/lib/mysql
+      - ./mariadb/minecraft:/var/lib/mysql
     restart: always
     deploy:
       resources:
@@ -41,7 +41,7 @@ services:
     environment:
       MEMORYSIZE: "20G"
     volumes:
-      - "/fast/containers/minecraft:/data:rw"
+      - "./papermc:/data:rw"
     ports:
       - "25565:25565"
       - "8123:8123"
